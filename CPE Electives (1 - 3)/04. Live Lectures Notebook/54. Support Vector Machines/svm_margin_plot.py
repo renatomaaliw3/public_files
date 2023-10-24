@@ -1,5 +1,5 @@
-# CODE SOURCE IS DIRECTLY FROM DOCUMENTATION
-# https://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane.html
+# CODE SOURCE
+# Renato R. Maaliw III (January 2, 2021)
 
 import numpy as np
 import seaborn as sns
@@ -11,15 +11,18 @@ def plot_svm_boundary(model,X,y):
     y = y.values
     
     # Scatter Plot
+
     plt.scatter(X[:, 0], X[:, 1], c=y, s=30, cmap='seismic')
 
     
     # plot the decision function
+
     ax = plt.gca()
     xlim = ax.get_xlim()
     ylim = ax.get_ylim()
 
     # create grid to evaluate model
+
     xx = np.linspace(xlim[0], xlim[1], 30)
     yy = np.linspace(ylim[0], ylim[1], 30)
     YY, XX = np.meshgrid(yy, xx)
@@ -28,8 +31,7 @@ def plot_svm_boundary(model,X,y):
 
     # plot decision boundary and margins
 
-    ax.contour(XX, YY, Z, colors='k', levels=[-1, 0, 1], alpha=0.5,
-               linestyles=['--', '-', '--'])
+    ax.contour(XX, YY, Z, colors='k', levels=[-1, 0, 1], alpha=0.5, linestyles=['--', '-', '--'])
 
     # plot support vectors
 
