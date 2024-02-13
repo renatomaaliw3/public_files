@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Floats</title>
+    <style>
+
+      * {
+
+        box-sizing: border-box;
+
+      }
+
+      .clearfix::after,
+      .clearfix::before {
+
+        content: "";
+        display:  block;
+        clear: both;
+
+      }
+
+      .container {
+
+        width: 1000px;
+        padding: 10px;
+        background: red;
+        margin: 0 auto;
+
+      }
+
+      .el {
+
+        width: 196px;
+        height: 100px;
+        float: left;
+
+      }
+
+      .el--1 {
+
+        background: orange;
+
+      }
+
+      .el--2 {
+
+        background: magenta;
+
+      }
+
+      .el--3 {
+
+        background: green;
+
+      }
+
+      .el--4 {
+
+        background: yellow;
+
+      }
+
+      .el--5 {
+
+        background: brown;
+
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container clearfix">
+
+      <div class="el el--1">HTML</div>
+      <div class="el el--2">and</div>
+      <div class="el el--3">CSS</div>
+      <div class="el el--4">are</div>
+      <div class="el el--5">amazing</div>
+  
+    </div>
+  </body>
+</html>
