@@ -47,14 +47,14 @@
       #container-flex {
 
         background: black;
-        margin: 20px;
+      
 
       }
 
       #container-float > div {
 
-        float: left;
         width: 100px;
+        float: left;
 
       }
 
@@ -71,7 +71,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 10px;
 
       }
 
@@ -83,27 +82,26 @@
 
       #container-flex .el {
 
-        flex: 1 1 100px;
+        
 
       }
 
       #container-flex .el--1 {
 
-        align-self: flex-end;
-    
+       flex: 5;
+      
       }
 
       #container-flex .el--2 {
 
-        align-self: center;
-
+        flex: 3;
+      
       }
 
       #container-flex .el--3 {
 
-        height: 100px;
+        flex: 2;
         
-       
       }
      
     </style>
@@ -111,6 +109,7 @@
   <body>
 
     <h1> Float </h1>
+
     <div id="container-float" class="clearfix">
 
       <div class="el el--1">HTML</div>
@@ -123,6 +122,7 @@
     <br>
 
     <h1> Flex </h1>
+
     <div id="container-flex"> <!-- FLEX CONTAINER -->
 
       <div class="el el--1">HTML</div>
