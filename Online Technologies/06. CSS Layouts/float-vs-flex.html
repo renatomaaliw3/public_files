@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox</title>
+    <style>
+
+      *, *::before, *::after {
+
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+      }
+
+      .clearfix::after,
+      .clearfix::before {
+
+        content: "";
+        display: block;
+        clear: both;
+
+      }
+
+      .el--1 {
+
+        background-color: blueviolet;
+      }
+
+      .el--2 {
+
+        background-color: orangered;
+
+      }
+
+      .el--3 {
+
+        background-color: green;
+
+      }
+
+      /* FLOAT */
+
+      #container-float,
+      #container-flex {
+
+        background: black;
+        margin: 20px;
+
+      }
+
+      #container-float > div {
+
+        float: left;
+        width: 100px;
+
+      }
+
+      #container-float .el--3 {
+
+        height: 100px;
+
+      }
+
+      /* FLEX */
+
+      #container-flex {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+      }
+
+      #container-flex > div {
+
+        width: 100px;
+
+      }
+
+      #container-flex .el {
+
+        flex: 1 1 100px;
+
+      }
+
+      #container-flex .el--1 {
+
+        align-self: flex-end;
+    
+      }
+
+      #container-flex .el--2 {
+
+        align-self: center;
+
+      }
+
+      #container-flex .el--3 {
+
+        height: 100px;
+        
+       
+      }
+     
+    </style>
+  </head>
+  <body>
+
+    <h1> Float </h1>
+    <div id="container-float" class="clearfix">
+
+      <div class="el el--1">HTML</div>
+      <div class="el el--2">and</div>
+      <div class="el el--3">CSS</div>
+
+    </div>
+
+    <br>
+    <br>
+
+    <h1> Flex </h1>
+    <div id="container-flex"> <!-- FLEX CONTAINER -->
+
+      <div class="el el--1">HTML</div>
+      <div class="el el--2">and</div>
+      <div class="el el--3">CSS</div>
+
+    </div>
+
+  </body>
+</html>
