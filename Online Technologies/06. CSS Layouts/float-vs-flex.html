@@ -24,6 +24,15 @@
 
       }
 
+      .el {
+
+        width: 70px;
+        height: 70px;
+        padding: 5px;
+        text-align: center;
+
+      }
+
       .el--1 {
 
         background-color: blueviolet;
@@ -47,20 +56,24 @@
       #container-flex {
 
         background: black;
-      
+        
 
       }
 
-      #container-float > div {
+      .c-container {
 
-        width: 100px;
-        float: left;
+       
+      }
+
+      #container-float > .c-container > div {
+
+        
 
       }
 
       #container-float .el--3 {
 
-        height: 100px;
+        
 
       }
 
@@ -68,15 +81,13 @@
 
       #container-flex {
 
-        display: flex;
-        align-items: center;
-        justify-content: center;
+
 
       }
 
       #container-flex > div {
 
-        width: 100px;
+       
 
       }
 
@@ -88,19 +99,19 @@
 
       #container-flex .el--1 {
 
-       flex: 5;
+       
       
       }
 
       #container-flex .el--2 {
 
-        flex: 3;
+
       
       }
 
       #container-flex .el--3 {
 
-        flex: 2;
+        
         
       }
      
@@ -110,11 +121,13 @@
 
     <h1> Float </h1>
 
-    <div id="container-float" class="clearfix">
+    <div id="container-float"> <!-- you add a hack of 'clearfix' to recognize that there are contents inside -->
 
-      <div class="el el--1">HTML</div>
-      <div class="el el--2">and</div>
-      <div class="el el--3">CSS</div>
+      <div class="c-container">
+        <div class="el el--1"> Box 1 </div>
+        <div class="el el--2"> Box 2 </div>
+        <div class="el el--3"> Box 3 </div>
+      </div>
 
     </div>
 
@@ -125,9 +138,9 @@
 
     <div id="container-flex"> <!-- FLEX CONTAINER -->
 
-      <div class="el el--1">HTML</div>
-      <div class="el el--2">and</div>
-      <div class="el el--3">CSS</div>
+      <div class="el el--1"> Box 1 </div>
+      <div class="el el--2"> Box 2 </div>
+      <div class="el el--3"> Box 3 </div>
 
     </div>
 
