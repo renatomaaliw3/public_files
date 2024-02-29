@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title> HTML and HTM5 Forms </title>
+  </head>
+
+  <body>
+
+    <form action="#" method="post">
+  
+      <h1> Text Box </h1>
+      <input type="text" name="name" placeholder="Enter your name">
+
+      <h1> Password </h1>
+      <input type="password" name="password" placeholder="Enter your password">
+    
+      <h1> Submit </h1>
+      <input type="submit" value="Submit">
+
+      <h1> Button </h1>
+      <button type="button"> Button </button>
+
+      <h1> Radio Button </h1>
+
+      <input type="radio" name="gender" value="male"> Male
+      <input type="radio" name="gender" value="female"> Female
+
+      <h1> Check Box </h1>
+      <input type="checkbox" name="subscribe"> Subscribe to newsletter <br>
+      <input type="checkbox" name="agree"> Agree to Terms
+
+      <h1> File Input/Upload </h1>
+      <input type="file" name="document">
+
+      <h1> Text Area </h1>
+      <textarea name="message" rows="15" cols="50" placeholder="Enter your message"></textarea>
+
+      <h1> Dropdown </h1>
+      <select name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="mercedes">Mercedes</option>
+        <option value="audi">Audi</option>
+      </select>
+
+      <h1> Dropdown/Optgroup </h1>
+      <select name="cars">
+        <optgroup label="Swedish Cars">
+          <option value="volvo">Volvo</option>
+          <option value="saab">Saab</option>
+        </optgroup>
+        <optgroup label="German Cars">
+          <option value="mercedes">Mercedes</option>
+          <option value="audi">Audi</option>
+        </optgroup>
+      </select>
+
+      <h1> Fieldset and Label </h1>
+      <fieldset>
+        <legend>Personal Information:</legend>
+
+        <label for="name"> Name: </label> <input type="text" id="name"><br>
+        <label for="email"></label> Email: </label> <input type="text" id="email"><br>
+      </fieldset>
+
+      <h1> Data List </h1>
+      <input list="browsers" name="browser">
+      <datalist id="browsers">
+        <option value="Edge">
+        <option value="Firefox">
+        <option value="Chrome">
+        <option value="Opera">
+        <option value="Safari">
+      </datalist>
+
+      <hr>
+
+      <h1> HTML5 Form Elements </h1>
+
+      <h1> Email </h1>
+      <input type="email" name="email">
+
+      <h1> URL </h1>
+      <input type="url" name="homepage">
+
+      <h1> Number </h1>
+      <input type="number" name="quantity" min="1" max="5">
+
+      <h1> Range </h1>
+      <input type="range" name="volume" min="0" max="11">
+
+      <h1> Date </h1>
+      <input type="date" name="birthday">
+
+      <h1> Time </h1>
+      <input type="time" name="appt">
+
+      <h1> Color </h1>
+      <input type="color" name="favcolor">
+
+      <h1> Progress </h1>
+      <progress value="32" max="100"></progress>
+
+      <h1> Meter </h1>
+      <meter value="0.6">60%</meter>
+
+    </form>
+
+  </body>
+</html>
