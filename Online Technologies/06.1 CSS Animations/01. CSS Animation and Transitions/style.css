@@ -1,0 +1,103 @@
+/* style.css */
+
+/* Box Sizing & Round Corners */
+
+#box {
+
+    background: red;
+    height: 200px;
+    width: 200px;
+    color: white;
+    margin: 40px auto;
+    padding: 50px;
+    box-sizing: border-box;
+    border-radius: 50px;
+
+}
+
+#box2 {
+
+    position: relative;
+    background: blue;
+    width: 200px;
+    height: 200px;
+    color: white;
+
+    //transition: width 8s, height 2s, background 20s; /* property duration timing,  delay */
+    
+}
+
+#box2:hover {
+    
+    background: red;
+    width: 300px;
+    height: 300px;
+    
+}
+
+/* Animations & Transitions */
+
+@keyframes box {
+
+    from { border-radius: 40px; background-color: red; top: 0; left: 0; }
+    to   { border-radius: 100px; background-color: black; top: 100px; left: 100px; }
+
+}
+
+#animations #box {
+
+    position: relative;
+
+    /* Transform Properties */
+
+    //transform: translate(50px, 50px); /* translateX, translateY */
+    //transform: scale(1, 1); /* scaleX, scaleY */
+    //transform: rotate(45deg);
+    //transform: skewX(30deg);
+    //transform: skewY(45deg);
+    //transform-origin: bottom right;
+
+    //animation-name: box;
+    //animation-duration: 10s;
+    //animation-timing-function: linear; /* ease, ease-in, ease-out, ease-in-out, cubic-bezier(0.42, 0, 0.58, 1) */
+    //animation-delay: 2s;
+    //animation-iteration-count: infinite; /* specific number, or infinite */
+    //animation-direction: alternate; /* normal, reverse, alternate, alternate-reverse */
+    
+    //animation: box 10s linear 2s 3 alternate; /* name, duration, tf, delay, iteration, direction */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
