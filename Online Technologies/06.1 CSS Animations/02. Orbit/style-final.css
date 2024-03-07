@@ -70,7 +70,7 @@ html, body {
     background: radial-gradient(#f5c313, #ec7e08);
     box-shadow: 0 0 50px #f5c91a;
     
-    //animation: sunFire 4s infinite alternate;
+    animation: sunFire 4s infinite alternate;
 
 }
 
@@ -79,6 +79,7 @@ html, body {
     width: 600px;
     height: 700px;
     position: absolute;
+    //border: 1px solid red;
     z-index: 4;
     top: 50%;
     left: 50%;
@@ -87,7 +88,7 @@ html, body {
     
     border-radius: 100%;
 
-    //animation: spin 30s linear infinite;
+    animation: spin 36.5s linear infinite;
 }
 
 #earth {
@@ -97,7 +98,7 @@ html, body {
     left: 0;
     margin-top: -40px;
 
-    //animation: spin 30s linear infinite;
+    animation: spin 24s linear infinite;
 
 }
 
@@ -113,7 +114,7 @@ html, body {
     
     border-radius: 100%;
 
-    //animation: spin 4s linear infinite reverse;
+    animation: spin 7.8s linear infinite reverse;
 
 }
 

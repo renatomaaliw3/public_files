@@ -23,7 +23,7 @@
     height: 200px;
     color: white;
 
-    //transition: width 8s, height 2s, background 20s; /* property duration timing,  delay */
+    transition: width 8s, height 2s, background 20s; /* property duration timing,  delay */
     
 }
 
@@ -32,6 +32,8 @@
     background: red;
     width: 300px;
     height: 300px;
+
+    
     
 }
 
@@ -39,8 +41,16 @@
 
 @keyframes box {
 
-    from { border-radius: 40px; background-color: red; top: 0; left: 0; }
-    to   { border-radius: 100px; background-color: black; top: 100px; left: 100px; }
+    from { 
+        
+        border-radius: 40px; background-color: red; top: 0; left: 0; 
+    }
+    
+    to   { 
+        
+        border-radius: 100px; background-color: black; top: 100px; left: 100px; 
+    
+    }
 
 }
 
@@ -51,20 +61,20 @@
     /* Transform Properties */
 
     //transform: translate(50px, 50px); /* translateX, translateY */
-    //transform: scale(1, 1); /* scaleX, scaleY */
-    //transform: rotate(45deg);
-    //transform: skewX(30deg);
+    //transform: scale(1, 0.1); /* scaleX, scaleY */
+    //transform: rotate(450deg);
+    //transform: skewX(130deg);
     //transform: skewY(45deg);
-    //transform-origin: bottom right;
+    //transform-origin: 0 50%;
 
     //animation-name: box;
-    //animation-duration: 10s;
+    //animation-duration: 1s;
     //animation-timing-function: linear; /* ease, ease-in, ease-out, ease-in-out, cubic-bezier(0.42, 0, 0.58, 1) */
     //animation-delay: 2s;
     //animation-iteration-count: infinite; /* specific number, or infinite */
-    //animation-direction: alternate; /* normal, reverse, alternate, alternate-reverse */
+    //animation-direction: alternate-reverse; /* normal, reverse, alternate, alternate-reverse */
     
-    //animation: box 10s linear 2s 3 alternate; /* name, duration, tf, delay, iteration, direction */
+    animation: box 0.8s ease 0s infinite alternate; /* name, duration, tf, delay, iteration, direction */
 }
 
 
