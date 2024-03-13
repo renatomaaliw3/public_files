@@ -23,7 +23,7 @@
     height: 200px;
     color: white;
 
-    transition: width 8s, height 2s, background 20s; /* property duration timing,  delay */
+    //transition: width 8s, height 2s, background 20s; /* property duration timing,  delay */
     
 }
 
@@ -74,7 +74,7 @@
     //animation-iteration-count: infinite; /* specific number, or infinite */
     //animation-direction: alternate-reverse; /* normal, reverse, alternate, alternate-reverse */
     
-    animation: box 0.8s ease 0s infinite alternate; /* name, duration, tf, delay, iteration, direction */
+    //animation: box 0.8s ease 0s infinite alternate; /* name, duration, tf, delay, iteration, direction */
 }
 
 
