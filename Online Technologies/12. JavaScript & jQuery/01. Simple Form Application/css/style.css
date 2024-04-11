@@ -1,0 +1,85 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Here */
+
+#container {
+
+	width: 500px;
+	margin: 50px auto;
+
+}
+
+fieldset {
+
+	padding: 20px;
+
+}
+
+legend {
+
+	font-weight: bold;
+
+}
+
+form {
+
+	width: 400px;
+	margin: 0 auto;
+
+}
+
+.form-container {
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+label {
+
+	display: inline-block;
+	margin: 15px 0;
+
+}
+
+input, select {
+
+	padding: 5px;
+
+}
+
+label {
+
+	flex: 0 0 60px
+
+}
+
+input, select {
+
+	flex: 1;
+
+}

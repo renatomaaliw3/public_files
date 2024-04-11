@@ -1,0 +1,46 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Settings */
+
+#container {
+
+	padding: 20px;
+	width: 500px;
+	margin: 20px auto;
+
+}
+
+p {
+
+	margin: 20px 0;
+
+}
+
+.red {
+
+	color: red;
+
+}

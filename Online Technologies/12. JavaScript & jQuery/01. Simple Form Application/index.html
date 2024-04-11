@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title> Simple Form Application </title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+	
+	<div id="container">
+
+		<form action="#" id="rectangle">
+
+			<fieldset>
+
+				<legend> Rectangle - Area </legend>
+
+				<div class="form-container">
+
+					<label for="length"> Length </label>
+					<input type="number" id="length" min="1" placeholder = "Enter Length">
+
+				</div>
+				<div class="form-container">
+
+					<label for="width"> Width </label>
+					<input type="number" id="width" min="1" placeholder = "Enter Width">
+
+				</div>
+				<div class="form-container">
+
+					<label for="mode"> Mode </label>
+					<select id="mode">
+						<option value="Area"> Area </option>
+						<option value="Perimeter"> Perimeter </option>
+					</select>
+
+				</div>
+				<div class="form-container">
+
+					<label for="result"> Result </label>
+					<input type="text" id="result" disabled>
+
+				</div>
+				<div class="form-container">
+
+					<label for="compute"> &nbsp; </label>
+					<input type="button" id="compute" value="Compute">
+
+				</div>
+
+			</fieldset>
+
+		</form>
+
+	</div>
+
+</body>
+<!-- <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script> -->
+<script src="js/jquery.js"></script>
+<script src="js/main.js"></script>
+</html>
