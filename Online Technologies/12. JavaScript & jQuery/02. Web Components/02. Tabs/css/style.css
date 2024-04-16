@@ -1,0 +1,86 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Here */
+
+#container {
+
+	width: 800px;
+	margin: 50px auto;
+
+}
+
+.tabs {
+
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	overflow: hidden;
+
+}
+
+.tab-header {
+
+	display: flex;
+
+}
+
+.tab-item {
+
+	padding: 10px 20px;
+	cursor: pointer;
+	background-color: #f0f0f0;
+	border-right: 1px solid #ccc;
+
+}
+
+.tab-item:last-child {
+
+	border-right: none;
+	
+}
+
+.tab-item.active {
+
+	background-color: #ddd;
+
+}
+
+.tab-content {
+
+	padding: 20px;
+
+}
+
+h2 {
+
+	margin-bottom: 15px;
+	
+}
+
+.fa {
+
+	margin-left: 10px;
+
+}

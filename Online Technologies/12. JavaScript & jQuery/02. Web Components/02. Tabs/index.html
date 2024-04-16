@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title> Web Components - Tabs </title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+	
+	<div id="container">
+
+		<!-- Tab Component -->
+
+		<div class="tabs">
+
+			<div class="tab-header">
+
+					<div class="tab-item active" data-tab="tab1">Tab 1 <i class="fa fa-book"></i></div>
+					<div class="tab-item" data-tab="tab2">Tab 2 <i class="fa fa-bookmark"></i></div>
+					<div class="tab-item" data-tab="tab3">Tab 3 <i class="fa fa-database"></i></div>
+
+			</div>
+
+			<div class="tab-content" id="tab1">
+
+					<p>
+						
+						<h2> This is the content of Tab 1 </h2>
+
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. At, 
+						provident. Magni iste esse ea! Aspernatur nulla accusamus recusandae 
+						autem aperiam et, est inventore, quae quis magnam incidunt optio eligendi ratione?
+					
+					
+					</p>
+
+			</div>
+
+			<div class="tab-content" id="tab2" style="display: none;">
+
+				<p>
+						
+					<h2> This is the content of Tab 2 </h2>
+
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. At, 
+					provident. Magni iste esse ea! Aspernatur nulla accusamus recusandae 
+					autem aperiam et, est inventore, quae quis magnam incidunt optio eligendi ratione?
+				
+				
+				</p>
+
+			</div>
+
+			<div class="tab-content" id="tab3" style="display: none;">
+
+				<p>
+						
+					<h2> This is the content of Tab 3 </h2>
+
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. At, 
+					provident. Magni iste esse ea! Aspernatur nulla accusamus recusandae 
+					autem aperiam et, est inventore, quae quis magnam incidunt optio eligendi ratione?
+				
+				
+				</p>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</body>
+<!-- <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script> -->
+<script src="js/jquery.js"></script>
+<script src="js/main.js"></script>
+</html>
