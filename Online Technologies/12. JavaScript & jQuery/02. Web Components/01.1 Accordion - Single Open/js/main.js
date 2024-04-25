@@ -2,9 +2,9 @@ $(document).ready(function() {
 
   $('.accordion-title').on('click', function() {
 
-      var mode = 0;
+      var mode = 1;
 
-      if (mode == 1) {
+      if (mode == 0) {
 
         /* ALL OPEN */
 

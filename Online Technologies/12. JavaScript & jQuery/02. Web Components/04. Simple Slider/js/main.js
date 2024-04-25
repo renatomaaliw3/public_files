@@ -49,7 +49,7 @@ $(document).ready(function() {
           
       },
 
-      function() {
+      function() { //kapag wala yung mouse sa gallery container
 
           // Resume autoplay when mouse leaves the gallery
 

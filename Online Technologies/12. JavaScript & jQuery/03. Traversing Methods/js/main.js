@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  /* PARENT - CHILD TRAVERSAL */
+  /* 01. PARENT - CHILD TRAVERSAL */
 
   /* .parent() - get the direct parent of each element in the set of matched elements */
 
@@ -9,21 +9,21 @@ $(document).ready(function() {
 
   /* children() - get the immediate children of each element in the set of matched elements */
 
-  //$('.inner-container').children().css('color', 'white');
+  //$('.inner-container').children().css('color', 'green');
 
   /* find() - get all descendant elements of each element in the set of matched elements, filtered by a selector */
 
   //$('body').find('p').css('background', 'red');
-  //$('body').find('p > .span-1').css('background', 'yellow');
+  //$('body').find('.span-1, .span-2').css('background', 'yellow');
   //$('body').find('p').find('.span-1, .span-2').css('background', 'green');
 
   /* SIBLING TRAVERSAL */
 
   /* siblings() - get the siblings of each element in the set of matched elements */
 
-  //$('.section-1').siblings('p').css('background', 'red');
+  //$('.section-1').siblings().css('background', 'red');
   //$('h1').siblings().css('font-weight','bold');
-  //$('.section-1-p').siblings('h2').css('background', 'orange');
+  //('.section-1-p').siblings('h2').css('background', 'orange');
 
   /* next() - get the immediately following sibling of each element in the set of matched elements */
 
@@ -32,7 +32,7 @@ $(document).ready(function() {
 
   /* prev() - get the immediately preceding sibling of each element in the set of matched elements */
 
-  //$('.section-1-p').prev().css('background', 'red');
+  //$('.section-1-p').previous().css('background', 'red');
   //$('.image-01').prev().css('background', 'yellow');
 
   /* ANCESTOR - DESCENDANT TRAVERSAL */
@@ -56,18 +56,18 @@ $(document).ready(function() {
 
   /* .eq() - reduce the set of matched elements to the one at the specified index */
 
-  //$('#container-1 > .inner-container').find('p').eq(0).css('background', 'yellow');
+  //$('#container-1 > .inner-container').find('p').eq(1).css('background', 'yellow');
 
   /* ITERATION */
 
   /* .each() function() */
 
-  //$('.inner-container').each(function() {
+  $('.inner-container').each(function() {
 
     //$(this).find('h2').css('background', 'yellow');
     //$(this).children('p').first().css('background', 'yellow');
     //$(this).children('p').find('span').css('background', 'orange');
 
-  //});
+  });
 
 });
