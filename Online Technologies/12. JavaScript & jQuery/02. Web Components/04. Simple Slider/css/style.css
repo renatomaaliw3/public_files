@@ -1,0 +1,81 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Here */
+
+body {
+
+	padding-top: 20px;
+	font-family: Arial, sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 95vh;
+	margin: 0;
+
+}
+
+.gallery-container {
+
+	width: 90%;
+	max-width: 800px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.gallery {
+
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+
+}
+
+.gallery img {
+
+	width: 100%;
+	height: auto;
+	display: none;
+
+}
+
+.controls {
+
+	margin-top: 10px;
+
+}
+
+button {
+
+	min-width: 100px;
+	padding: 10px 20px;
+	font-size: 16px;
+	cursor: pointer;
+
+}

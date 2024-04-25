@@ -1,0 +1,69 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Here */
+
+#container {
+
+	width: 500px;
+	margin: 50px auto;
+
+}
+
+.accordion-item {
+
+	border-bottom: 1px solid #ddd;
+
+}
+
+.accordion-title {
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #f0f0f0;
+	padding: 10px;
+	cursor: pointer;
+
+}
+
+.accordion-content {
+
+	padding: 20px;
+	display: none;
+
+}
+
+.accordion-content p {
+
+	margin: 0;
+
+}
+
+.fa-plus {
+
+	color: gray;
+
+}
