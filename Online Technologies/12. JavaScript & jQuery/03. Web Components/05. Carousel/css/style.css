@@ -1,0 +1,67 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clear {
+
+	clear: both;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+/* CSS Here */
+
+body {
+
+  display: flex;
+	flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  perspective: 1500px;
+  background-color: #f0f0f0;
+
+}
+
+.carousel {
+
+  width: 350px;
+  height: 300px;
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(0deg);
+  transition: transform 1s;
+
+}
+
+.carousel-item {
+
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform-origin: center;
+  backface-visibility: hidden; /* Improves clarity during rotation */
+
+}
+
+.controls button {
+
+  padding: 10px 20px;
+  margin-top: 50px;
+
+}
