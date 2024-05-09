@@ -1,0 +1,103 @@
+*, *::before, *::after {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.clearfix::after,
+.clearfix::before {
+
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+body {
+
+	/* font-size: 62.5%; */
+	font-size: 100%;
+	line-height: 1.5;
+	font-family: 'Arial','sans-serif','sans';
+	
+}
+
+#wrapper {
+
+	margin: 50px auto;
+	padding:  30px;
+
+}
+
+form {
+
+	display: inline-block;
+	margin-bottom: 30px;
+	width: 450px;
+
+}
+
+form div {
+
+	margin-bottom: 12px;
+
+}
+
+fieldset {
+
+	padding: 15px;
+
+}
+
+legend {
+
+	display: inline-block;
+	padding: 10px;
+
+}
+
+form  div {
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 10px;
+	
+}
+
+label {
+
+	flex: 0 0 90px;
+
+}
+
+input[type="text"] {
+
+	padding: 4px 6px;
+	flex: 1.25;
+
+}
+
+input[type="submit"] {
+
+	padding: 4px 6px;
+	flex: 1;
+	align-self: flex-end;
+
+}
+
+table {
+
+	border-collapse: collapse;
+	margin-top: 30px;
+
+}
+
+td {
+
+	border:  1px solid black;
+	padding: 2px 4px;
+
+}

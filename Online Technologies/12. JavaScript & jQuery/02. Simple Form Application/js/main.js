@@ -41,5 +41,5 @@ $(document).ready(function() {
     $('legend').text(mode_);
 
   });
-
+  
 });
