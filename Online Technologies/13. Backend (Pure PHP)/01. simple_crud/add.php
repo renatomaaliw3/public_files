@@ -24,6 +24,4 @@
 	$stmt_prepare->execute();
 
 	header("Location: index.php");
-
-
 ?>

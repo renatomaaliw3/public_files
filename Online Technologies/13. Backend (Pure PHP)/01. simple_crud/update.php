@@ -1,15 +1,5 @@
-<?php include('connection.php'); ?>
-<!DOCTYPE html>
-<html>
-	<head>
-		<title> Simple CRUD Application </title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-<body>
-
-	<div id="wrapper">
-
-		<?php 
+<?php include('connection.php');?>
+<?php
 
 			$id = $_GET['id'];
 
@@ -22,7 +12,6 @@
 			$stmt->execute();
 
 			$result = $stmt->fetch(PDO::FETCH_ASSOC);
-
 
 			if (isset($_POST['update'])) {
 
@@ -40,28 +29,35 @@
 				$stmt->bindParam(':id', $id, PDO::PARAM_INT);
 
 				$stmt->execute();
-
-				header("Location: index.php");
-
+				header("Location:index.php");
+				
 			}
+?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Simple CRUD Application </title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+<body>
 
-		?>
-		
-		<form action="update.php?id=<?php echo $result['employeeid']; ?>" method="post">
+	<div id="wrapper">
+
+		<form action="update.php?id=<?php echo $result['employeeid'];?>" method="post">
 			
 			<fieldset>
 				<legend> Update Record </legend>
 				<div>
 					<label for="firstname"> First Name </label>
-					<input type="text" name="firstname" id="firstname" value="<?php echo $result['firstname']; ?>">
+					<input type="text" name="firstname" id="firstname" value="<?php echo $result['firstname'];?>">
 				</div>
 				<div>
 					<label for="lastname"> Last Name </label>
-					<input type="text" name="lastname" id="lastname" value="<?php echo $result['lastname']; ?>">
+					<input type="text" name="lastname" id="lastname" value="<?php echo $result['lastname'];?>">
 				</div>
 				<div>
 					<label for="department"> Department </label>
-					<input type="text" name="department" id="department" value="<?php echo $result['department']; ?>">
+					<input type="text" name="department" id="department" value="<?php echo $result['department'];?>">
 				</div>
 				<div>
 					<label for=""> &nbsp;</label>
@@ -112,11 +108,8 @@
 
 			}
 
-		
 		?>
-		
 	</div>
-
 </body>
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/main.js"></script>
