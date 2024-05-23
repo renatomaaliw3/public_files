@@ -1,42 +1,42 @@
-NAME_1,NAME_2,Location,Poverty_Incidence,Population_Growth,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Mayor,District
-Quezon,Agdangan,Agdangan,14,-0.14,Fifth Class Municipality,33.3311,12764,0.003,101754484.8,0.004,0.008,0.2533,Rhadam Aguilar,District 3
-Quezon,Alabat,Alabat,15.5,0.41,Fifth Class Municipality,33.5795,15936,0.004,15320573.46,0.001,0.005,0.1612,Jose Ramil Arquiza,District 4
-Quezon,Atimonan,Atimonan,6.1,0.27,First Class Municipality,35.2329,70698,0.018,352460694.9,0.015,0.033,1.1733,Rustico Joven Mendoza,District 4
-Quezon,Buenavista,Buenavista,24.9,0.77,Fourth Class Municipality,32.2751,31160,0.008,189065561.1,0.008,0.016,0.5229,Reynaldo Rosilla Jr.,District 3
-Quezon,Burdeos,Burdeos,22,0.69,Fourth Class Municipality,22.384,24644,0.006,2355905.26,0,0.007,0.1455,Freddie Aman,District 1
-Quezon,Calauag,Calauag,9.8,-0.39,First Class Municipality,32.8071,71809,0.019,321745927.9,0.014,0.032,1.0597,Rosalina Visorde,District 4
-Quezon,Candelaria,Candelaria,6.2,3.43,First Class Municipality,39.3266,137881,0.036,551658978.6,0.024,0.059,2.3242,Ogie Suayan,District 2
-Quezon,Catanauan,Catanauan,11.3,0.49,First Class Municipality,33.4852,72752,0.019,343799557,0.015,0.034,1.1218,Ramon Orfanel,District 3
-Quezon,Dolores,Dolores,6.3,2.52,Fourth Class Municipality,32.8201,32514,0.008,170425149,0.007,0.016,0.5153,Orlan Calayag,District 2
-Quezon,GeneralLuna,General Luna,18.4,-1.38,Fourth Class Municipality,34.118,24804,0.006,157495411.3,0.007,0.013,0.4469,Matt Florido,District 3
-Quezon,GeneralNakar,General Nakar,18.6,3.02,First Class Municipality,31.3747,34225,0.009,515045258.3,0.022,0.031,0.9663,Esee Ruzol,District 1
-Quezon,Guinayangan,Guinayangan,17,-0.52,Third Class Municipality,32.6547,45155,0.012,240124167.2,0.01,0.022,0.7184,Maden Isaac,District 4
-Quezon,Gumaca,Gumaca,7.7,-0.56,First Class Municipality,35.553,73877,0.019,339622238.5,0.015,0.034,1.1946,Webster Letargo,District 4
-Quezon,Infanta,Infanta,7.6,2.08,First Class Municipality,36.0496,69079,0.018,375606846.9,0.016,0.034,1.2185,Filipina Grace America,District 1
-Quezon,Jomalig,Jomalig,25.8,0.7,Fifth Class Municipality,21.5533,7417,0.002,92552576.24,0.004,0.006,0.1272,Nelmar Sarmiento,District 1
-Quezon,Lopez,Lopez,9.1,-0.11,First Class Municipality,36.6042,94657,0.025,446381605.1,0.019,0.044,1.5959,Rachel Ubana,District 4
-Quezon,Lucban,Lucban,4,0.65,Second Class Municipality,35.2748,51475,0.013,292098456,0.013,0.026,0.9101,Agustin Villaverde,District 1
-Quezon,LucenaCity,Lucena City,6.4,1.04,Highly Urbanized City,NA,NA,NA,NA,NA,NA,NA,Mark Alcala,District 2
-Quezon,Macalelon,Macalelon,19.2,-0.66,Fourth Class Municipality,28.9964,28188,0.007,167852736.2,0.007,0.014,0.4204,Artemio Mamburao,District 3
-Quezon,Mauban,Mauban,8,2.29,First Class Municipality,35.5231,71081,0.018,882511869.8,0.038,0.056,1.9928,Erwin Pastrana,District 1
-Quezon,Mulanay,Mulanay,21.1,0.95,First Class Municipality,35.2229,55576,0.014,324667899.7,0.014,0.028,0.9968,Aris Aguirre,District 3
-Quezon,PadreBurgos,Padre Burgos,8,0.95,Fourth Class Municipality,29.7873,22460,0.006,146595034.8,0.006,0.012,0.3604,Rav Uy Diokno,District 3
-Quezon,Pagbilao,Pagbilao,6.3,1.01,First Class Municipality,34.6268,78700,0.02,632512855.8,0.027,0.047,1.6378,Angelica Portes,District 1
-Quezon,Panukulan,Panukulan,22.3,-0.1,Fourth Class Municipality,28.9388,16376,0.004,3970320.65,0,0.004,0.1273,Alfred Rigor Mitra,District 1
-Quezon,Patnanungan,Patnanungan,24.1,0.63,Fifth Class Municipality,19.9007,14606,0.004,133319024.7,0.006,0.01,0.1891,Clara Larita,District 1
-Quezon,Perez,Perez,21.5,1.01,Fifth Class Municipality,31.2909,12767,0.003,109798274.3,0.005,0.008,0.2503,Morel Escalona,District 4
-Quezon,Pitogo,Pitogo,8.7,-0.2,Fourth Class Municipality,31.7593,22798,0.006,132484914,0.006,0.012,0.3684,Dexter Sayat,District 3
-Quezon,Plaridel,Plaridel,7.3,-1.6,Fifth Class Municipality,34.0969,10129,0.003,93003125.58,0.004,0.007,0.225,Jose Saavedra,District 4
-Quezon,Polillo,Polillo,10.7,0.9,Third Class Municipality,34.6822,31908,0.008,260169690.7,0.011,0.019,0.6694,Angelique Bosque,District 1
-Quezon,Quezon,Quezon,17,0.89,Fifth Class Municipality,35.1755,15886,0.004,120208099.6,0.005,0.009,0.3236,Juan Escolano,District 4
-Quezon,Real,Real,8.7,1.53,First Class Municipality,32.1632,38678,0.01,335258072.8,0.014,0.024,0.7816,Bing Aquino,District 1
-Quezon,Sampaloc,Sampaloc,12.6,-0.42,Fifth Class Municipality,41.4185,13907,0.004,129941359.2,0.006,0.009,0.3769,Gelo Devanadera,District 1
-Quezon,SanAndres,San Andres,20.7,0.97,Fourth Class Municipality,29.0999,37454,0.01,210085429.6,0.009,0.019,0.5442,Giovanne Lim,District 3
-Quezon,SanAntonio,San Antonio,16.5,1.48,Fourth Class Municipality,32.85,35891,0.009,179037820.9,0.008,0.017,0.5552,Ariel Wagan,District 2
-Quezon,SanFrancisco,San Francisco,24.2,0.21,Second Class Municipality,27.7425,62097,0.016,306347904.4,0.013,0.029,0.8073,Roming Edano,District 3
-Quezon,SanNarciso,San Narciso,23.2,1.1,Third Class Municipality,26.8546,48461,0.013,267603203.6,0.011,0.024,0.6418,Pobel Uy - Yap,District 3
-Quezon,Sariaya,Sariaya,6.3,1.76,First Class Municipality,38.1927,148980,0.039,647841347.8,0.028,0.066,2.5284,Marceng Gayeta,District 2
-Quezon,Tagkawayan,Tagkawayan,20.9,0.87,First Class Municipality,32.4277,54003,0.014,356457700.5,0.015,0.029,0.9469,Carlo Eleazar,District 4
-Quezon,TayabasCity,Tayabas City,6.3,2.59,Component City,32.9017,112658,0.029,1141193480,0.049,0.078,2.5598,Lovely Reynoso,District 1
-Quezon,Tiaong,Tiaong,6.8,1.35,First Class Municipality,32.8684,106265,0.028,445733433.7,0.019,0.047,1.5284,Vincent Arjay Mea,District 2
-Quezon,Unisan,Unisan,14.6,-1.15,Fourth Class Municipality,31.2918,25448,0.007,178884380,0.008,0.014,0.4443,Denand Adulta,District 3
+NAME_1,NAME_2,Location,Poverty_Incidence,Population_Growth,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Mayor,District,Economic Dynamism,Government Efficiency,Infrastructure,Resiliency,Innovation
+Quezon,Agdangan,Agdangan,14,-0.14,Fifth Class Municipality,33.3311,12764,0.003,101754484.8,0.004,0.008,0.2533,Rhadam Aguilar,District 3,4.6446,7.3486,4.3798,11.4137,5.5426
+Quezon,Alabat,Alabat,15.5,0.41,Fifth Class Municipality,33.5795,15936,0.004,15320573.46,0.001,0.005,0.1612,Jose Ramil Arquiza,District 4,4.24,8.2851,4.4077,11.6004,5.0463
+Quezon,Atimonan,Atimonan,6.1,0.27,First Class Municipality,35.2329,70698,0.018,352460694.9,0.015,0.033,1.1733,Rustico Joven Mendoza,District 4,3.5959,9.24,2.8269,11.2345,8.3315
+Quezon,Buenavista,Buenavista,24.9,0.77,Fourth Class Municipality,32.2751,31160,0.008,189065561.1,0.008,0.016,0.5229,Reynaldo Rosilla Jr.,District 3,3.235,7.6471,2.2266,11.8102,7.3562
+Quezon,Burdeos,Burdeos,22,0.69,Fourth Class Municipality,22.384,24644,0.006,2355905.26,0,0.007,0.1455,Freddie Aman,District 1,2.9709,5.3046,2.545,11.5181,0.0454
+Quezon,Calauag,Calauag,9.8,-0.39,First Class Municipality,32.8071,71809,0.019,321745927.9,0.014,0.032,1.0597,Rosalina Visorde,District 4,3.3795,8.8827,2.8932,11.7353,5.8964
+Quezon,Candelaria,Candelaria,6.2,3.43,First Class Municipality,39.3266,137881,0.036,551658978.6,0.024,0.059,2.3242,Ogie Suayan,District 2,4.4004,10.1877,4.2755,12.2548,8.1417
+Quezon,Catanauan,Catanauan,11.3,0.49,First Class Municipality,33.4852,72752,0.019,343799557,0.015,0.034,1.1218,Ramon Orfanel,District 3,3.3213,8.9913,2.6068,11.5466,6.9928
+Quezon,Dolores,Dolores,6.3,2.52,Fourth Class Municipality,32.8201,32514,0.008,170425149,0.007,0.016,0.5153,Orlan Calayag,District 2,4.1569,8.1218,2.9222,11.8393,5.7799
+Quezon,GeneralLuna,General Luna,18.4,-1.38,Fourth Class Municipality,34.118,24804,0.006,157495411.3,0.007,0.013,0.4469,Matt Florido,District 3,3.8168,8.5268,2.638,11.4825,7.6539
+Quezon,GeneralNakar,General Nakar,18.6,3.02,First Class Municipality,31.3747,34225,0.009,515045258.3,0.022,0.031,0.9663,Esee Ruzol,District 1,,,,,
+Quezon,Guinayangan,Guinayangan,17,-0.52,Third Class Municipality,32.6547,45155,0.012,240124167.2,0.01,0.022,0.7184,Maden Isaac,District 4,,,,,
+Quezon,Gumaca,Gumaca,7.7,-0.56,First Class Municipality,35.553,73877,0.019,339622238.5,0.015,0.034,1.1946,Webster Letargo,District 4,,,,,
+Quezon,Infanta,Infanta,7.6,2.08,First Class Municipality,36.0496,69079,0.018,375606846.9,0.016,0.034,1.2185,Filipina Grace America,District 1,,,,,
+Quezon,Jomalig,Jomalig,25.8,0.7,Fifth Class Municipality,21.5533,7417,0.002,92552576.24,0.004,0.006,0.1272,Nelmar Sarmiento,District 1,,,,,
+Quezon,Lopez,Lopez,9.1,-0.11,First Class Municipality,36.6042,94657,0.025,446381605.1,0.019,0.044,1.5959,Rachel Ubana,District 4,,,,,
+Quezon,Lucban,Lucban,4,0.65,Second Class Municipality,35.2748,51475,0.013,292098456,0.013,0.026,0.9101,Agustin Villaverde,District 1,,,,,
+Quezon,LucenaCity,Lucena City,6.4,1.04,Highly Urbanized City,NA,NA,NA,NA,NA,NA,NA,Mark Alcala,District 2,,,,,
+Quezon,Macalelon,Macalelon,19.2,-0.66,Fourth Class Municipality,28.9964,28188,0.007,167852736.2,0.007,0.014,0.4204,Artemio Mamburao,District 3,,,,,
+Quezon,Mauban,Mauban,8,2.29,First Class Municipality,35.5231,71081,0.018,882511869.8,0.038,0.056,1.9928,Erwin Pastrana,District 1,,,,,
+Quezon,Mulanay,Mulanay,21.1,0.95,First Class Municipality,35.2229,55576,0.014,324667899.7,0.014,0.028,0.9968,Aris Aguirre,District 3,,,,,
+Quezon,PadreBurgos,Padre Burgos,8,0.95,Fourth Class Municipality,29.7873,22460,0.006,146595034.8,0.006,0.012,0.3604,Rav Uy Diokno,District 3,,,,,
+Quezon,Pagbilao,Pagbilao,6.3,1.01,First Class Municipality,34.6268,78700,0.02,632512855.8,0.027,0.047,1.6378,Angelica Portes,District 1,,,,,
+Quezon,Panukulan,Panukulan,22.3,-0.1,Fourth Class Municipality,28.9388,16376,0.004,3970320.65,0,0.004,0.1273,Alfred Rigor Mitra,District 1,,,,,
+Quezon,Patnanungan,Patnanungan,24.1,0.63,Fifth Class Municipality,19.9007,14606,0.004,133319024.7,0.006,0.01,0.1891,Clara Larita,District 1,,,,,
+Quezon,Perez,Perez,21.5,1.01,Fifth Class Municipality,31.2909,12767,0.003,109798274.3,0.005,0.008,0.2503,Morel Escalona,District 4,,,,,
+Quezon,Pitogo,Pitogo,8.7,-0.2,Fourth Class Municipality,31.7593,22798,0.006,132484914,0.006,0.012,0.3684,Dexter Sayat,District 3,,,,,
+Quezon,Plaridel,Plaridel,7.3,-1.6,Fifth Class Municipality,34.0969,10129,0.003,93003125.58,0.004,0.007,0.225,Jose Saavedra,District 4,,,,,
+Quezon,Polillo,Polillo,10.7,0.9,Third Class Municipality,34.6822,31908,0.008,260169690.7,0.011,0.019,0.6694,Angelique Bosque,District 1,,,,,
+Quezon,Quezon,Quezon,17,0.89,Fifth Class Municipality,35.1755,15886,0.004,120208099.6,0.005,0.009,0.3236,Juan Escolano,District 4,,,,,
+Quezon,Real,Real,8.7,1.53,First Class Municipality,32.1632,38678,0.01,335258072.8,0.014,0.024,0.7816,Bing Aquino,District 1,,,,,
+Quezon,Sampaloc,Sampaloc,12.6,-0.42,Fifth Class Municipality,41.4185,13907,0.004,129941359.2,0.006,0.009,0.3769,Gelo Devanadera,District 1,,,,,
+Quezon,SanAndres,San Andres,20.7,0.97,Fourth Class Municipality,29.0999,37454,0.01,210085429.6,0.009,0.019,0.5442,Giovanne Lim,District 3,,,,,
+Quezon,SanAntonio,San Antonio,16.5,1.48,Fourth Class Municipality,32.85,35891,0.009,179037820.9,0.008,0.017,0.5552,Ariel Wagan,District 2,,,,,
+Quezon,SanFrancisco,San Francisco,24.2,0.21,Second Class Municipality,27.7425,62097,0.016,306347904.4,0.013,0.029,0.8073,Roming Edano,District 3,,,,,
+Quezon,SanNarciso,San Narciso,23.2,1.1,Third Class Municipality,26.8546,48461,0.013,267603203.6,0.011,0.024,0.6418,Pobel Uy - Yap,District 3,,,,,
+Quezon,Sariaya,Sariaya,6.3,1.76,First Class Municipality,38.1927,148980,0.039,647841347.8,0.028,0.066,2.5284,Marceng Gayeta,District 2,,,,,
+Quezon,Tagkawayan,Tagkawayan,20.9,0.87,First Class Municipality,32.4277,54003,0.014,356457700.5,0.015,0.029,0.9469,Carlo Eleazar,District 4,,,,,
+Quezon,TayabasCity,Tayabas City,6.3,2.59,Component City,32.9017,112658,0.029,1141193480,0.049,0.078,2.5598,Lovely Reynoso,District 1,,,,,
+Quezon,Tiaong,Tiaong,6.8,1.35,First Class Municipality,32.8684,106265,0.028,445733433.7,0.019,0.047,1.5284,Vincent Arjay Mea,District 2,,,,,
+Quezon,Unisan,Unisan,14.6,-1.15,Fourth Class Municipality,31.2918,25448,0.007,178884380,0.008,0.014,0.4443,Denand Adulta,District 3,,,,,
