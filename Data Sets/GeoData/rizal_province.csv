@@ -1,15 +1,15 @@
-NAME_1,LGU,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Population_Growth,,Economic Dynamism,Government Efficiency,Infrastructure,Resiliency,Innovation
-Rizal,Angono,First Class Municipality,41.3104,113283,0.018,591473256.9,0.019,0.037,1.512,3.02,,5.0382,10.3472,5.7093,12.1808,7.9219
-Rizal,Antipolo,Component City,50.4242,887399,0.138,5335123282,0.172,0.31,15.6113,2.85,,6.8841,11.0591,9.9004,13.2978,9.2828
-Rizal,Baras (RL),Fourth Class Municipality,37.2309,87637,0.014,354566963.7,0.011,0.025,0.9308,5.07,,5.9526,8.6448,3.5648,11.5105,7.5582
-Rizal,Binangonan,First Class Municipality,41.8483,313631,0.049,1174209298,0.038,0.087,3.6199,2.23,,6.7572,9.973,4.8564,12.7643,7.437
-Rizal,Cainta,First Class Municipality,47.3165,376933,0.059,1826272630,0.059,0.117,5.555,3.36,,10.416,10.7624,5.1031,12.104,8.8637
-Rizal,Cardona,Third Class Municipality,35.3501,50143,0.008,217493547.4,0.007,0.015,0.5232,0.47,,4.316,8.4372,3.5798,11.4925,7.5246
-Rizal,Jalajala,Fourth Class Municipality,32.1463,34017,0.005,172774861.2,0.006,0.011,0.3504,1.13,,4.0112,8.0653,2.9775,11.4405,5.6518
-Rizal,Morong (RL),Second Class Municipality,38.6714,71151,0.011,316689908.7,0.01,0.021,0.8237,4.35,,3.7357,10.4992,3.3626,11.5436,9.4971
-Rizal,Pililla,First Class Municipality,32.1652,71535,0.011,353379604.7,0.011,0.023,0.7237,2.1,,2.9624,9.1835,3.0869,11.3338,5.5863
-Rizal,Rodriguez,First Class Municipality,36.8025,443954,0.069,1482881706,0.048,0.117,4.2949,3.96,,6.0611,8.8113,4.0268,11.202,6.6735
-Rizal,San Mateo (RL),First Class Municipality,43.4062,273306,0.043,1040631712,0.034,0.076,3.2989,1.68,,5.0986,9.6128,4.7735,14.3093,9.5199
-Rizal,Tanay,First Class Municipality,36.8653,117830,0.018,680271110.9,0.022,0.04,1.482,3.61,,3.7547,9.5673,3.9041,11.6379,7.9673
-Rizal,Taytay (RL),First Class Municipality,45.2139,319104,0.05,1651910329,0.053,0.103,4.648,4.11,,8.2441,10.2335,5.3807,12.1592,9.0399
-Rizal,Teresa,Second Class Municipality,35.1109,57755,0.009,336383264.7,0.011,0.02,0.6952,2.21,,3.2485,9.6848,2.9462,11.3852,7.8379
+NAME_1,LGU,District,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Population_Growth,,Economic Dynamism,Government Efficiency,Infrastructure,Resiliency,Innovation
+Rizal,Angono,District 3,First Class Municipality,41.3104,113283,0.018,591473256.9,0.019,0.037,1.512,3.02,,5.0382,10.3472,5.7093,12.1808,7.9219
+Rizal,Antipolo,Lone District,Component City,50.4242,887399,0.138,5335123282,0.172,0.31,15.6113,2.85,,6.8841,11.0591,9.9004,13.2978,9.2828
+Rizal,Baras (RL),District 4,Fourth Class Municipality,37.2309,87637,0.014,354566963.7,0.011,0.025,0.9308,5.07,,5.9526,8.6448,3.5648,11.5105,7.5582
+Rizal,Binangonan,District 3,First Class Municipality,41.8483,313631,0.049,1174209298,0.038,0.087,3.6199,2.23,,6.7572,9.973,4.8564,12.7643,7.437
+Rizal,Cainta,District 2,First Class Municipality,47.3165,376933,0.059,1826272630,0.059,0.117,5.555,3.36,,10.416,10.7624,5.1031,12.104,8.8637
+Rizal,Cardona,District 4,Third Class Municipality,35.3501,50143,0.008,217493547.4,0.007,0.015,0.5232,0.47,,4.316,8.4372,3.5798,11.4925,7.5246
+Rizal,Jalajala,District 4,Fourth Class Municipality,32.1463,34017,0.005,172774861.2,0.006,0.011,0.3504,1.13,,4.0112,8.0653,2.9775,11.4405,5.6518
+Rizal,Morong (RL),District 4,Second Class Municipality,38.6714,71151,0.011,316689908.7,0.01,0.021,0.8237,4.35,,3.7357,10.4992,3.3626,11.5436,9.4971
+Rizal,Pililla,District 4,First Class Municipality,32.1652,71535,0.011,353379604.7,0.011,0.023,0.7237,2.1,,2.9624,9.1835,3.0869,11.3338,5.5863
+Rizal,Rodriguez,District 1,First Class Municipality,36.8025,443954,0.069,1482881706,0.048,0.117,4.2949,3.96,,6.0611,8.8113,4.0268,11.202,6.6735
+Rizal,San Mateo (RL),District 1,First Class Municipality,43.4062,273306,0.043,1040631712,0.034,0.076,3.2989,1.68,,5.0986,9.6128,4.7735,14.3093,9.5199
+Rizal,Tanay,District 2,First Class Municipality,36.8653,117830,0.018,680271110.9,0.022,0.04,1.482,3.61,,3.7547,9.5673,3.9041,11.6379,7.9673
+Rizal,Taytay (RL),District 2,First Class Municipality,45.2139,319104,0.05,1651910329,0.053,0.103,4.648,4.11,,8.2441,10.2335,5.3807,12.1592,9.0399
+Rizal,Teresa,District 4,Second Class Municipality,35.1109,57755,0.009,336383264.7,0.011,0.02,0.6952,2.21,,3.2485,9.6848,2.9462,11.3852,7.8379
