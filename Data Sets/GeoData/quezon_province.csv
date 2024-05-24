@@ -1,4 +1,4 @@
-NAME_1,NAME_2,Location,Poverty_Incidence,Population_Growth,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Mayor,District,Economic Dynamism,Government Efficiency,Infrastructure,Resiliency,Innovation
+NAME_1,NAME_2,LGU,Poverty_Incidence,Population_Growth,Category,Score,Population,Population Weight (50%),Revenue,Revenue Weight (50%),Total Percentage,Provincial Score,Mayor,District,Economic Dynamism,Government Efficiency,Infrastructure,Resiliency,Innovation
 Quezon,Agdangan,Agdangan,14,-0.14,Fifth Class Municipality,33.3311,12764,0.003,101754484.8,0.004,0.008,0.2533,Rhadam Aguilar,District 3,4.6446,7.3486,4.3798,11.4137,5.5426
 Quezon,Alabat,Alabat,15.5,0.41,Fifth Class Municipality,33.5795,15936,0.004,15320573.46,0.001,0.005,0.1612,Jose Ramil Arquiza,District 4,4.24,8.2851,4.4077,11.6004,5.0463
 Quezon,Atimonan,Atimonan,6.1,0.27,First Class Municipality,35.2329,70698,0.018,352460694.9,0.015,0.033,1.1733,Rustico Joven Mendoza,District 4,3.5959,9.24,2.8269,11.2345,8.3315
