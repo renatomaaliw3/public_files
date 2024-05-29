@@ -1,4 +1,4 @@
-﻿Project,Tap No.,Theoretical Ratio,1U1V/2n2u Actual ,1U1V/2n2u % Error,1V1W/2n2v Actual ,1V1W/2n2v % Error,1W1U/2n2w Actual ,1W1U/2n2w % Error,1U1V/2n2u STATUS,1V1W/2n2v STATUS,1W1U/2n2w STATUS,Corrective Action 
+﻿Project,Tap No.,Theoretical Ratio,1U1V/2n2u Actual ,1U1V/2n2u % Error,1V1W/2n2v Actual ,1V1W/2n2v % Error,1W1U/2n2w Actual ,1W1U/2n2w % Error,1U1V/2n2u STATUS,1V1W/2n2v STATUS,1W1U/2n2w STATUS,Corrective Action
 WOTH-001,2,123.404,123.56,0.126,129.3,5.288,123.97,0.459,GOOD,INVESTIGATE,GOOD,Reperform Test
 WOTH-002,2,123.404,123.89,0.394,123.93,0.426,123.94,0.434,GOOD,GOOD,GOOD,None Required
 WOTH-003,2,123.404,123.94,0.434,123.94,0.434,123.96,0.451,GOOD,GOOD,GOOD,None Required
