@@ -45,7 +45,7 @@ Leyte,Leyte,29.8942
 Maguindanao,Maguindanao,32.4495
 Marinduque,Marinduque,30.9278
 Masbate,Masbate,25.622
-MetropolitanManila,Metropolitan Manila,N/A
+MetropolitanManila,Metropolitan Manila,0
 MisamisOccidental,Misamis Occidental,30.4893
 MisamisOriental,Misamis Oriental,33.8454
 MountainProvince,Mountain Province,27.8961
@@ -58,11 +58,9 @@ NuevaVizcaya,Nueva Vizcaya,30.1128
 OccidentalMindoro,Occidental Mindoro,32.5983
 OrientalMindoro,Oriental Mindoro,32.8268
 Palawan,Palawan,28.72
-,,
 Pampanga,Pampanga,34.6768
 Pangasinan,Pangasinan,32.4118
 Quezon,Quezon,33.7312
-,,
 Quirino,Quirino,31.4457
 Rizal,Rizal,44.069
 Romblon,Romblon,28.6789
@@ -74,7 +72,6 @@ SouthCotabato,South Cotabato,34.9074
 SouthernLeyte,Southern Leyte,28.0731
 SultanKudarat,Sultan Kudarat,33.2892
 Sulu,Sulu,12.1853
-,,
 SurigaodelNorte,Surigao del Norte,32.5826
 SurigaodelSur,Surigao del Sur,28.1913
 Tarlac,Tarlac,32.2754
