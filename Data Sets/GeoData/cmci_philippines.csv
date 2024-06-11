@@ -7,7 +7,8 @@ Albay,Albay,35.4027
 Antique,Antique,29.6861
 Apayao,Apayao,23.8787
 Aurora,Aurora,31.7832
-Basilan,Basilan,25.6928
+Basilan,Basilan (BARMM),25.6928
+Basilan,Basilan (Zamboanga Peninsula),35.8375
 Bataan,Bataan,35.1663
 Batanes,Batanes,27.6319
 Batangas,Batangas,35.7477
@@ -37,10 +38,10 @@ IlocosSur,Ilocos Sur,31.7192
 Iloilo,Iloilo,31.9318
 Isabela,Isabela,32.8183
 Kalinga,Kalinga,31.0821
-LaUnion,La Union,36.3735
 Laguna,Laguna,40.1525
 LanaodelNorte,Lanao del Norte,30.93
 LanaodelSur,Lanao del Sur,23.8701
+LaUnion,La Union,36.3735
 Leyte,Leyte,29.8942
 Maguindanao,Maguindanao,32.4495
 Marinduque,Marinduque,30.9278
