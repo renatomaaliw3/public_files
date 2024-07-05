@@ -1,0 +1,28 @@
+body {
+
+  color: blue;
+  font-family: 'Arial';
+  background: pink;
+
+  border-top: 10px solid black;
+ 
+}
+
+h2, h3 {
+
+  color: black;
+
+}
+
+#section-1 {
+
+  background: green;
+
+}
+
+#section-2 {
+
+  background: orange;
+
+}
+
