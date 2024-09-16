@@ -1,0 +1,31 @@
+K-Means Clustering Lab Activity Number 1 (10 Items)
+
+Instructions:
+
+a. From the Dataset repository load (personnel.csv)
+b. We will use random_state = 101, and n_init = 'auto' for KMeans
+
+Answer the following (Write the answer on your paper):
+
+1. If we select 'Experience' and 'Salary', what is the optimized number of clusters?
+
+2. What is the silhouette score of the most optimized number of clusters?
+
+3. Based on your visualization and data extraction, what is the centroid for each clusters?
+   Example, "Cluster 0 [22.99, 33.33], Cluster 1 [10.15, 18.53], Cluster 2 [9.85, 6.85]"
+
+4. Interpret your visualization on what is the salary's relation to experience or vice-versa.
+5. What will be your descriptive names for each cluster?
+
+Answer the following (Write the answer on your paper):
+
+6. If we select 'Age' and 'Salary', what is the optimized number of clusters?
+7. What is the silhouette score of the most optimized number of clusters?
+8. Based on your visualization and data extraction, what is the centroid for each clusters?
+9. Interpret your visualization on what is the salary's relation to age or vice-versa.
+10. What will be your descriptive names for each cluster?
+
+Please share (General Access to 'Anyone with the link', Role: Viewer) 
+or email the link of the notebook to (renatomaaliw3@gmail.com)
+
+--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X
