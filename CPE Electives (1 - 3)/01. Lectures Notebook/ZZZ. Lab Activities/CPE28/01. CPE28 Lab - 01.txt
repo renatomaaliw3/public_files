@@ -7,7 +7,11 @@ b. We will use random_state = 101, and n_init = 'auto' for KMeans
 
 Answer the following (Write the answer on your paper)
 
+<<<<<<< Updated upstream
 1. If we select 'Experience' and 'Salary' columns only at the start, what is the optimized number of clusters?
+=======
+1. If we strictly select 'Experience' and 'Salary' column only before clustering, what is the optimized number of clusters?
+>>>>>>> Stashed changes
 
 2. What is the silhouette score of the most optimized number of clusters?
 
