@@ -1,5 +1,6 @@
 Send notebook to renatomaaliw3@yahoo.com
----------------------------------------------------
+----------------------------------------
+
 LAB ACTIVITY NUMBER 1
 KMeans Clustering - Pre-Selected Data (10 Items on Paper with submitted Notebook)
 
@@ -91,7 +92,8 @@ b. Visualize the x = Age, y = Salary, and z = JobSatisfaction, Show or Trace Dat
 
 --X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X
 
-LAB ACTIVITY NUMBER 3 (10 Items on Paper with submitted Notebook) 
+
+LAB ACTIVITY NUMBER 3 (12 Items on Paper with submitted Notebook) 
 DBSCAN Clustering
 
 Instructions
@@ -104,13 +106,48 @@ b. We will use random_state = 101 where applicable
 Answer the following (Write your answer on your paper)
 * For numbers with decimal values, up to two decimal places without rounding *
 
-1. Based on KNN Graph, what do you think is the best epsilon value
+1. Based on KNN Graph, what do you think is the best epsilon value?
 
-2. Based on Silhouette Score, what is the best score based solely on the graph
+2. Based on Silhouette Score, what is the best score based solely on the graph?
 
-3. Give me posible value of epsilon that can detect the spiral cluster
+3. Give me posible value of epsilon that can detect the spiral cluster without outlier
 
-4. Give me posible value of min_samples that can detect the spiral cluster
+4. Give me posible value of min_samples that can detect the spiral cluster without outlier
+
+PART 2:
+
+a. From the Dataset repository load (spiral_3.csv)
+b. We will use random_state = 101 where applicable
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+
+5. Based on KNN Graph, what do you think is the best epsilon value?
+
+6. Based on Silhouette Score, what is the best score based solely on the graph?
+
+7. Give me posible value of epsilon that can detect the spiral clusters with maximum outlier (-1) of 21 or less only
+   Additional cluster of up to 1 will be allowed.
+
+8. Give me posible value of min_samples that can detect the spiral clusters with maximum outlier (-1) of 21 less only
+   Additional cluster of up to 1 will be allowed.
+
+PART 3:
+
+a. From the Dataset repository load (creditcard_reduced.csv) - located in google drive
+b. File ID is 1B99f3nG0j1EWCYQ8E2nx6hWxBFTt6YFE
+c. We will use random_state = 101 where applicable
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+* Remove highly correlated values greater than 0.70 and above, or -0.70 and above
+
+9. Give me the number of TRUE (based on original Class) data detected as anomalous when V1 and V12 are paired in the graph?
+10. What is the value of the last data based on V12 column detected as anomalous?
+
+11. Give me the number of TRUE (based on original Class) data detected as anomalous when V3 and V11 are paired in the graph?
+12. What is the value of the last data based on V11 column detected as anomalous?
+
 
 
 
