@@ -136,16 +136,17 @@ PART 3:
 
 a. From the Dataset repository load (creditcard_reduced.csv) - located in google drive
 b. File ID is 1B99f3nG0j1EWCYQ8E2nx6hWxBFTt6YFE
-c. We will use random_state = 101 where applicable
+c. epsilon of 31 and min_samples of 51 (We will not find the optimal value benchmark as it is computationally expensive)
+d. Original Data | Class = 0 (Non-Anomalous), Class = 1 (Anomalous)
 
 Answer the following (Write your answer on your paper)
 * For numbers with decimal values, up to two decimal places without rounding *
-* Remove highly correlated values greater than 0.70 and above, or -0.70 and above
+* Remove highly correlated values greater than 0.70, or less than -0.70
 
-9. Give me the number of TRUE (based on original Class) data detected as anomalous when V1 and V12 are paired in the graph?
+9. Give me the number of TRUE POSITIVE (based on original Class) data detected as anomalous when V1 and V12 are paired in the graph?
 10. What is the value of the last data based on V12 column detected as anomalous?
 
-11. Give me the number of TRUE (based on original Class) data detected as anomalous when V3 and V11 are paired in the graph?
+11. Give me the number of TRUE POSITIVE (based on original Class) data detected as anomalous when V3 and V11 are paired in the graph?
 12. What is the value of the last data based on V11 column detected as anomalous?
 
 
