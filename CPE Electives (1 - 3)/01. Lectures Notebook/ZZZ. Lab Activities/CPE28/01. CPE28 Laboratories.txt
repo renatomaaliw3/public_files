@@ -1,3 +1,5 @@
+Send notebook to renatomaaliw3@yahoo.com
+---------------------------------------------------
 LAB ACTIVITY NUMBER 1
 KMeans Clustering - Pre-Selected Data (10 Items on Paper with submitted Notebook)
 
@@ -87,6 +89,28 @@ a. Visualize the x = Age and y = Salary, Show Data 305 with marker of star (*), 
 b. Visualize the x = Age, y = Salary, and z = JobSatisfaction, Show or Trace Data 305 with black circle, using scatter_3D.
 
 
+--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X
+
+LAB ACTIVITY NUMBER 3 (10 Items on Paper with submitted Notebook) 
+DBSCAN Clustering
+
+Instructions
+
+PART 1:
+
+a. From the Dataset repository load (spiral.csv)
+b. We will use random_state = 101 where applicable
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+
+1. Based on KNN Graph, what do you think is the best epsilon value
+
+2. Based on Silhouette Score, what is the best score based solely on the graph
+
+3. Give me posible value of epsilon that can detect the spiral cluster
+
+4. Give me posible value of min_samples that can detect the spiral cluster
 
 
 
