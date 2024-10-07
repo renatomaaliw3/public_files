@@ -150,8 +150,50 @@ Answer the following (Write your answer on your paper)
 12. What is the value of the last data based on V11 column detected as anomalous?
 
 
+--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X
 
 
+LAB ACTIVITY NUMBER 4 (11 Items on Paper with submitted Notebook) 
+Clustering Using PCA
+
+Instructions
+
+PART 1:
+
+a. From the Dataset repository load (cluster_mpg.csv)
+b. We will use random_state = 101 where applicable
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+
+1. Which column can be safely remove from the dataset? Write the answer on your paper.
+
+   Please drop the column you deemed to be irrelevant for clustering
+
+   Before scaling the data using a Standard Scaler, please encode (dummy variables) the column 'origin' into 0s and 1s
+   as the values are not numerical without dropping a single column (e.g. origin_europe, origin_japan, origin_usa) wit astype('float')
+
+   As a reference, please see Random Forest (Penguin)
+
+2. What is the scaled value of data or index 85 after scaling in terms of displacement? Write the answer on your paper.
+
+   Perform a Principal Component Analysis on the scaled data.
+
+3. What is the explained variance of PC0? Write the answer on your paper.
+4. What is the total explained variance of PC0 and PC1? Write the answer on your paper.
+5. What is the total explained variance of PC0, PC1 and PC2? Write the answer on your paper.
+6. Using only two principal components, what is the value of PC0 and PC1 at index 285? Write the answer on your paper.
+7. Using three principal components, what is the value of PC0, PC1, and PC2 at index 300? Write the answer on your paper.
+
+8. Perform a KMeans Clustering, what is the optimal number of K based on PC0 and PC1? Write the answer on your paper.
+9. Perform a DBSCAN Clustering. Based on testing what is the optimal epsilon score based on the graph alone? Write the answer on your paper.
+10. What are you recommending as the min_samples value? Write the answer on your paper? Write the answer on your paper
+11. How many outliers can the DBSCAN detect based on the optimal epsilon score and the recommended min_samples? Write the answer on your paper
+
+I will check the following on NOTEBOOK:
+
+a. Visualize the x = PC0 and y = PC1, Show Data 200 with marker of star (*) using 2D scatter plot
+b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 200 with black circle, using scatter_3D.
 
 
 
