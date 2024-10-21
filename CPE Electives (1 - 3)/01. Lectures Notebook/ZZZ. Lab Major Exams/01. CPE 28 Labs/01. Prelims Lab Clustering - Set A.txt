@@ -1,0 +1,39 @@
+For Numbers 1 and 2
+
+INSTRUCTION:
+
+Use random_state = 42, when applicable
+Use MinMaxScaler
+Use PCA, 2 components only
+
+Note: 
+For Hierarchical Clustering use linkage of 'ward'
+
+
+1. Identify the best clustering model for dataset 'cluster-01.csv'
+   (e.g. KMeans, Hierarchical Clustering (HC), Gaussian Mixture Model (GMM))
+
+2. After identification of the best model, according solely to silhouette scores,
+   determine the number of clusters (e.g. 2?, 3? 4?, 5?, 6? 7?, n?)
+
+- - x - - x - - x - - x
+
+For Numbers 4 to 5
+
+INSTRUCTION:
+
+Use random_state = 42, when applicable
+Use MinMaxScaler
+Use PCA, 2 components only
+
+4. Using DBSCAN identify the best epsilon value based on silhouette scores alone.
+   Use dataset 'cluster-04.csv'
+   Use the best practice value for the number of minimum samples.
+
+5. How many outliers are detected based from your DBSCAN model?
+
+    
+	
+
+
+
