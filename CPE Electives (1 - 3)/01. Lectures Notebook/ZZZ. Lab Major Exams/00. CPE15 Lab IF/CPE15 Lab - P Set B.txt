@@ -1,0 +1,76 @@
+PRELIM EXAMS FOR SET B
+
+NOTE:
+
+ON a 1/4 Sheet of Paper, Write only the answer that is asked.
+Do not play it safe by writing unnecessary answers.
+
+INSTRUCTION 1:
+
+With a random seed of 80.
+Generate a 10 x 10 DataFrame with random integers from 0 to 100, assigned to variable 'df'
+Column names start from C1 to C10
+
+# Question No. 1
+# If you select the 5th row,
+# with the 1st, 4th and 6th column only.
+# What will be the standard deviation of the whole dataframe
+# In two decimals only, without rounding off.
+
+
+# Question No. 2
+# If you select the 1st, 3rd, 4th, 8th row, 
+# with the 2nd, 4th, and 7th column only,
+# What will be the the median of the 4th column?
+# In two decimals only, without rounding off.
+
+
+# Question No. 3
+# What is the 75th Percentile of the 7th Column
+# In two decimals only, without rounding off.
+
+
+# Question No. 4
+# If you add row 2 and row 3, find the variance of the subset
+
+
+# Question No. 5
+# Select row 3 and row 4, column 5 to 7 then perform np.dot() to
+# row 8 to row 10, column 8 to 10
+# Write the resulting matrix
+
+- - x - - x - - x - - x - - x - - x - - 
+
+
+# INSTRUCTION 2
+# Load dataset (products-y.csv) from our github repository
+# Assign to DataFrame variable of your choice
+
+
+# Question 06
+# Which Store has the highest total sales in terms of Female Customers?
+
+
+# Question 07
+# Average Bag Sales for Male at Store 5
+
+
+# Question 08
+# Which of the products are the most sold, neglect the pricing
+
+
+# Question 09
+# Create another column from the original dataframe named 'Tax' which is 15% of the Price,
+# then, find out which Store/s have paid the least taxes
+
+
+# Question 10
+# What product is the least profitable for Women?
+
+
+
+
+
+
+
+
