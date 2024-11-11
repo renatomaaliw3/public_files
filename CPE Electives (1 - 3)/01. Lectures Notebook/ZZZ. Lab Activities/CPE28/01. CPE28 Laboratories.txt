@@ -196,6 +196,37 @@ a. Visualize the x = PC0 and y = PC1, Show Data 200 with marker of star (*) usin
 b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 200 with black circle, using scatter_3D.
 
 
+--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X--X
+
+LAB ACTIVITY NUMBER 5 and Number 6 (8 Items on Paper with submitted Notebook) 
+Assocation Rule Mining - Apriori
+
+Instructions
+
+PART 1:
+
+a. From the Dataset repository load (credit_card_approval.csv)
+b. We will use min_support = 0.2, and min_threshold = 0.2
+
+ANSWER THE FOLLOWING QUESTIONS:
+
+For granted Applications only:
+
+01. What itemset has the highest confidence? 
+02. What antecedent has the highest support? 
+03. What consequent has the highest support?
+04. If you will analyze the results, what will be the most pressing 
+characteristic/s for your credit card application to be granted? Explain
+
+For denied applications only:
+
+05. What itemset has the highest confidence? 
+06. What antecedent has the highest support? 
+07. What consequent has the highest support? 
+08. If you will analyze the results, what will be the most pressing 
+characteristic/s for your credit card application to be denied? Explain
+
+
 
 
 

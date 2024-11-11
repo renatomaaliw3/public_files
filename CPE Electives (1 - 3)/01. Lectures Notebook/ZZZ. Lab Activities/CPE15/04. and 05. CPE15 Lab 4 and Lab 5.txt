@@ -1,0 +1,90 @@
+Instruction for CPE15 - Lab 5 & Lab 6 (IF):
+
+A. Load the dataset NBA Regular Season 2023-2024: 
+'NBA2324-R.csv'
+
+Data Description:
+
+Rk : Rank
+Player : Player's name
+Pos : Position
+Age : Player's age
+Tm : Team
+G : Games played
+GS : Games started
+MP : Minutes played per game
+FG : Field goals per game
+FGA : Field goal attempts per game
+FG% : Field goal percentage
+3P : 3-point field goals per game
+3PA : 3-point field goal attempts per game
+3P% : 3-point field goal percentage
+2P : 2-point field goals per game
+2PA : 2-point field goal attempts per game
+2P% : 2-point field goal percentage
+eFG% : Effective field goal percentage
+FT : Free throws per game
+FTA : Free throw attempts per game
+FT% : Free throw percentage
+ORB : Offensive rebounds per game
+DRB : Defensive rebounds per game
+TRB : Total rebounds per game
+AST : Assists per game
+STL : Steals per game
+BLK : Blocks per game
+TOV : Turnovers per game
+PF : Personal fouls per game
+PTS : Points per game
+
+In NBA statistics, "TOT" stands for "Total." It represents a player's combined statistics
+when they played for multiple teams within a single season. 
+For instance, if a player was traded or moved between teams, their stats for each team are recorded individually, 
+and "TOT" aggregates these stats across all teams they played for.
+
+
+B. Answer the following questions using Native Python or SQL, 
+or combinations of both
+
+ANSWER THE FOLLOWING:
+If numerical, 2 decimal places only (no rounding)
+
+1. Which Team has the most 3-point field goal attempts per game in the season?
+
+2. If I have to recruit the best rebounding (in terms of rebounds per game) shooting guard (SG) in the NBA
+with at least 1 steal per game, who should I consider?
+
+3. Which Player is the best defensive player in terms of combined statistics of 
+(total rebounds per game, steals per game, and blocks per game)?
+
+4. What is the average Effective field goal percentage of players with pure PG and pure SG positions combined?
+
+5. Can you give me the average Field goals per game (FG) of Position SG for the Tm of 'GSW'
+
+6. What is the player's first name with the highest points per game (PTS) among those who have an effective 
+field goal percentage (eFG%) above the team average for their respective teams, and 
+have played at least 50 games in the season?
+
+7. Which player has the highest free throw percentage (FT%) among those with at least 4 free throw attempts per game (FTA) 
+and who play for a team in the Western Conference? You can google which teams in the NBA are Western Conference teams.
+
+8. Which player have names that start with the letter 'J' and play the Center (C) position with the most PTS?
+
+9. Among all players, who has played the most minutes per game (MP) but has the lowest points per game (PTS)?
+
+10. Identify the player with the best combination of offensive and defensive performance, among those whose names contain the letter 'a' 
+and who have played at least 60 games. The ideal player should have high points per game (PTS) for offensive impact and high combined 
+defensive stats (total rebounds per game (TRB) + steals per game (STL) + blocks per game (BLK))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
