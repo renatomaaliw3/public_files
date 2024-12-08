@@ -1,0 +1,1001 @@
+BusinessID,BusinessName,Category,Location,Revenue,Employees,CustomerSatisfaction,YearEstablished
+BUS0001,Business_1,Education,New York,186097.41,447,3.2,2022
+BUS0002,Business_2,Retail,Miami,677201.8,300,4.3,1984
+BUS0003,Business_3,Healthcare,Houston,259990.6,338,4.2,1982
+BUS0004,Business_4,Healthcare,Seattle,335475.91,393,4.9,1988
+BUS0005,Business_5,Finance,Chicago,107909.76,356,3.6,1991
+BUS0006,Business_6,Finance,Chicago,951094.24,120,4.6,1982
+BUS0007,Business_7,Hospitality,Los Angeles,885728.2,88,3.2,1992
+BUS0008,Business_8,Retail,New York,915998.78,236,3.6,1986
+BUS0009,Business_9,Technology,Seattle,644693.48,42,2.8,2011
+BUS0010,Business_10,Retail,Chicago,455840.55,414,2.4,1992
+BUS0011,Business_11,Healthcare,Houston,520839.75,438,4.3,1986
+BUS0012,Business_12,Education,Houston,973675.72,22,4.3,1982
+BUS0013,Business_13,Retail,Houston,944507.09,155,4.4,2016
+BUS0014,Business_14,Healthcare,New York,687775.4,15,2.3,2021
+BUS0015,Business_15,Education,Miami,796514.37,168,4.1,2004
+BUS0016,Business_16,Education,Los Angeles,352797.73,138,3.4,2022
+BUS0017,Business_17,Healthcare,New York,445508.4,492,3.9,2011
+BUS0018,Business_18,Education,Houston,191756.73,58,2.5,2013
+BUS0019,Business_19,Finance,New York,407637.18,42,2.8,2019
+BUS0020,Business_20,Retail,Miami,766695.29,180,1.4,2017
+BUS0021,Business_21,Finance,Los Angeles,499842.88,92,3.6,1996
+BUS0022,Business_22,Finance,Los Angeles,856873.89,459,1.0,1983
+BUS0023,Business_23,Technology,Seattle,335699.6,197,2.4,2003
+BUS0024,Business_24,Retail,Los Angeles,722197.96,87,3.5,1994
+BUS0025,Business_25,Hospitality,New York,815487.35,379,4.2,2018
+BUS0026,Business_26,Technology,Seattle,919004.12,43,3.2,1984
+BUS0027,Business_27,Retail,New York,584266.65,285,2.5,1980
+BUS0028,Business_28,Retail,Seattle,969396.88,487,1.4,1993
+BUS0029,Business_29,Hospitality,New York,579422.42,464,4.6,2021
+BUS0030,Business_30,Education,New York,177388.11,52,3.0,2011
+BUS0031,Business_31,Finance,Los Angeles,280715.59,178,4.3,1985
+BUS0032,Business_32,Finance,Los Angeles,243169.9,309,4.0,2009
+BUS0033,Business_33,Education,Houston,664370.56,319,2.6,2020
+BUS0034,Business_34,Hospitality,New York,926114.8,462,2.0,1983
+BUS0035,Business_35,Technology,New York,854776.72,252,1.8,2003
+BUS0036,Business_36,Education,Miami,137840.8,365,1.5,2015
+BUS0037,Business_37,Finance,Los Angeles,738355.48,20,4.4,2006
+BUS0038,Business_38,Education,Los Angeles,230957.54,225,1.9,2003
+BUS0039,Business_39,Hospitality,Los Angeles,305038.51,487,4.3,1983
+BUS0040,Business_40,Education,New York,689988.32,339,1.8,2019
+BUS0041,Business_41,Finance,Miami,622775.94,89,2.4,1997
+BUS0042,Business_42,Retail,Houston,879939.44,315,4.0,2013
+BUS0043,Business_43,Healthcare,Miami,228755.13,460,1.2,1982
+BUS0044,Business_44,Healthcare,Chicago,773611.6,227,3.5,1984
+BUS0045,Business_45,Retail,Miami,738089.98,85,3.7,1999
+BUS0046,Business_46,Healthcare,Houston,580907.95,32,1.5,1984
+BUS0047,Business_47,Retail,New York,505424.5,56,4.6,1993
+BUS0048,Business_48,Healthcare,Houston,876000.16,174,2.8,2013
+BUS0049,Business_49,Education,Seattle,366316.1,110,3.4,1986
+BUS0050,Business_50,Technology,New York,959168.77,102,3.0,1986
+BUS0051,Business_51,Technology,Miami,64567.02,214,4.9,1994
+BUS0052,Business_52,Healthcare,Seattle,940301.78,361,1.0,2014
+BUS0053,Business_53,Healthcare,Houston,963973.68,288,3.9,2004
+BUS0054,Business_54,Hospitality,Chicago,161450.39,374,3.2,1992
+BUS0055,Business_55,Education,Seattle,999593.41,478,2.7,1992
+BUS0056,Business_56,Education,New York,504974.83,378,3.3,2013
+BUS0057,Business_57,Healthcare,Chicago,280463.52,281,4.7,2022
+BUS0058,Business_58,Finance,Chicago,624181.46,140,4.1,1995
+BUS0059,Business_59,Retail,Miami,244287.49,343,4.6,2016
+BUS0060,Business_60,Technology,Chicago,919370.14,149,3.8,2020
+BUS0061,Business_61,Hospitality,Seattle,574475.33,157,1.7,1991
+BUS0062,Business_62,Education,New York,786738.19,126,4.3,2015
+BUS0063,Business_63,Education,New York,411628.66,54,1.4,2015
+BUS0064,Business_64,Finance,Houston,556967.62,30,3.6,2006
+BUS0065,Business_65,Hospitality,New York,391296.58,206,3.4,1986
+BUS0066,Business_66,Finance,Los Angeles,298483.55,297,2.3,2020
+BUS0067,Business_67,Healthcare,Houston,537175.71,286,4.5,2016
+BUS0068,Business_68,Retail,Houston,522413.43,435,2.7,2002
+BUS0069,Business_69,Healthcare,Los Angeles,143677.82,256,3.4,2023
+BUS0070,Business_70,Healthcare,Seattle,982252.53,83,3.8,2009
+BUS0071,Business_71,Healthcare,Houston,496015.9,32,2.0,2022
+BUS0072,Business_72,Hospitality,Chicago,847744.62,189,2.6,2007
+BUS0073,Business_73,Hospitality,Houston,918613.97,6,2.4,1986
+BUS0074,Business_74,Healthcare,New York,402169.68,223,2.2,1990
+BUS0075,Business_75,Education,Miami,443233.66,49,4.2,1991
+BUS0076,Business_76,Technology,Seattle,584398.49,155,1.6,2015
+BUS0077,Business_77,Hospitality,Houston,260210.39,426,3.4,2005
+BUS0078,Business_78,Technology,Miami,188626.58,343,4.5,2012
+BUS0079,Business_79,Healthcare,Miami,297735.4,325,3.0,2001
+BUS0080,Business_80,Healthcare,Los Angeles,938020.34,312,4.4,2022
+BUS0081,Business_81,Education,Chicago,600185.78,250,3.2,1990
+BUS0082,Business_82,Healthcare,Los Angeles,446699.17,107,2.3,2014
+BUS0083,Business_83,Education,Chicago,194790.84,54,3.9,2018
+BUS0084,Business_84,Hospitality,Chicago,363372.02,18,3.2,2008
+BUS0085,Business_85,Technology,Chicago,410847.79,110,1.9,2002
+BUS0086,Business_86,Healthcare,New York,841694.58,92,1.8,2000
+BUS0087,Business_87,Hospitality,Chicago,524336.41,331,3.9,2015
+BUS0088,Business_88,Education,Houston,671877.57,154,3.7,2000
+BUS0089,Business_89,Retail,Chicago,700604.28,46,4.7,2003
+BUS0090,Business_90,Retail,New York,294460.42,247,1.5,2006
+BUS0091,Business_91,Retail,Seattle,830512.34,437,3.8,2020
+BUS0092,Business_92,Education,New York,968182.85,64,4.9,2007
+BUS0093,Business_93,Finance,Miami,659609.73,162,1.7,2000
+BUS0094,Business_94,Technology,New York,516065.8,406,3.2,2018
+BUS0095,Business_95,Retail,New York,209821.96,208,3.5,1995
+BUS0096,Business_96,Technology,Miami,805226.74,246,3.8,2016
+BUS0097,Business_97,Hospitality,Miami,210802.43,255,4.0,2014
+BUS0098,Business_98,Education,Houston,734297.85,463,3.2,1993
+BUS0099,Business_99,Hospitality,Houston,513900.51,343,3.3,2004
+BUS0100,Business_100,Hospitality,Houston,921054.42,140,4.8,2015
+BUS0101,Business_101,Retail,Los Angeles,565030.01,51,3.8,1996
+BUS0102,Business_102,Finance,New York,659718.99,333,3.7,2003
+BUS0103,Business_103,Finance,Chicago,105795.45,283,4.6,2008
+BUS0104,Business_104,Education,Houston,82132.57,203,3.1,2008
+BUS0105,Business_105,Healthcare,Miami,854362.51,99,4.5,2005
+BUS0106,Business_106,Education,Seattle,947928.71,194,2.7,1980
+BUS0107,Business_107,Retail,Miami,684804.77,458,1.1,1982
+BUS0108,Business_108,Technology,Seattle,776121.9,200,1.4,1998
+BUS0109,Business_109,Technology,Houston,441772.61,194,2.5,2018
+BUS0110,Business_110,Hospitality,Chicago,850417.48,100,1.2,1981
+BUS0111,Business_111,Hospitality,Houston,269861.72,233,1.2,2013
+BUS0112,Business_112,Healthcare,Los Angeles,721811.09,27,2.1,1988
+BUS0113,Business_113,Education,Houston,58684.39,139,4.1,1999
+BUS0114,Business_114,Healthcare,Los Angeles,530446.27,230,4.9,1980
+BUS0115,Business_115,Hospitality,New York,404540.66,243,3.7,1999
+BUS0116,Business_116,Hospitality,Seattle,636943.47,139,1.6,1994
+BUS0117,Business_117,Healthcare,Chicago,683416.99,120,1.2,1993
+BUS0118,Business_118,Education,Miami,635693.39,433,4.1,2000
+BUS0119,Business_119,Education,Houston,509043.95,142,1.8,1981
+BUS0120,Business_120,Retail,Miami,513461.66,293,3.2,1997
+BUS0121,Business_121,Finance,Seattle,56281.74,36,2.4,2015
+BUS0122,Business_122,Education,Seattle,574061.38,82,2.8,2012
+BUS0123,Business_123,Finance,Miami,61258.42,390,3.5,2015
+BUS0124,Business_124,Education,Houston,552946.76,361,3.7,2016
+BUS0125,Business_125,Retail,Houston,311003.7,346,3.2,2016
+BUS0126,Business_126,Healthcare,New York,978605.38,54,1.9,1989
+BUS0127,Business_127,Retail,Seattle,66285.47,48,3.6,1986
+BUS0128,Business_128,Hospitality,Miami,822499.36,347,2.6,1982
+BUS0129,Business_129,Hospitality,Los Angeles,690331.3,181,3.0,2009
+BUS0130,Business_130,Finance,Los Angeles,815859.31,418,4.2,2002
+BUS0131,Business_131,Healthcare,Miami,914284.7,282,3.8,1989
+BUS0132,Business_132,Retail,Los Angeles,151665.61,216,3.8,1988
+BUS0133,Business_133,Hospitality,Chicago,141498.2,392,1.2,1996
+BUS0134,Business_134,Hospitality,New York,191452.61,306,2.5,2003
+BUS0135,Business_135,Retail,Seattle,232335.45,121,2.7,2017
+BUS0136,Business_136,Technology,Houston,550133.19,288,4.2,1995
+BUS0137,Business_137,Retail,Chicago,824453.67,36,3.7,1994
+BUS0138,Business_138,Finance,New York,303958.5,435,4.9,1996
+BUS0139,Business_139,Finance,Houston,427051.6,203,1.2,1999
+BUS0140,Business_140,Retail,New York,404399.0,424,4.0,1985
+BUS0141,Business_141,Technology,Miami,435726.04,272,1.8,2016
+BUS0142,Business_142,Education,Los Angeles,586752.07,219,4.5,2005
+BUS0143,Business_143,Healthcare,Chicago,990721.38,499,4.4,2016
+BUS0144,Business_144,Hospitality,Chicago,264564.39,279,2.8,1993
+BUS0145,Business_145,Technology,Chicago,699839.54,356,1.9,1984
+BUS0146,Business_146,Healthcare,Miami,855473.75,448,3.5,2000
+BUS0147,Business_147,Education,Miami,671048.93,484,3.8,2010
+BUS0148,Business_148,Finance,Houston,865308.2,248,2.5,1991
+BUS0149,Business_149,Healthcare,New York,771606.56,298,3.4,2011
+BUS0150,Business_150,Healthcare,New York,138825.48,456,4.0,2016
+BUS0151,Business_151,Hospitality,New York,410300.82,125,1.8,1986
+BUS0152,Business_152,Education,Houston,575066.37,248,3.9,2018
+BUS0153,Business_153,Technology,Miami,103309.19,158,1.8,2021
+BUS0154,Business_154,Education,Los Angeles,58977.66,45,2.8,1999
+BUS0155,Business_155,Retail,Houston,212814.4,207,4.9,1982
+BUS0156,Business_156,Healthcare,Chicago,524865.47,467,1.3,2016
+BUS0157,Business_157,Technology,Chicago,462214.17,442,4.8,2004
+BUS0158,Business_158,Education,Los Angeles,795157.5,370,3.9,1985
+BUS0159,Business_159,Healthcare,Miami,587563.8,22,1.5,1983
+BUS0160,Business_160,Healthcare,New York,865062.3,262,1.2,2001
+BUS0161,Business_161,Retail,Chicago,140593.74,297,2.1,2002
+BUS0162,Business_162,Education,Los Angeles,551751.23,466,2.1,2007
+BUS0163,Business_163,Healthcare,Miami,90424.17,269,1.6,2006
+BUS0164,Business_164,Hospitality,Chicago,250846.2,414,4.4,1987
+BUS0165,Business_165,Hospitality,Miami,874711.05,297,1.0,1994
+BUS0166,Business_166,Retail,New York,893176.59,351,2.9,2021
+BUS0167,Business_167,Healthcare,Chicago,501725.27,322,4.7,2018
+BUS0168,Business_168,Finance,Houston,94233.87,80,1.2,1980
+BUS0169,Business_169,Healthcare,New York,120630.66,66,4.7,2020
+BUS0170,Business_170,Retail,Los Angeles,929305.57,491,3.4,2020
+BUS0171,Business_171,Hospitality,Los Angeles,904346.07,392,4.1,2004
+BUS0172,Business_172,Education,New York,585334.37,234,3.5,1983
+BUS0173,Business_173,Technology,Los Angeles,81256.69,93,4.4,1999
+BUS0174,Business_174,Finance,Los Angeles,932328.04,490,2.2,2013
+BUS0175,Business_175,Finance,New York,348760.46,90,4.2,1982
+BUS0176,Business_176,Healthcare,Miami,963395.73,113,3.2,2000
+BUS0177,Business_177,Retail,Los Angeles,607684.3,418,1.3,2014
+BUS0178,Business_178,Technology,Chicago,764641.75,103,3.8,2016
+BUS0179,Business_179,Technology,Miami,727075.83,69,3.1,1989
+BUS0180,Business_180,Technology,Houston,428381.22,26,4.8,2000
+BUS0181,Business_181,Finance,Seattle,123090.62,221,3.1,2012
+BUS0182,Business_182,Finance,Miami,204327.74,45,4.1,1994
+BUS0183,Business_183,Hospitality,New York,278448.58,354,1.6,1989
+BUS0184,Business_184,Retail,Seattle,842918.03,227,3.2,1983
+BUS0185,Business_185,Technology,New York,419698.78,108,2.6,2023
+BUS0186,Business_186,Technology,New York,901699.48,426,2.4,2005
+BUS0187,Business_187,Hospitality,Seattle,365143.35,326,4.5,2008
+BUS0188,Business_188,Healthcare,Seattle,767828.8,80,3.7,2018
+BUS0189,Business_189,Healthcare,Houston,182953.06,432,2.3,2016
+BUS0190,Business_190,Technology,Houston,989054.06,309,2.2,2012
+BUS0191,Business_191,Technology,Miami,737955.39,137,4.8,1985
+BUS0192,Business_192,Healthcare,Chicago,525753.21,168,3.5,1994
+BUS0193,Business_193,Healthcare,New York,975607.16,471,2.9,2007
+BUS0194,Business_194,Hospitality,New York,101011.61,377,3.2,1998
+BUS0195,Business_195,Technology,Los Angeles,465233.84,473,4.0,2005
+BUS0196,Business_196,Hospitality,Miami,846740.92,418,3.6,1989
+BUS0197,Business_197,Education,Houston,373563.11,39,1.5,1988
+BUS0198,Business_198,Retail,Miami,780555.37,49,2.4,2001
+BUS0199,Business_199,Hospitality,Seattle,957115.48,203,2.0,1985
+BUS0200,Business_200,Hospitality,New York,426867.9,289,3.6,2010
+BUS0201,Business_201,Hospitality,Seattle,784877.17,208,4.7,2016
+BUS0202,Business_202,Hospitality,Los Angeles,78144.38,287,2.0,1983
+BUS0203,Business_203,Hospitality,Houston,309660.68,171,1.2,2015
+BUS0204,Business_204,Retail,Houston,992956.58,443,4.5,2005
+BUS0205,Business_205,Technology,Chicago,516073.28,146,2.5,1996
+BUS0206,Business_206,Healthcare,Los Angeles,388020.64,271,4.2,1985
+BUS0207,Business_207,Technology,Chicago,944085.7,239,1.5,2005
+BUS0208,Business_208,Retail,Los Angeles,460255.55,474,2.0,2012
+BUS0209,Business_209,Technology,Los Angeles,695710.12,452,3.9,2007
+BUS0210,Business_210,Hospitality,Houston,677638.31,11,1.1,1988
+BUS0211,Business_211,Healthcare,New York,131409.41,407,3.1,1988
+BUS0212,Business_212,Finance,Houston,637685.1,363,4.1,2010
+BUS0213,Business_213,Technology,Seattle,808152.42,324,3.1,2015
+BUS0214,Business_214,Technology,Chicago,727453.11,305,3.0,1992
+BUS0215,Business_215,Hospitality,Miami,127936.11,272,2.9,2011
+BUS0216,Business_216,Hospitality,Miami,196509.92,405,2.2,2005
+BUS0217,Business_217,Education,Miami,726093.3,219,3.6,2021
+BUS0218,Business_218,Finance,Los Angeles,652205.84,62,2.3,2016
+BUS0219,Business_219,Retail,New York,752672.52,217,1.3,1992
+BUS0220,Business_220,Healthcare,Los Angeles,350844.32,81,1.4,2015
+BUS0221,Business_221,Hospitality,Houston,151223.37,80,4.9,2019
+BUS0222,Business_222,Education,Miami,54935.46,295,4.1,2013
+BUS0223,Business_223,Education,Houston,342854.08,306,3.1,1995
+BUS0224,Business_224,Finance,Los Angeles,391921.62,303,3.5,1995
+BUS0225,Business_225,Retail,Miami,306278.12,393,1.8,1984
+BUS0226,Business_226,Education,Chicago,175881.65,498,3.5,1997
+BUS0227,Business_227,Education,Miami,228022.19,486,1.9,2007
+BUS0228,Business_228,Hospitality,Miami,476401.49,56,3.7,2000
+BUS0229,Business_229,Retail,Chicago,577003.0,478,4.3,2023
+BUS0230,Business_230,Hospitality,Seattle,437641.97,59,1.8,2016
+BUS0231,Business_231,Retail,Houston,74948.81,293,4.3,1985
+BUS0232,Business_232,Healthcare,Houston,386218.57,404,4.5,1987
+BUS0233,Business_233,Education,Houston,138411.05,56,4.0,2022
+BUS0234,Business_234,Finance,Seattle,618141.61,407,2.7,2006
+BUS0235,Business_235,Healthcare,Houston,358208.81,151,4.3,2007
+BUS0236,Business_236,Retail,New York,415976.02,449,1.3,2003
+BUS0237,Business_237,Hospitality,New York,327254.98,279,3.7,2002
+BUS0238,Business_238,Healthcare,Chicago,418409.58,455,1.1,1992
+BUS0239,Business_239,Education,Los Angeles,130464.54,181,3.9,2000
+BUS0240,Business_240,Education,Los Angeles,906079.24,454,1.2,2002
+BUS0241,Business_241,Technology,New York,909947.2,215,1.3,2018
+BUS0242,Business_242,Education,Houston,979264.41,140,1.7,2021
+BUS0243,Business_243,Education,Los Angeles,593362.41,201,2.0,1981
+BUS0244,Business_244,Hospitality,Chicago,211103.78,340,1.3,1999
+BUS0245,Business_245,Healthcare,New York,411695.42,253,4.3,1990
+BUS0246,Business_246,Finance,Miami,181898.06,297,4.6,2002
+BUS0247,Business_247,Healthcare,New York,336074.7,316,2.6,2019
+BUS0248,Business_248,Technology,Seattle,518467.75,247,2.8,2008
+BUS0249,Business_249,Finance,Seattle,110103.79,24,2.6,2019
+BUS0250,Business_250,Healthcare,Houston,462942.46,93,2.3,1989
+BUS0251,Business_251,Healthcare,Houston,450047.22,146,2.6,2008
+BUS0252,Business_252,Finance,Chicago,510019.75,211,1.5,1982
+BUS0253,Business_253,Retail,Houston,123075.29,78,1.0,1994
+BUS0254,Business_254,Technology,Miami,289114.75,321,3.9,1992
+BUS0255,Business_255,Hospitality,Seattle,284260.56,316,1.3,2023
+BUS0256,Business_256,Hospitality,Chicago,643782.0,353,4.0,2003
+BUS0257,Business_257,Retail,Miami,614116.08,360,1.2,1989
+BUS0258,Business_258,Healthcare,Houston,235770.81,210,4.4,1985
+BUS0259,Business_259,Healthcare,Los Angeles,151623.75,24,2.4,1987
+BUS0260,Business_260,Hospitality,Chicago,339425.1,207,3.0,1983
+BUS0261,Business_261,Hospitality,New York,951382.29,460,2.2,1995
+BUS0262,Business_262,Hospitality,New York,365606.35,455,3.7,2019
+BUS0263,Business_263,Technology,New York,639182.58,174,3.4,1989
+BUS0264,Business_264,Retail,Seattle,813872.64,358,2.1,1998
+BUS0265,Business_265,Hospitality,Chicago,363064.63,126,4.7,1980
+BUS0266,Business_266,Finance,Miami,367999.41,30,2.5,2001
+BUS0267,Business_267,Education,Houston,824701.7,386,4.3,1987
+BUS0268,Business_268,Hospitality,Los Angeles,866533.04,248,1.1,1999
+BUS0269,Business_269,Education,Los Angeles,975514.11,476,1.6,2008
+BUS0270,Business_270,Retail,Chicago,179318.25,142,1.9,2010
+BUS0271,Business_271,Finance,Chicago,354631.9,464,4.0,1981
+BUS0272,Business_272,Healthcare,Houston,949914.98,195,4.2,2001
+BUS0273,Business_273,Education,New York,240808.91,15,4.4,1993
+BUS0274,Business_274,Hospitality,Chicago,348474.12,177,2.2,2014
+BUS0275,Business_275,Retail,Los Angeles,966345.89,423,3.5,1993
+BUS0276,Business_276,Retail,Chicago,970288.96,411,2.2,1993
+BUS0277,Business_277,Retail,Chicago,326875.74,160,4.5,2014
+BUS0278,Business_278,Education,Houston,710209.88,164,4.9,2013
+BUS0279,Business_279,Healthcare,Miami,516456.95,148,4.5,1996
+BUS0280,Business_280,Education,Houston,597085.32,436,3.6,2015
+BUS0281,Business_281,Finance,New York,280303.08,256,4.8,2010
+BUS0282,Business_282,Healthcare,New York,407252.54,444,1.0,2019
+BUS0283,Business_283,Education,Miami,825669.79,361,4.5,1989
+BUS0284,Business_284,Healthcare,Los Angeles,423288.37,355,1.6,2022
+BUS0285,Business_285,Technology,Miami,158193.43,55,1.2,1981
+BUS0286,Business_286,Hospitality,Houston,585657.98,449,3.3,2004
+BUS0287,Business_287,Hospitality,Seattle,612615.68,121,2.6,2017
+BUS0288,Business_288,Retail,Seattle,568347.63,73,3.2,2022
+BUS0289,Business_289,Technology,Chicago,697627.0,158,1.3,2013
+BUS0290,Business_290,Healthcare,Houston,572594.2,385,1.8,1982
+BUS0291,Business_291,Retail,New York,955354.38,231,4.0,1996
+BUS0292,Business_292,Finance,Chicago,488541.11,401,3.9,1990
+BUS0293,Business_293,Education,Seattle,722948.7,427,1.8,1983
+BUS0294,Business_294,Healthcare,Miami,466532.21,169,4.6,1998
+BUS0295,Business_295,Finance,Chicago,326764.65,142,4.4,1992
+BUS0296,Business_296,Education,Houston,708193.52,378,1.6,2019
+BUS0297,Business_297,Technology,Seattle,828017.29,218,1.7,1997
+BUS0298,Business_298,Retail,Los Angeles,805873.99,314,3.5,1983
+BUS0299,Business_299,Retail,Chicago,438684.51,335,2.0,2009
+BUS0300,Business_300,Hospitality,Miami,524338.05,50,1.5,2021
+BUS0301,Business_301,Hospitality,Miami,651669.24,101,3.7,1980
+BUS0302,Business_302,Education,Miami,279920.11,231,3.3,1984
+BUS0303,Business_303,Hospitality,Miami,675729.82,113,1.2,2004
+BUS0304,Business_304,Education,Miami,729474.57,472,4.0,2022
+BUS0305,Business_305,Retail,Miami,799622.93,426,5.0,1997
+BUS0306,Business_306,Retail,Houston,120266.88,213,3.2,2022
+BUS0307,Business_307,Healthcare,Houston,991165.58,384,3.6,2022
+BUS0308,Business_308,Hospitality,Chicago,505272.96,253,1.3,2003
+BUS0309,Business_309,Finance,Chicago,430764.84,393,3.7,1986
+BUS0310,Business_310,Hospitality,Chicago,531282.01,269,2.0,1981
+BUS0311,Business_311,Hospitality,Los Angeles,924372.58,449,1.8,1998
+BUS0312,Business_312,Healthcare,Los Angeles,707123.42,196,3.3,2021
+BUS0313,Business_313,Healthcare,Seattle,566462.94,425,4.8,2004
+BUS0314,Business_314,Retail,Chicago,801184.87,33,2.4,1994
+BUS0315,Business_315,Finance,Los Angeles,391553.02,268,3.7,2004
+BUS0316,Business_316,Hospitality,New York,900726.44,410,1.9,2012
+BUS0317,Business_317,Technology,New York,560060.69,86,2.1,1986
+BUS0318,Business_318,Education,Seattle,656271.35,38,1.3,2000
+BUS0319,Business_319,Retail,New York,130732.84,164,1.8,2011
+BUS0320,Business_320,Hospitality,Miami,780506.35,368,2.9,2018
+BUS0321,Business_321,Hospitality,Seattle,674721.56,264,2.3,2014
+BUS0322,Business_322,Hospitality,Seattle,387258.38,211,3.6,1985
+BUS0323,Business_323,Finance,New York,664649.86,74,3.8,1991
+BUS0324,Business_324,Hospitality,Chicago,92081.86,404,1.6,1992
+BUS0325,Business_325,Retail,Miami,984427.8,440,3.3,2012
+BUS0326,Business_326,Finance,New York,693598.3,273,4.2,2009
+BUS0327,Business_327,Healthcare,Chicago,429636.86,455,4.8,2015
+BUS0328,Business_328,Hospitality,New York,765048.64,296,1.7,1981
+BUS0329,Business_329,Finance,Miami,967430.94,19,2.3,1982
+BUS0330,Business_330,Hospitality,Miami,458932.77,93,4.1,1995
+BUS0331,Business_331,Finance,Miami,60020.38,103,3.8,2013
+BUS0332,Business_332,Healthcare,New York,295801.45,453,3.6,1999
+BUS0333,Business_333,Finance,Chicago,535142.43,431,2.1,2001
+BUS0334,Business_334,Retail,Chicago,542857.88,107,2.4,2011
+BUS0335,Business_335,Hospitality,Miami,601492.38,433,3.7,2005
+BUS0336,Business_336,Hospitality,Los Angeles,596473.63,34,2.3,1990
+BUS0337,Business_337,Healthcare,Chicago,473489.62,132,2.9,1981
+BUS0338,Business_338,Finance,Los Angeles,421577.46,21,2.8,2002
+BUS0339,Business_339,Technology,Miami,783725.12,238,4.1,2023
+BUS0340,Business_340,Healthcare,Chicago,609160.46,30,2.9,2002
+BUS0341,Business_341,Finance,Houston,525442.49,475,1.4,2002
+BUS0342,Business_342,Healthcare,Los Angeles,377719.02,189,3.6,2020
+BUS0343,Business_343,Retail,Miami,73334.52,365,1.3,1999
+BUS0344,Business_344,Healthcare,Chicago,149321.89,106,2.1,1995
+BUS0345,Business_345,Healthcare,Seattle,445176.66,145,4.3,2012
+BUS0346,Business_346,Hospitality,Chicago,963641.47,193,4.6,1997
+BUS0347,Business_347,Hospitality,Seattle,160265.87,426,1.8,1983
+BUS0348,Business_348,Healthcare,Seattle,943642.35,242,3.9,2020
+BUS0349,Business_349,Education,Chicago,184591.42,263,3.5,1996
+BUS0350,Business_350,Technology,Los Angeles,346295.83,208,3.9,2004
+BUS0351,Business_351,Hospitality,Chicago,482566.0,330,4.6,1981
+BUS0352,Business_352,Education,Houston,246523.96,477,4.4,2015
+BUS0353,Business_353,Hospitality,Seattle,508779.7,68,3.5,1997
+BUS0354,Business_354,Retail,Miami,502354.4,353,4.3,1994
+BUS0355,Business_355,Hospitality,Miami,466257.64,20,3.3,1989
+BUS0356,Business_356,Healthcare,New York,711925.1,128,4.1,2001
+BUS0357,Business_357,Hospitality,Los Angeles,352964.0,195,1.9,2005
+BUS0358,Business_358,Healthcare,Houston,335250.88,255,1.1,2022
+BUS0359,Business_359,Retail,Seattle,819676.64,309,2.0,1988
+BUS0360,Business_360,Technology,Houston,159331.0,233,4.6,1985
+BUS0361,Business_361,Finance,New York,856721.01,95,3.2,2004
+BUS0362,Business_362,Healthcare,Seattle,665571.42,496,3.6,2013
+BUS0363,Business_363,Education,Seattle,693282.37,450,1.6,2023
+BUS0364,Business_364,Education,Los Angeles,206136.39,247,2.6,2019
+BUS0365,Business_365,Technology,Miami,984705.45,305,4.6,2020
+BUS0366,Business_366,Education,Los Angeles,281717.3,287,3.4,2023
+BUS0367,Business_367,Healthcare,Seattle,215730.57,184,4.4,1994
+BUS0368,Business_368,Finance,New York,202128.93,181,1.5,2006
+BUS0369,Business_369,Retail,Chicago,581856.5,88,3.0,1995
+BUS0370,Business_370,Hospitality,Seattle,960539.49,433,1.4,2016
+BUS0371,Business_371,Education,Los Angeles,270262.77,462,2.5,1989
+BUS0372,Business_372,Finance,Chicago,434795.06,137,1.0,2007
+BUS0373,Business_373,Finance,Chicago,225229.19,388,2.0,1999
+BUS0374,Business_374,Finance,New York,658454.93,430,4.9,2018
+BUS0375,Business_375,Technology,New York,460527.73,357,4.9,2001
+BUS0376,Business_376,Retail,Houston,77732.66,51,3.7,2008
+BUS0377,Business_377,Education,Los Angeles,633401.59,150,4.0,2014
+BUS0378,Business_378,Healthcare,Seattle,237458.21,19,1.6,1988
+BUS0379,Business_379,Healthcare,Chicago,612593.0,202,1.6,1993
+BUS0380,Business_380,Hospitality,New York,419393.99,30,3.3,2021
+BUS0381,Business_381,Finance,Seattle,719498.84,88,3.3,1988
+BUS0382,Business_382,Healthcare,Seattle,245495.26,442,4.5,2017
+BUS0383,Business_383,Healthcare,Houston,764709.22,297,1.6,2014
+BUS0384,Business_384,Technology,Miami,818293.3,404,3.9,2023
+BUS0385,Business_385,Technology,New York,109435.56,499,4.8,1992
+BUS0386,Business_386,Healthcare,Los Angeles,146664.45,114,1.2,1988
+BUS0387,Business_387,Retail,Miami,878380.36,443,4.0,1999
+BUS0388,Business_388,Technology,Miami,227611.84,118,1.9,2013
+BUS0389,Business_389,Hospitality,New York,359685.67,336,2.1,1988
+BUS0390,Business_390,Finance,Miami,484672.9,120,1.9,2007
+BUS0391,Business_391,Hospitality,Chicago,299235.73,351,3.7,1989
+BUS0392,Business_392,Education,New York,869504.72,110,3.1,2021
+BUS0393,Business_393,Healthcare,New York,551329.27,142,4.2,2016
+BUS0394,Business_394,Education,Los Angeles,657153.16,338,2.6,1990
+BUS0395,Business_395,Retail,Seattle,617122.29,214,4.7,2000
+BUS0396,Business_396,Healthcare,Houston,630743.0,267,4.5,1984
+BUS0397,Business_397,Technology,Miami,607654.48,15,1.2,2015
+BUS0398,Business_398,Education,Houston,380528.41,447,3.6,2014
+BUS0399,Business_399,Education,New York,853241.91,404,1.4,1987
+BUS0400,Business_400,Technology,Los Angeles,636494.55,500,4.9,1991
+BUS0401,Business_401,Technology,Los Angeles,823051.34,397,3.5,2000
+BUS0402,Business_402,Healthcare,New York,720688.94,354,2.1,1989
+BUS0403,Business_403,Technology,Chicago,332572.59,9,4.0,1981
+BUS0404,Business_404,Hospitality,Miami,633760.29,247,3.3,2000
+BUS0405,Business_405,Finance,Chicago,130514.37,471,3.3,2006
+BUS0406,Business_406,Healthcare,New York,177250.38,72,2.5,2006
+BUS0407,Business_407,Retail,Seattle,161968.57,336,2.5,1999
+BUS0408,Business_408,Education,Houston,340111.0,93,3.4,2008
+BUS0409,Business_409,Education,New York,223892.29,312,4.6,2020
+BUS0410,Business_410,Technology,Houston,708764.71,415,1.3,1997
+BUS0411,Business_411,Finance,Los Angeles,535283.63,9,2.0,1989
+BUS0412,Business_412,Finance,New York,447327.15,119,4.9,1992
+BUS0413,Business_413,Finance,Chicago,180973.93,134,1.9,1986
+BUS0414,Business_414,Healthcare,Houston,414524.46,316,2.6,1988
+BUS0415,Business_415,Healthcare,Los Angeles,226466.01,417,4.3,1991
+BUS0416,Business_416,Retail,Chicago,653726.56,487,2.4,1981
+BUS0417,Business_417,Healthcare,Houston,708761.28,161,4.2,2019
+BUS0418,Business_418,Technology,New York,662997.09,369,4.5,2019
+BUS0419,Business_419,Hospitality,Seattle,999904.57,500,1.0,1997
+BUS0420,Business_420,Retail,New York,577166.95,368,4.5,2018
+BUS0421,Business_421,Technology,Houston,515159.92,334,2.8,2016
+BUS0422,Business_422,Education,Houston,183281.71,145,1.9,2019
+BUS0423,Business_423,Healthcare,Seattle,348851.01,221,3.1,1994
+BUS0424,Business_424,Finance,Houston,478450.92,463,2.1,2018
+BUS0425,Business_425,Technology,Chicago,100930.7,197,1.6,1994
+BUS0426,Business_426,Healthcare,Chicago,391087.21,441,1.6,1994
+BUS0427,Business_427,Education,Houston,59104.27,183,3.4,2023
+BUS0428,Business_428,Retail,Seattle,179707.98,240,4.3,1981
+BUS0429,Business_429,Finance,Los Angeles,824455.14,134,3.6,2002
+BUS0430,Business_430,Finance,New York,965637.63,116,2.7,1985
+BUS0431,Business_431,Retail,Miami,530166.12,243,2.3,2010
+BUS0432,Business_432,Technology,Chicago,520221.36,159,1.5,1988
+BUS0433,Business_433,Healthcare,Miami,700461.84,351,3.7,2012
+BUS0434,Business_434,Hospitality,Houston,444848.91,271,2.9,2018
+BUS0435,Business_435,Education,Miami,847897.21,427,3.4,2010
+BUS0436,Business_436,Retail,Miami,514264.54,324,3.6,2021
+BUS0437,Business_437,Healthcare,Los Angeles,128537.09,208,2.6,2003
+BUS0438,Business_438,Hospitality,New York,79317.67,304,2.0,1991
+BUS0439,Business_439,Technology,Houston,773003.79,57,1.5,2004
+BUS0440,Business_440,Finance,Miami,327485.41,8,3.4,2011
+BUS0441,Business_441,Finance,Los Angeles,311110.27,266,1.5,2010
+BUS0442,Business_442,Hospitality,Miami,560728.19,344,3.1,1988
+BUS0443,Business_443,Education,Chicago,209798.53,499,4.6,1990
+BUS0444,Business_444,Hospitality,Miami,484455.32,436,1.6,1992
+BUS0445,Business_445,Hospitality,Houston,755392.34,434,1.7,1994
+BUS0446,Business_446,Education,Miami,777623.58,196,4.7,1982
+BUS0447,Business_447,Finance,New York,572239.88,292,3.1,2006
+BUS0448,Business_448,Education,Miami,157550.45,336,2.6,1980
+BUS0449,Business_449,Finance,Chicago,158496.32,309,4.9,1997
+BUS0450,Business_450,Education,Los Angeles,786357.38,316,3.6,2006
+BUS0451,Business_451,Hospitality,New York,832118.67,149,4.5,1994
+BUS0452,Business_452,Finance,Los Angeles,398518.68,157,3.9,2022
+BUS0453,Business_453,Technology,New York,831480.38,355,4.3,1992
+BUS0454,Business_454,Healthcare,Seattle,89530.0,60,4.8,1993
+BUS0455,Business_455,Healthcare,Houston,733031.23,251,1.9,1984
+BUS0456,Business_456,Education,Seattle,569035.61,37,3.4,1991
+BUS0457,Business_457,Finance,Houston,990286.94,177,2.9,2008
+BUS0458,Business_458,Education,Los Angeles,147295.62,146,2.9,2019
+BUS0459,Business_459,Education,Miami,838567.18,332,1.9,2011
+BUS0460,Business_460,Healthcare,Los Angeles,763778.22,171,2.6,2000
+BUS0461,Business_461,Retail,Chicago,332823.49,446,1.6,2009
+BUS0462,Business_462,Healthcare,Miami,999347.04,146,3.3,1995
+BUS0463,Business_463,Healthcare,Seattle,477245.73,138,4.1,2007
+BUS0464,Business_464,Healthcare,Los Angeles,381148.13,340,3.5,2005
+BUS0465,Business_465,Education,New York,825892.16,369,3.0,1982
+BUS0466,Business_466,Retail,Chicago,467116.41,492,1.7,2018
+BUS0467,Business_467,Healthcare,Seattle,994259.8,461,3.7,2004
+BUS0468,Business_468,Finance,Miami,786850.07,338,4.7,2000
+BUS0469,Business_469,Finance,Seattle,275098.75,157,3.4,2005
+BUS0470,Business_470,Retail,Chicago,820167.58,101,1.3,2019
+BUS0471,Business_471,Technology,Seattle,608527.7,81,2.5,2016
+BUS0472,Business_472,Education,Chicago,383099.3,269,1.5,2018
+BUS0473,Business_473,Technology,Chicago,725216.26,396,1.1,2014
+BUS0474,Business_474,Healthcare,Seattle,651132.1,128,3.1,2013
+BUS0475,Business_475,Technology,Houston,207682.54,465,4.6,2021
+BUS0476,Business_476,Hospitality,Miami,182273.22,34,3.7,1982
+BUS0477,Business_477,Education,Miami,246288.67,417,4.3,2013
+BUS0478,Business_478,Finance,New York,246595.58,443,3.4,1986
+BUS0479,Business_479,Hospitality,Houston,106389.94,415,1.7,2008
+BUS0480,Business_480,Finance,Miami,383274.71,419,4.6,2009
+BUS0481,Business_481,Technology,Houston,317030.77,312,3.4,1982
+BUS0482,Business_482,Retail,Los Angeles,561830.12,211,4.5,1995
+BUS0483,Business_483,Technology,New York,357470.94,343,3.1,2013
+BUS0484,Business_484,Finance,Houston,718851.07,168,4.0,2014
+BUS0485,Business_485,Hospitality,Los Angeles,324866.58,353,1.4,2005
+BUS0486,Business_486,Hospitality,Houston,303975.91,76,3.6,1982
+BUS0487,Business_487,Technology,Chicago,865116.0,374,4.6,2015
+BUS0488,Business_488,Finance,Miami,986213.89,18,3.2,2004
+BUS0489,Business_489,Education,Chicago,695334.35,340,1.0,2013
+BUS0490,Business_490,Education,New York,140463.91,259,4.8,2020
+BUS0491,Business_491,Healthcare,Seattle,964633.4,156,3.7,1983
+BUS0492,Business_492,Healthcare,Chicago,796406.5,137,2.7,1992
+BUS0493,Business_493,Technology,Seattle,922830.28,469,2.7,1998
+BUS0494,Business_494,Retail,Los Angeles,992861.91,219,4.5,2008
+BUS0495,Business_495,Technology,Seattle,873695.21,212,3.8,2005
+BUS0496,Business_496,Finance,Seattle,170543.76,203,2.7,1999
+BUS0497,Business_497,Technology,New York,872774.86,382,4.8,1998
+BUS0498,Business_498,Retail,Houston,287193.38,23,2.9,2009
+BUS0499,Business_499,Technology,Chicago,725825.11,303,4.1,1990
+BUS0500,Business_500,Retail,Miami,837057.71,367,2.4,2007
+BUS0501,Business_501,Education,Miami,773399.91,297,4.2,1998
+BUS0502,Business_502,Retail,Seattle,692422.83,422,4.6,2019
+BUS0503,Business_503,Technology,New York,514985.79,102,4.3,1983
+BUS0504,Business_504,Education,Houston,598554.25,180,3.3,2013
+BUS0505,Business_505,Retail,Miami,305281.29,376,2.7,1989
+BUS0506,Business_506,Education,New York,443513.83,370,2.0,2009
+BUS0507,Business_507,Retail,New York,479392.14,118,4.1,2021
+BUS0508,Business_508,Technology,Miami,651946.38,356,4.6,2008
+BUS0509,Business_509,Retail,Chicago,886118.83,278,1.3,1985
+BUS0510,Business_510,Technology,Chicago,138440.04,331,3.4,2012
+BUS0511,Business_511,Healthcare,Houston,539832.8,406,3.2,1987
+BUS0512,Business_512,Healthcare,Houston,314314.4,248,2.0,1991
+BUS0513,Business_513,Finance,Miami,939519.31,469,1.0,2017
+BUS0514,Business_514,Technology,Seattle,400617.62,486,4.0,2014
+BUS0515,Business_515,Finance,Chicago,952741.37,348,1.0,1988
+BUS0516,Business_516,Finance,Miami,360924.82,188,3.1,2005
+BUS0517,Business_517,Healthcare,Houston,52349.43,264,3.1,2006
+BUS0518,Business_518,Retail,Houston,785428.53,158,2.5,2000
+BUS0519,Business_519,Retail,Chicago,746087.83,437,1.8,2008
+BUS0520,Business_520,Education,Houston,744385.34,92,4.2,1981
+BUS0521,Business_521,Hospitality,Los Angeles,485526.79,435,2.6,1991
+BUS0522,Business_522,Technology,New York,680936.63,341,1.4,2009
+BUS0523,Business_523,Education,Miami,390311.59,453,2.7,2017
+BUS0524,Business_524,Finance,Chicago,110164.15,290,3.3,1992
+BUS0525,Business_525,Education,Chicago,557703.24,97,2.0,2009
+BUS0526,Business_526,Finance,Houston,256938.44,155,3.1,1985
+BUS0527,Business_527,Hospitality,Los Angeles,458160.95,54,3.3,1996
+BUS0528,Business_528,Healthcare,Los Angeles,251258.89,246,3.4,2000
+BUS0529,Business_529,Retail,Chicago,305110.0,70,5.0,2021
+BUS0530,Business_530,Retail,Seattle,836926.44,384,2.6,1990
+BUS0531,Business_531,Retail,Los Angeles,370867.4,137,1.8,1987
+BUS0532,Business_532,Finance,Seattle,599036.96,376,3.2,1985
+BUS0533,Business_533,Education,Chicago,587835.01,418,3.2,1987
+BUS0534,Business_534,Healthcare,New York,511071.01,291,1.7,2008
+BUS0535,Business_535,Finance,Seattle,376552.64,395,3.2,2020
+BUS0536,Business_536,Finance,Chicago,698424.33,472,2.9,2003
+BUS0537,Business_537,Healthcare,Seattle,95988.8,98,5.0,1985
+BUS0538,Business_538,Education,Chicago,144596.0,489,3.3,2013
+BUS0539,Business_539,Finance,New York,794695.27,353,4.1,2004
+BUS0540,Business_540,Retail,Miami,486602.67,465,2.6,2012
+BUS0541,Business_541,Finance,Seattle,168025.32,176,1.6,2019
+BUS0542,Business_542,Hospitality,Los Angeles,864769.02,340,4.5,1990
+BUS0543,Business_543,Retail,Chicago,469221.65,50,1.5,2004
+BUS0544,Business_544,Retail,New York,50642.13,118,1.9,2015
+BUS0545,Business_545,Healthcare,Houston,960130.18,186,4.1,2004
+BUS0546,Business_546,Finance,Seattle,242202.3,119,4.8,1982
+BUS0547,Business_547,Hospitality,Seattle,704162.29,386,1.4,1990
+BUS0548,Business_548,Technology,Miami,175317.43,451,3.0,2001
+BUS0549,Business_549,Finance,Seattle,667497.34,162,4.1,2016
+BUS0550,Business_550,Retail,Houston,201028.59,220,4.2,2022
+BUS0551,Business_551,Finance,Miami,936089.28,408,3.5,1989
+BUS0552,Business_552,Education,Houston,310318.49,459,3.7,1990
+BUS0553,Business_553,Retail,New York,671858.57,174,1.2,1989
+BUS0554,Business_554,Finance,Los Angeles,287869.81,195,2.6,1991
+BUS0555,Business_555,Hospitality,New York,403251.58,138,3.5,1983
+BUS0556,Business_556,Education,Miami,908610.26,304,4.2,2006
+BUS0557,Business_557,Retail,New York,207248.83,155,4.3,1999
+BUS0558,Business_558,Hospitality,Houston,426524.49,242,2.9,1999
+BUS0559,Business_559,Finance,Chicago,340233.78,440,3.4,2008
+BUS0560,Business_560,Technology,Miami,714469.3,65,1.4,1998
+BUS0561,Business_561,Technology,Houston,272436.65,245,2.1,2020
+BUS0562,Business_562,Technology,Houston,672710.97,32,2.5,1991
+BUS0563,Business_563,Education,New York,718513.14,448,3.4,1987
+BUS0564,Business_564,Technology,Los Angeles,51031.99,329,3.9,1988
+BUS0565,Business_565,Hospitality,Seattle,502966.37,303,4.7,1992
+BUS0566,Business_566,Finance,Miami,176064.8,302,2.6,1980
+BUS0567,Business_567,Retail,Houston,264881.32,488,3.6,2019
+BUS0568,Business_568,Hospitality,Miami,695983.59,322,2.1,1996
+BUS0569,Business_569,Education,Miami,58822.6,41,4.9,1980
+BUS0570,Business_570,Finance,New York,710817.25,246,1.2,2009
+BUS0571,Business_571,Finance,Seattle,826253.58,460,4.1,2011
+BUS0572,Business_572,Technology,Houston,988747.16,104,1.7,2011
+BUS0573,Business_573,Finance,Chicago,451198.24,261,3.0,2014
+BUS0574,Business_574,Hospitality,Miami,175566.39,66,1.0,1980
+BUS0575,Business_575,Healthcare,Chicago,117286.89,449,4.4,2018
+BUS0576,Business_576,Finance,Seattle,413916.43,353,4.7,2011
+BUS0577,Business_577,Education,Miami,744225.21,200,3.1,1995
+BUS0578,Business_578,Technology,Houston,147305.81,276,1.8,1993
+BUS0579,Business_579,Technology,Los Angeles,347683.9,157,4.1,2017
+BUS0580,Business_580,Finance,Seattle,886939.55,216,3.0,2022
+BUS0581,Business_581,Healthcare,Chicago,180272.83,32,3.8,2010
+BUS0582,Business_582,Hospitality,Seattle,784787.46,450,3.5,2009
+BUS0583,Business_583,Finance,New York,765499.91,442,3.7,2006
+BUS0584,Business_584,Retail,New York,176488.92,82,2.4,2008
+BUS0585,Business_585,Hospitality,New York,993293.15,75,3.6,1985
+BUS0586,Business_586,Healthcare,New York,185710.41,107,4.9,2018
+BUS0587,Business_587,Technology,Los Angeles,553982.86,180,1.3,2018
+BUS0588,Business_588,Education,Miami,58051.0,214,2.1,1980
+BUS0589,Business_589,Technology,Chicago,667519.2,296,2.6,1995
+BUS0590,Business_590,Retail,Seattle,468094.45,462,3.7,2015
+BUS0591,Business_591,Hospitality,Seattle,736310.43,469,2.6,1997
+BUS0592,Business_592,Healthcare,Seattle,646676.04,239,1.8,2019
+BUS0593,Business_593,Healthcare,Los Angeles,193805.42,78,1.1,2020
+BUS0594,Business_594,Finance,Houston,441124.4,166,3.8,2015
+BUS0595,Business_595,Technology,Houston,702237.86,446,4.7,1993
+BUS0596,Business_596,Hospitality,New York,866964.4,371,3.2,1983
+BUS0597,Business_597,Finance,Los Angeles,132353.63,97,3.9,1991
+BUS0598,Business_598,Healthcare,Houston,145441.86,403,3.2,1989
+BUS0599,Business_599,Retail,Houston,764823.36,46,3.3,1983
+BUS0600,Business_600,Hospitality,Los Angeles,610095.22,254,2.4,2021
+BUS0601,Business_601,Retail,Seattle,414830.31,175,4.3,2002
+BUS0602,Business_602,Finance,New York,965086.28,328,1.9,1982
+BUS0603,Business_603,Technology,Houston,348778.48,95,4.9,1989
+BUS0604,Business_604,Finance,Miami,182838.68,165,2.8,1982
+BUS0605,Business_605,Finance,Houston,313119.27,329,2.6,2022
+BUS0606,Business_606,Education,Seattle,130036.28,34,1.0,2016
+BUS0607,Business_607,Technology,Houston,575726.8,7,1.7,2018
+BUS0608,Business_608,Finance,Miami,620007.47,236,3.0,1999
+BUS0609,Business_609,Retail,New York,627213.44,145,3.2,2001
+BUS0610,Business_610,Healthcare,New York,790021.17,112,3.0,1985
+BUS0611,Business_611,Finance,Houston,705952.27,394,2.4,1983
+BUS0612,Business_612,Healthcare,Houston,855497.5,401,1.5,1986
+BUS0613,Business_613,Education,Houston,675485.1,91,3.1,2006
+BUS0614,Business_614,Technology,Miami,336566.87,300,2.0,1991
+BUS0615,Business_615,Education,Chicago,541861.67,396,3.2,1990
+BUS0616,Business_616,Technology,Houston,534046.44,86,4.2,2023
+BUS0617,Business_617,Finance,Chicago,760451.46,255,2.0,1998
+BUS0618,Business_618,Healthcare,Houston,330764.95,407,2.8,2019
+BUS0619,Business_619,Finance,Los Angeles,101840.67,395,2.5,2022
+BUS0620,Business_620,Healthcare,Seattle,903016.93,404,2.9,2018
+BUS0621,Business_621,Healthcare,Chicago,956937.94,50,2.0,2016
+BUS0622,Business_622,Retail,Miami,520143.33,71,2.4,2015
+BUS0623,Business_623,Healthcare,Miami,157106.48,319,4.1,1991
+BUS0624,Business_624,Retail,Los Angeles,524603.41,227,3.7,2009
+BUS0625,Business_625,Education,New York,614233.28,329,4.6,2017
+BUS0626,Business_626,Finance,New York,551872.18,224,4.4,2003
+BUS0627,Business_627,Healthcare,Chicago,978812.1,211,2.9,1982
+BUS0628,Business_628,Healthcare,Chicago,987538.41,224,2.0,1985
+BUS0629,Business_629,Technology,Los Angeles,937228.18,499,2.5,1999
+BUS0630,Business_630,Finance,Houston,175383.74,249,4.2,2000
+BUS0631,Business_631,Hospitality,Los Angeles,867773.3,201,1.9,2003
+BUS0632,Business_632,Education,Miami,589961.37,7,3.8,2004
+BUS0633,Business_633,Healthcare,Miami,397141.84,24,4.2,1984
+BUS0634,Business_634,Retail,Seattle,698794.95,278,2.6,2007
+BUS0635,Business_635,Healthcare,Seattle,774589.64,107,2.4,2015
+BUS0636,Business_636,Healthcare,New York,956730.33,379,3.1,1984
+BUS0637,Business_637,Healthcare,Chicago,781848.7,196,3.8,1998
+BUS0638,Business_638,Retail,Houston,65854.93,491,2.1,2010
+BUS0639,Business_639,Education,Los Angeles,114155.94,12,2.1,1988
+BUS0640,Business_640,Healthcare,Chicago,299076.01,461,2.6,1987
+BUS0641,Business_641,Hospitality,Los Angeles,87835.52,169,4.0,1997
+BUS0642,Business_642,Education,Los Angeles,107445.42,392,2.4,2001
+BUS0643,Business_643,Finance,New York,799825.5,431,3.2,2013
+BUS0644,Business_644,Retail,Los Angeles,531280.07,276,1.7,2006
+BUS0645,Business_645,Hospitality,Chicago,647142.16,102,2.3,2013
+BUS0646,Business_646,Technology,Houston,525996.52,14,1.9,1993
+BUS0647,Business_647,Hospitality,Los Angeles,444660.39,351,3.3,1993
+BUS0648,Business_648,Education,Seattle,716720.11,7,1.7,2019
+BUS0649,Business_649,Technology,New York,128306.42,325,4.0,1983
+BUS0650,Business_650,Technology,Los Angeles,559736.58,380,4.7,1986
+BUS0651,Business_651,Healthcare,Houston,635244.7,132,1.8,2016
+BUS0652,Business_652,Retail,Los Angeles,313594.35,120,3.9,2020
+BUS0653,Business_653,Hospitality,Miami,344411.54,360,1.9,2013
+BUS0654,Business_654,Technology,Chicago,535739.46,454,2.0,1985
+BUS0655,Business_655,Finance,Houston,243037.62,181,2.1,2010
+BUS0656,Business_656,Technology,Chicago,817657.08,164,1.9,2018
+BUS0657,Business_657,Retail,Los Angeles,559570.66,71,4.3,1998
+BUS0658,Business_658,Education,New York,421194.93,57,4.3,2007
+BUS0659,Business_659,Retail,Seattle,652579.53,201,2.4,2018
+BUS0660,Business_660,Retail,Houston,842800.15,262,4.1,2000
+BUS0661,Business_661,Education,Seattle,697002.9,306,1.5,1996
+BUS0662,Business_662,Healthcare,Los Angeles,112809.33,161,1.3,2013
+BUS0663,Business_663,Hospitality,Chicago,713742.09,90,4.8,2016
+BUS0664,Business_664,Retail,New York,743460.46,38,3.0,2019
+BUS0665,Business_665,Finance,Chicago,854144.71,426,1.0,2002
+BUS0666,Business_666,Education,Seattle,105010.65,28,4.4,1988
+BUS0667,Business_667,Finance,Houston,131902.16,157,4.8,2019
+BUS0668,Business_668,Healthcare,Chicago,462759.41,490,4.4,2016
+BUS0669,Business_669,Education,Houston,480703.25,153,2.5,2011
+BUS0670,Business_670,Technology,Seattle,628390.78,238,2.3,2013
+BUS0671,Business_671,Technology,Chicago,343825.56,377,4.6,2020
+BUS0672,Business_672,Hospitality,Seattle,754608.83,271,4.5,2011
+BUS0673,Business_673,Hospitality,Miami,753625.27,310,3.3,2011
+BUS0674,Business_674,Healthcare,Miami,163470.86,273,2.1,1991
+BUS0675,Business_675,Education,Chicago,722505.58,177,1.7,2019
+BUS0676,Business_676,Education,Chicago,716424.63,227,4.1,1994
+BUS0677,Business_677,Finance,Houston,205641.0,459,3.0,1998
+BUS0678,Business_678,Hospitality,Los Angeles,955365.39,356,2.6,1992
+BUS0679,Business_679,Healthcare,Houston,546855.09,73,4.0,1980
+BUS0680,Business_680,Healthcare,New York,793837.75,180,1.5,1987
+BUS0681,Business_681,Education,Houston,734727.24,466,3.1,1981
+BUS0682,Business_682,Retail,Miami,208614.81,255,2.7,2009
+BUS0683,Business_683,Healthcare,Los Angeles,170584.08,188,4.8,2020
+BUS0684,Business_684,Retail,Seattle,792067.78,389,1.1,1987
+BUS0685,Business_685,Retail,Miami,305326.26,101,2.4,1993
+BUS0686,Business_686,Technology,New York,892094.02,89,4.4,2019
+BUS0687,Business_687,Education,Seattle,782858.78,490,4.1,2006
+BUS0688,Business_688,Healthcare,Chicago,77888.44,469,2.8,2006
+BUS0689,Business_689,Healthcare,Miami,816752.45,475,1.5,1982
+BUS0690,Business_690,Finance,Chicago,308381.57,420,3.1,2001
+BUS0691,Business_691,Finance,Seattle,110678.39,211,2.3,2002
+BUS0692,Business_692,Technology,Miami,726707.09,14,1.0,2015
+BUS0693,Business_693,Finance,Los Angeles,597819.09,121,3.7,2020
+BUS0694,Business_694,Hospitality,Houston,123216.53,119,2.5,1993
+BUS0695,Business_695,Finance,Houston,482437.89,377,1.4,1980
+BUS0696,Business_696,Education,New York,392117.7,72,2.4,2020
+BUS0697,Business_697,Education,New York,524629.51,113,4.4,1992
+BUS0698,Business_698,Hospitality,Los Angeles,588541.82,380,1.7,1998
+BUS0699,Business_699,Technology,Chicago,399303.39,16,2.1,1996
+BUS0700,Business_700,Education,Chicago,292360.28,306,2.1,1984
+BUS0701,Business_701,Education,Houston,147759.67,263,4.8,1999
+BUS0702,Business_702,Hospitality,Houston,595216.69,91,2.4,1999
+BUS0703,Business_703,Finance,Los Angeles,736639.45,68,1.7,2012
+BUS0704,Business_704,Retail,Houston,266984.2,192,2.7,2015
+BUS0705,Business_705,Retail,New York,533383.64,369,2.7,2000
+BUS0706,Business_706,Healthcare,Seattle,91836.01,338,4.0,1980
+BUS0707,Business_707,Finance,Miami,869782.07,410,2.5,1987
+BUS0708,Business_708,Education,Los Angeles,282323.88,24,2.6,2023
+BUS0709,Business_709,Healthcare,Chicago,498176.36,197,2.8,2001
+BUS0710,Business_710,Retail,Miami,413830.5,453,3.3,2001
+BUS0711,Business_711,Finance,Houston,192580.43,332,4.9,2005
+BUS0712,Business_712,Finance,Miami,934602.07,135,3.7,2016
+BUS0713,Business_713,Hospitality,Los Angeles,864610.94,399,4.3,2019
+BUS0714,Business_714,Education,Miami,575221.55,278,3.9,1981
+BUS0715,Business_715,Technology,Chicago,918250.29,324,4.2,1991
+BUS0716,Business_716,Retail,Miami,753632.54,29,3.2,1992
+BUS0717,Business_717,Retail,Seattle,448400.84,309,4.4,2001
+BUS0718,Business_718,Technology,Houston,355711.91,29,1.8,2001
+BUS0719,Business_719,Healthcare,Miami,445443.77,343,4.2,2023
+BUS0720,Business_720,Healthcare,Miami,734273.53,60,4.0,2010
+BUS0721,Business_721,Retail,Miami,307695.06,339,2.9,2010
+BUS0722,Business_722,Hospitality,New York,123992.72,433,1.0,1982
+BUS0723,Business_723,Hospitality,Chicago,404167.76,15,2.7,2021
+BUS0724,Business_724,Education,Seattle,526938.9,29,1.5,1988
+BUS0725,Business_725,Hospitality,Miami,906843.96,358,4.6,2010
+BUS0726,Business_726,Hospitality,Miami,220377.13,64,3.5,1989
+BUS0727,Business_727,Finance,Houston,814121.12,218,3.1,2020
+BUS0728,Business_728,Healthcare,Miami,982343.17,232,2.3,2009
+BUS0729,Business_729,Retail,Houston,956375.44,199,2.9,2014
+BUS0730,Business_730,Finance,Los Angeles,115480.12,68,2.0,2001
+BUS0731,Business_731,Technology,Houston,491839.47,285,4.4,2009
+BUS0732,Business_732,Education,Houston,318191.53,134,1.2,2006
+BUS0733,Business_733,Hospitality,Seattle,852604.18,247,1.4,1983
+BUS0734,Business_734,Healthcare,New York,360935.88,364,1.7,2013
+BUS0735,Business_735,Education,Miami,575436.83,83,1.9,1999
+BUS0736,Business_736,Education,New York,57570.71,110,2.0,2016
+BUS0737,Business_737,Technology,Seattle,240637.6,360,4.4,2023
+BUS0738,Business_738,Retail,New York,585616.4,356,1.4,2000
+BUS0739,Business_739,Technology,New York,338713.84,327,4.0,2015
+BUS0740,Business_740,Healthcare,Los Angeles,641581.65,9,2.0,2014
+BUS0741,Business_741,Finance,New York,490730.36,159,2.4,1981
+BUS0742,Business_742,Hospitality,Miami,612106.39,220,3.2,1993
+BUS0743,Business_743,Healthcare,Chicago,518692.64,343,4.2,2016
+BUS0744,Business_744,Finance,Miami,783982.6,56,2.4,2023
+BUS0745,Business_745,Healthcare,Seattle,235651.3,344,2.6,2001
+BUS0746,Business_746,Hospitality,Seattle,905421.13,271,2.4,2002
+BUS0747,Business_747,Finance,Miami,772458.11,143,3.7,1984
+BUS0748,Business_748,Education,New York,282870.53,323,3.4,1989
+BUS0749,Business_749,Technology,New York,56058.99,315,3.3,1997
+BUS0750,Business_750,Healthcare,Los Angeles,439534.3,363,3.6,1981
+BUS0751,Business_751,Healthcare,Los Angeles,271347.85,75,3.2,2001
+BUS0752,Business_752,Hospitality,Houston,379102.51,219,4.9,2004
+BUS0753,Business_753,Technology,Houston,847595.31,430,2.1,2020
+BUS0754,Business_754,Education,Los Angeles,883338.68,465,2.3,2014
+BUS0755,Business_755,Hospitality,Los Angeles,953440.75,58,3.0,1990
+BUS0756,Business_756,Education,Seattle,51388.94,266,4.1,2016
+BUS0757,Business_757,Education,Chicago,674438.66,373,2.8,2018
+BUS0758,Business_758,Technology,Chicago,856555.69,321,1.3,2004
+BUS0759,Business_759,Healthcare,Miami,740854.29,65,3.5,1991
+BUS0760,Business_760,Technology,Miami,148751.57,149,2.9,2018
+BUS0761,Business_761,Finance,Houston,553323.76,63,4.8,1987
+BUS0762,Business_762,Education,Miami,276259.21,406,4.5,1999
+BUS0763,Business_763,Finance,Houston,517427.43,59,3.6,2000
+BUS0764,Business_764,Healthcare,Los Angeles,106900.32,259,4.7,1982
+BUS0765,Business_765,Education,Los Angeles,997111.31,106,2.7,1997
+BUS0766,Business_766,Hospitality,Houston,726069.85,316,3.4,2006
+BUS0767,Business_767,Technology,Los Angeles,138375.31,107,2.6,1985
+BUS0768,Business_768,Finance,Seattle,925210.68,403,4.6,2011
+BUS0769,Business_769,Retail,Los Angeles,902423.1,139,1.3,1995
+BUS0770,Business_770,Hospitality,Los Angeles,543771.26,430,2.4,2003
+BUS0771,Business_771,Education,Los Angeles,715804.56,272,2.3,2008
+BUS0772,Business_772,Healthcare,Miami,403867.38,108,3.6,1999
+BUS0773,Business_773,Retail,Los Angeles,975827.05,188,3.8,1993
+BUS0774,Business_774,Education,Chicago,130657.3,365,3.4,2013
+BUS0775,Business_775,Education,Seattle,140798.16,214,2.6,1999
+BUS0776,Business_776,Retail,Miami,176838.16,156,4.6,1991
+BUS0777,Business_777,Hospitality,Los Angeles,828964.75,87,4.1,1987
+BUS0778,Business_778,Hospitality,New York,121088.96,25,4.8,2003
+BUS0779,Business_779,Technology,Miami,589429.69,285,4.0,1982
+BUS0780,Business_780,Retail,Chicago,463233.73,259,3.1,1992
+BUS0781,Business_781,Finance,Seattle,966007.36,471,2.8,1985
+BUS0782,Business_782,Technology,Miami,274933.15,111,1.7,2008
+BUS0783,Business_783,Finance,Seattle,297941.39,357,4.4,2012
+BUS0784,Business_784,Education,Miami,349258.47,482,1.5,1981
+BUS0785,Business_785,Healthcare,Los Angeles,810775.98,251,1.9,2010
+BUS0786,Business_786,Hospitality,Los Angeles,715689.33,174,2.0,2012
+BUS0787,Business_787,Hospitality,Miami,748585.23,125,4.0,1989
+BUS0788,Business_788,Healthcare,Chicago,352154.83,6,4.0,1992
+BUS0789,Business_789,Education,Chicago,308358.08,11,1.8,2001
+BUS0790,Business_790,Technology,Los Angeles,120953.06,348,2.6,2010
+BUS0791,Business_791,Hospitality,Chicago,242576.99,50,1.4,2013
+BUS0792,Business_792,Education,Los Angeles,790940.13,469,4.7,1999
+BUS0793,Business_793,Hospitality,Houston,605472.63,61,2.9,2000
+BUS0794,Business_794,Hospitality,Seattle,197640.02,432,1.2,1989
+BUS0795,Business_795,Healthcare,Miami,206156.23,298,4.1,1986
+BUS0796,Business_796,Finance,New York,492752.36,347,3.1,2013
+BUS0797,Business_797,Technology,Houston,436186.92,257,5.0,2023
+BUS0798,Business_798,Hospitality,Houston,559128.32,81,1.4,1988
+BUS0799,Business_799,Education,Los Angeles,966402.99,491,3.5,1993
+BUS0800,Business_800,Finance,Miami,247254.41,51,1.3,1982
+BUS0801,Business_801,Healthcare,Houston,342892.33,404,4.7,2009
+BUS0802,Business_802,Healthcare,Houston,301757.53,266,2.6,2004
+BUS0803,Business_803,Education,New York,163917.88,43,1.9,2013
+BUS0804,Business_804,Hospitality,Chicago,199734.61,375,4.0,1987
+BUS0805,Business_805,Technology,Miami,701752.1,375,2.8,1980
+BUS0806,Business_806,Retail,New York,835067.35,56,1.5,1999
+BUS0807,Business_807,Education,Miami,712034.08,468,3.1,1982
+BUS0808,Business_808,Technology,New York,88313.32,136,1.7,2023
+BUS0809,Business_809,Education,Houston,844128.51,334,1.1,2018
+BUS0810,Business_810,Education,Seattle,361403.98,123,2.4,1985
+BUS0811,Business_811,Technology,Chicago,136652.26,238,4.7,2001
+BUS0812,Business_812,Healthcare,Seattle,285807.85,156,4.5,2009
+BUS0813,Business_813,Healthcare,Seattle,387955.62,140,2.9,1982
+BUS0814,Business_814,Finance,Chicago,537786.69,242,4.5,1986
+BUS0815,Business_815,Education,Los Angeles,693324.21,30,4.7,2013
+BUS0816,Business_816,Healthcare,Seattle,297158.45,56,3.2,2022
+BUS0817,Business_817,Finance,Los Angeles,991142.79,421,1.5,1999
+BUS0818,Business_818,Retail,Houston,79527.99,94,4.8,1981
+BUS0819,Business_819,Finance,Seattle,434172.62,452,3.2,2016
+BUS0820,Business_820,Finance,New York,479591.11,25,3.4,1999
+BUS0821,Business_821,Finance,Houston,760674.52,441,2.8,2020
+BUS0822,Business_822,Technology,Houston,287360.0,153,4.0,1993
+BUS0823,Business_823,Education,Miami,488941.09,189,4.5,2000
+BUS0824,Business_824,Finance,Seattle,813701.92,415,2.7,1992
+BUS0825,Business_825,Hospitality,Seattle,182803.39,351,3.6,1992
+BUS0826,Business_826,Technology,Los Angeles,61359.08,165,3.1,1998
+BUS0827,Business_827,Retail,Seattle,838853.72,223,4.6,1997
+BUS0828,Business_828,Education,Los Angeles,983438.88,383,2.9,2014
+BUS0829,Business_829,Education,Seattle,174179.48,64,1.9,2000
+BUS0830,Business_830,Hospitality,Seattle,832489.74,53,1.4,2008
+BUS0831,Business_831,Hospitality,Chicago,403627.76,440,2.2,2022
+BUS0832,Business_832,Technology,Chicago,648782.67,393,2.6,1987
+BUS0833,Business_833,Education,Seattle,662450.76,460,1.6,1997
+BUS0834,Business_834,Technology,Seattle,603207.61,28,1.0,1989
+BUS0835,Business_835,Finance,Seattle,295879.62,9,3.1,1990
+BUS0836,Business_836,Technology,Seattle,822109.74,441,4.0,1997
+BUS0837,Business_837,Education,New York,70710.17,75,1.5,1987
+BUS0838,Business_838,Retail,Houston,111248.43,344,2.1,1980
+BUS0839,Business_839,Technology,New York,907371.28,336,3.1,2019
+BUS0840,Business_840,Hospitality,Seattle,471259.76,92,3.8,2015
+BUS0841,Business_841,Technology,Los Angeles,172351.97,173,3.0,2012
+BUS0842,Business_842,Finance,Seattle,909824.07,188,4.0,1986
+BUS0843,Business_843,Education,Houston,837888.37,462,2.2,1993
+BUS0844,Business_844,Hospitality,Chicago,364972.4,229,4.1,2014
+BUS0845,Business_845,Hospitality,Seattle,90561.5,494,4.2,2002
+BUS0846,Business_846,Hospitality,Seattle,487945.18,323,3.4,2015
+BUS0847,Business_847,Technology,Chicago,209589.75,142,4.2,2000
+BUS0848,Business_848,Healthcare,Los Angeles,595189.99,454,3.2,1997
+BUS0849,Business_849,Finance,New York,830601.13,380,1.8,1989
+BUS0850,Business_850,Finance,New York,425248.75,52,4.5,1998
+BUS0851,Business_851,Hospitality,Chicago,78008.18,195,2.7,2016
+BUS0852,Business_852,Retail,Los Angeles,699052.27,422,2.0,1995
+BUS0853,Business_853,Retail,Los Angeles,214166.85,180,3.9,1990
+BUS0854,Business_854,Education,Miami,253980.3,98,3.6,1984
+BUS0855,Business_855,Hospitality,Miami,227793.56,63,4.3,1999
+BUS0856,Business_856,Hospitality,Houston,315861.83,210,1.9,2019
+BUS0857,Business_857,Finance,Miami,889252.61,209,1.3,2001
+BUS0858,Business_858,Technology,Los Angeles,82916.97,497,3.5,2014
+BUS0859,Business_859,Retail,Seattle,638217.72,238,3.1,2008
+BUS0860,Business_860,Education,Seattle,283495.54,144,4.2,1983
+BUS0861,Business_861,Hospitality,Miami,330349.9,432,3.5,1988
+BUS0862,Business_862,Technology,Houston,441392.6,202,3.8,1981
+BUS0863,Business_863,Finance,New York,573154.23,358,2.1,2010
+BUS0864,Business_864,Hospitality,Miami,107930.12,440,3.6,2023
+BUS0865,Business_865,Retail,Los Angeles,315787.19,249,3.1,1983
+BUS0866,Business_866,Finance,New York,180374.22,414,2.1,1986
+BUS0867,Business_867,Healthcare,Los Angeles,239484.92,220,1.8,2004
+BUS0868,Business_868,Technology,Los Angeles,890419.89,337,1.3,1983
+BUS0869,Business_869,Retail,Los Angeles,549523.36,458,1.5,1985
+BUS0870,Business_870,Education,Los Angeles,649216.67,413,1.4,2007
+BUS0871,Business_871,Education,Miami,812059.68,90,2.8,2005
+BUS0872,Business_872,Finance,Seattle,805103.93,62,2.8,1991
+BUS0873,Business_873,Healthcare,Los Angeles,989933.43,72,3.8,2018
+BUS0874,Business_874,Retail,Miami,792819.98,361,3.0,2017
+BUS0875,Business_875,Hospitality,New York,391156.5,376,2.3,2020
+BUS0876,Business_876,Education,Houston,567291.92,35,1.6,2008
+BUS0877,Business_877,Healthcare,Miami,510445.51,487,4.9,2019
+BUS0878,Business_878,Hospitality,New York,917043.17,437,1.1,2002
+BUS0879,Business_879,Retail,New York,527273.59,86,4.9,1999
+BUS0880,Business_880,Technology,Los Angeles,418962.21,58,2.1,2001
+BUS0881,Business_881,Healthcare,Chicago,220825.08,218,1.5,1992
+BUS0882,Business_882,Healthcare,Houston,352933.69,471,2.8,2022
+BUS0883,Business_883,Retail,Seattle,258069.18,307,1.0,2014
+BUS0884,Business_884,Finance,Miami,900976.54,252,1.4,1985
+BUS0885,Business_885,Hospitality,Los Angeles,789611.37,415,1.1,2009
+BUS0886,Business_886,Finance,New York,105661.67,296,1.9,2016
+BUS0887,Business_887,Retail,Seattle,991954.76,352,2.7,1988
+BUS0888,Business_888,Technology,Los Angeles,552960.68,229,4.1,1985
+BUS0889,Business_889,Technology,Houston,778500.06,97,3.0,2009
+BUS0890,Business_890,Education,Los Angeles,999625.46,317,2.5,1986
+BUS0891,Business_891,Education,New York,975280.87,199,3.8,2009
+BUS0892,Business_892,Technology,New York,145127.62,403,1.1,1999
+BUS0893,Business_893,Healthcare,Miami,674021.2,188,1.3,2023
+BUS0894,Business_894,Hospitality,Houston,303200.65,318,4.0,2021
+BUS0895,Business_895,Healthcare,Chicago,825470.9,19,1.6,2009
+BUS0896,Business_896,Technology,Houston,921396.51,446,2.1,2010
+BUS0897,Business_897,Technology,Chicago,103113.22,355,2.6,1994
+BUS0898,Business_898,Healthcare,Houston,996572.45,455,3.2,1994
+BUS0899,Business_899,Education,Houston,258441.01,434,1.7,1989
+BUS0900,Business_900,Education,Los Angeles,854179.84,377,4.6,2019
+BUS0901,Business_901,Hospitality,Los Angeles,807521.15,461,2.0,1996
+BUS0902,Business_902,Healthcare,Miami,387064.4,71,2.5,2003
+BUS0903,Business_903,Hospitality,Seattle,847261.14,252,1.1,2005
+BUS0904,Business_904,Education,New York,852959.86,476,4.9,1991
+BUS0905,Business_905,Healthcare,Chicago,217295.35,254,3.9,2022
+BUS0906,Business_906,Education,Miami,612893.53,62,2.5,2001
+BUS0907,Business_907,Finance,New York,815899.71,459,4.9,2000
+BUS0908,Business_908,Finance,Houston,712745.24,215,2.0,2009
+BUS0909,Business_909,Retail,New York,918281.0,230,5.0,2011
+BUS0910,Business_910,Education,Houston,76796.24,28,1.8,1981
+BUS0911,Business_911,Technology,Houston,715532.76,37,3.9,1984
+BUS0912,Business_912,Hospitality,Houston,950180.8,138,1.4,2010
+BUS0913,Business_913,Healthcare,New York,585426.16,340,3.7,1987
+BUS0914,Business_914,Finance,Los Angeles,584953.45,165,1.8,2002
+BUS0915,Business_915,Education,Houston,228821.98,11,2.6,2010
+BUS0916,Business_916,Technology,New York,988605.9,365,4.8,2009
+BUS0917,Business_917,Education,Los Angeles,887545.04,449,4.7,1990
+BUS0918,Business_918,Education,Houston,517615.39,352,1.6,1998
+BUS0919,Business_919,Finance,New York,343600.42,273,3.9,2002
+BUS0920,Business_920,Finance,Houston,515914.6,397,4.0,2018
+BUS0921,Business_921,Education,Miami,135744.51,385,3.2,2016
+BUS0922,Business_922,Hospitality,Chicago,270992.19,300,1.5,1988
+BUS0923,Business_923,Education,Houston,257868.49,375,2.9,2012
+BUS0924,Business_924,Hospitality,Chicago,550126.09,294,2.2,1986
+BUS0925,Business_925,Education,New York,50649.32,119,2.4,2005
+BUS0926,Business_926,Healthcare,Chicago,922001.38,494,1.2,1986
+BUS0927,Business_927,Technology,Miami,241391.16,347,3.7,2000
+BUS0928,Business_928,Education,Miami,173965.07,452,4.9,2015
+BUS0929,Business_929,Finance,Chicago,731090.75,178,1.9,2021
+BUS0930,Business_930,Retail,Miami,922841.75,270,2.7,1984
+BUS0931,Business_931,Healthcare,Miami,852069.88,272,1.1,1999
+BUS0932,Business_932,Finance,Houston,357409.37,357,4.2,2014
+BUS0933,Business_933,Healthcare,New York,70817.25,363,3.3,2009
+BUS0934,Business_934,Retail,Chicago,607278.72,321,2.6,2005
+BUS0935,Business_935,Education,New York,921362.94,53,2.0,2017
+BUS0936,Business_936,Hospitality,Seattle,785648.17,226,4.9,2006
+BUS0937,Business_937,Education,Seattle,854156.84,343,3.3,1995
+BUS0938,Business_938,Hospitality,New York,867635.99,377,3.8,2019
+BUS0939,Business_939,Finance,Seattle,962530.81,132,3.8,1995
+BUS0940,Business_940,Healthcare,New York,404911.24,251,1.6,2015
+BUS0941,Business_941,Finance,Chicago,944827.05,182,4.1,1990
+BUS0942,Business_942,Technology,Miami,425815.78,344,2.0,2010
+BUS0943,Business_943,Finance,Miami,145980.56,351,3.0,2004
+BUS0944,Business_944,Finance,Seattle,336676.9,333,3.7,1984
+BUS0945,Business_945,Technology,Houston,179629.09,202,2.4,2001
+BUS0946,Business_946,Retail,Chicago,199628.69,81,4.9,1993
+BUS0947,Business_947,Hospitality,Seattle,951258.86,434,4.0,2017
+BUS0948,Business_948,Retail,Chicago,802250.4,428,1.2,2007
+BUS0949,Business_949,Hospitality,Seattle,962629.0,290,2.4,2007
+BUS0950,Business_950,Hospitality,Seattle,666721.25,461,1.6,2016
+BUS0951,Business_951,Finance,Chicago,215492.54,318,3.1,2001
+BUS0952,Business_952,Hospitality,Miami,970305.75,32,1.4,2014
+BUS0953,Business_953,Hospitality,Houston,708882.38,10,3.0,1995
+BUS0954,Business_954,Finance,Houston,932402.95,334,2.3,1991
+BUS0955,Business_955,Technology,Houston,797642.2,483,3.2,2022
+BUS0956,Business_956,Finance,Chicago,262075.35,85,3.6,2022
+BUS0957,Business_957,Retail,Los Angeles,609502.65,263,2.4,1984
+BUS0958,Business_958,Education,Houston,216584.05,439,4.6,2016
+BUS0959,Business_959,Technology,Houston,341482.07,245,3.9,2011
+BUS0960,Business_960,Finance,Miami,704073.52,441,1.1,1987
+BUS0961,Business_961,Finance,Los Angeles,170980.95,258,2.5,2017
+BUS0962,Business_962,Education,New York,742389.41,450,3.9,2018
+BUS0963,Business_963,Finance,New York,951348.7,89,2.0,2009
+BUS0964,Business_964,Hospitality,Los Angeles,951263.25,43,1.2,2000
+BUS0965,Business_965,Retail,Miami,422021.36,389,3.8,2015
+BUS0966,Business_966,Healthcare,Houston,994568.97,256,3.2,1986
+BUS0967,Business_967,Retail,Houston,966924.74,169,3.2,2008
+BUS0968,Business_968,Hospitality,Miami,80763.61,128,3.0,1991
+BUS0969,Business_969,Education,Los Angeles,622269.23,174,3.3,1999
+BUS0970,Business_970,Hospitality,Chicago,924986.31,147,3.2,2005
+BUS0971,Business_971,Healthcare,Los Angeles,969155.1,30,2.3,1984
+BUS0972,Business_972,Retail,Seattle,259850.49,264,2.9,2018
+BUS0973,Business_973,Finance,Miami,587272.73,119,4.5,1986
+BUS0974,Business_974,Hospitality,New York,939853.4,286,3.4,2023
+BUS0975,Business_975,Healthcare,Miami,183611.2,334,4.4,2018
+BUS0976,Business_976,Technology,Chicago,758076.16,198,1.6,2004
+BUS0977,Business_977,Retail,Miami,276096.13,211,3.1,2000
+BUS0978,Business_978,Hospitality,Seattle,983260.67,423,2.8,2011
+BUS0979,Business_979,Healthcare,New York,209493.05,125,4.3,2021
+BUS0980,Business_980,Technology,Los Angeles,891054.24,45,3.2,2022
+BUS0981,Business_981,Retail,New York,134289.71,240,2.8,1983
+BUS0982,Business_982,Hospitality,New York,723517.52,232,4.1,1985
+BUS0983,Business_983,Retail,Houston,657147.55,415,3.0,1993
+BUS0984,Business_984,Technology,Miami,892320.84,298,3.9,1988
+BUS0985,Business_985,Finance,New York,474298.44,234,4.5,2017
+BUS0986,Business_986,Finance,Miami,301951.82,50,3.5,2020
+BUS0987,Business_987,Hospitality,Chicago,287063.82,443,2.5,1980
+BUS0988,Business_988,Technology,Los Angeles,114405.04,260,3.5,1989
+BUS0989,Business_989,Finance,Los Angeles,293825.04,233,2.3,2022
+BUS0990,Business_990,Retail,Seattle,152632.87,166,1.3,1989
+BUS0991,Business_991,Technology,New York,51217.1,65,4.9,2008
+BUS0992,Business_992,Retail,Houston,416640.24,259,4.3,2014
+BUS0993,Business_993,Technology,Los Angeles,745955.27,386,1.8,1998
+BUS0994,Business_994,Technology,Miami,970646.73,339,3.7,2004
+BUS0995,Business_995,Hospitality,Miami,890324.4,14,4.1,2019
+BUS0996,Business_996,Retail,Los Angeles,518427.89,57,1.6,2016
+BUS0997,Business_997,Technology,Houston,409776.95,211,2.1,2008
+BUS0998,Business_998,Technology,Miami,568722.77,216,2.6,1992
+BUS0999,Business_999,Hospitality,Los Angeles,146357.13,23,2.3,1993
+BUS1000,Business_1000,Hospitality,Los Angeles,505514.79,290,1.4,2023
