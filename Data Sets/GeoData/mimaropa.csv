@@ -1,73 +1,73 @@
-﻿NAME_1,NAME_2,LGU,Class,Overall_Score,Population,Revenue,Provincial_Score
-OccidentalMindoro,AbradeIlog,Abra de Ilog,Second Class Municipality,28.5006,"31,306","305,923,432.39",3.9644
-OccidentalMindoro,Calintaan,Calintaan,Third Class Municipality,28.8515,"29,826","16,943,529.41",1.0271
-OccidentalMindoro,Looc,Looc,Fifth Class Municipality,32.6385,"7,802","1,108,136.72",0.2676
-OccidentalMindoro,Lubang,Lubang,Fourth Class Municipality,24.7033,"17,437","9,527,400.24",0.5114
-OccidentalMindoro,Magsaysay,Magsaysay,Third Class Municipality,29.9612,"36,016","9,643,656.44",1.1745
-OccidentalMindoro,Mamburao,Mamburao,Second Class Municipality,31.2934,"42,975","244,898,157.89",4.0431
-OccidentalMindoro,Paluan,Paluan,Third Class Municipality,21.7302,"18,566","8,872,283.56",0.4672
-OccidentalMindoro,Rizal,Rizal,Third Class Municipality,30.5871,"40,429","12,549,013.00",1.3642
-OccidentalMindoro,Sablayan,Sablayan,First Class Municipality,33.3905,"83,169","45,724,247.91",3.2956
-OccidentalMindoro,SanJose,San Jose,First Class Municipality,36.4073,"153,267","750,096,845.31",15.1891
-OccidentalMindoro,SantaCruz,Santa Cruz,Fifth Class Municipality,28.1935,"42,417","10,692,736.51",1.2941
-OrientalMindoro,Baco,Baco,Third Class Municipality,28.8158,"39,817","14,689,999.06",0.6743
-OrientalMindoro,Bansud,Bansud,Second Class Municipality,28.3829,"40,992","267,591,123.58",0.6925
-OrientalMindoro,Bongabong,Bongabong,First Class Municipality,32.9518,"72,073","314,582,582,528.42",17.6819
-OrientalMindoro,Bulalacao,Bulalacao,Third Class Municipality,24.6072,"39,107","10,778,308.63",0.5635
-OrientalMindoro,CalapanCity,Calapan City,Component City,47.9056,"133,893","1,387,586,581.18",3.866
-OrientalMindoro,Gloria,Gloria,Third Class Municipality,27.1582,"45,073","19,088,890.51",0.717
-OrientalMindoro,Mansalay,Mansalay,Second Class Municipality,23.6369,"54,533","248,064,500.04",0.7658
-OrientalMindoro,Naujan,Naujan,First Class Municipality,31.37,"102,998","499,821,790.37",1.9198
-OrientalMindoro,Pinamalayan,Pinamalayan,First Class Municipality,34.9735,"86,172","360,459,503.00",1.7906
-OrientalMindoro,Pola,Pola,Third Class Municipality,26.7017,"34,701","196,427,849.14",0.5527
-OrientalMindoro,PuertoGalera,Puerto Galera,First Class Municipality,31.1179,"36,606","299,836,696.13",0.6846
-OrientalMindoro,Roxas,Roxas,Second Class Municipality,31.328,"58,849","41,467,958.01",1.0839
-OrientalMindoro,SanTeodoro,San Teodoro,Fourth Class Municipality,28.3211,"17,904","210,177,667.47",0.3059
-OrientalMindoro,Socorro,Socorro,Third Class Municipality,30.2746,"39,099","19,993,781.65",0.6933
-OrientalMindoro,Victoria,Victoria,Second Class Municipality,28.1157,"50,492","42,304,783.56",0.835
-Marinduque,Boac,Boac,First Class Municipality,32.6332,"54,730","311,612,065.51",9.6398
-Marinduque,Buenavista,Buenavista,Fourth Class Municipality,28.394,"23,988","7,968,835.59",1.5844
-Marinduque,Gasan,Gasan,Third Class Municipality,29.5497,"34,828","197,682,890.09",5.5465
-Marinduque,Mogpog,Mogpog,Third Class Municipality,31.765,"34,043","24,890,129.96",2.7604
-Marinduque,SantaCruz,SantaCruz,First Class Municipality,30.2715,"56,408","306,257,893.80",8.9573
-Marinduque,Torrijos,Torrijos,Third Class Municipality,31.0751,"30,476","23,507,719.02",2.4394
-Romblon,Alcantara,Alcantara,Fifth Class Municipality,31.6508,"16,351","5,246,715.10",1.0508
-Romblon,Banton,Banton,Fifth Class Municipality,28.1007,"5,536","2,229,708.76",0.3288
-Romblon,Cajidiocan,Cajidiocan,Fourth Class Municipality,21.5279,"23,759","5,156,038.65",0.9774
-Romblon,Calatrava,Calatrava,Fifth Class Municipality,31.486,"11,342","3,128,291.64",0.7084
-Romblon,Concepcion,Concepcion,Sixth Class Municipality,5.9286,"4,037","1,908,733.55",0.0528
-Romblon,Corcuera,Corcuera,Fifth Class Municipality,23.2319,"10,283","92,401,060.11",2.8389
-Romblon,Ferrol,Ferrol,Sixth Class Municipality,25.5518,"6,964","84,570,749.42",2.7545
-Romblon,Looc,Looc,Fourth Class Municipality,31.2444,"21,799","13,962,734.05",1.631
-Romblon,Magdiwang,Magdiwang,Fifth Class Municipality,26.2862,"15,385","1,805,696.93",0.7281
-Romblon,Odiongan,Odiongan,Second Class Municipality,38.3096,"45,367","50,718,013.85",5.099
-Romblon,Romblon,Romblon,Third Class Municipality,28.8703,"40,554","22,847,985.28",2.6965
-Romblon,SanAgustin,San Agustin,Fourth Class Municipality,30.7601,"24,115","14,326,150.13",1.7349
-Romblon,SanAndres,San Andres,Fifth Class Municipality,28.9009,"15,940","3,654,269.63",0.8873
-Romblon,SanFernando,San Fernando,Fourth Class Municipality,32.0945,"23,271","7,370,000.00",1.5117
-Romblon,SanJose,San Jose,Fifth Class Municipality,31.2101,"10,881","4,924,251.53",0.7397
-Romblon,SantaFe,Santa Fe,Fifth Class Municipality,26.5857,"16,098","122,530,926.41",4.4159
-Romblon,SantaMaria,Santa Maria,Fifth Class Municipality,28.7494,"8,989","2,935,480.00",0.5232
-Palawan,Aborlan,Aborlan,First Class Municipality,29.7509,"35,091","432,614,196.79",2.3949
-Palawan,Agutaya,Agutaya,Fifth Class Municipality,22.6547,"12,545","3,690,379.50",0.179
-Palawan,Araceli,Araceli,Fourth Class Municipality,22.6185,"14,909",0,0.199
-Palawan,Balabac,Balabac,Second Class Municipality,22.0176,"40,142","4,014,749.00",0.5328
-Palawan,Bataraza,Bataraza,First Class Municipality,31.4311,"75,468","94,650,000.00",1.8073
-Palawan,Brooke'sPoint,Brooke's Point,First Class Municipality,30.5,"66,374","76,906,221.79",1.5128
-Palawan,Busuanga,Busuanga,Third Class Municipality,28.0397,"22,046","13,509,642.46",0.4178
-Palawan,Cagayancillo,Cagayancillo,Sixth Class Municipality,25.306,"7,242","82,636,416.27",0.3973
-Palawan,Coron,Coron,First Class Municipality,31.7745,"51,803","486,360,846.89",3.1075
-Palawan,Culion,Culion,Third Class Municipality,29.9214,"20,139","4,561,185.55",0.371
-Palawan,Cuyo,Cuyo,Fourth Class Municipality,23.2488,"22,360","158,566,925.17",0.816
-Palawan,Dumaran,Dumaran,Third Class Municipality,24.5803,"23,734","13,117,619.49",0.3884
-Palawan,ElNido,El Nido,First Class Municipality,31.9347,"41,606","132,460,227.34",1.3668
-Palawan,Linapacan,Linapacan,Fifth Class Municipality,17.9033,"15,668","5,603,695.87",0.179
-Palawan,Magsaysay,Magsaysay,Fifth Class Municipality,22.5371,"12,196","3,596,530.04",0.1735
-Palawan,Narra,Narra,First Class Municipality,28.6266,"73,212","492,415,894.59",3.1833
-Palawan,PuertoPrincesaCity,Puerto Princesa City,Component City,49.2839,"307,079","1,835,385,889.28",3.754
-Palawan,Quezon,Quezon,First Class Municipality,32.1334,"60,980","519,129,677.91",1.733
-Palawan,Rizal,Rizal,First Class Municipality,24.1779,"50,096","24,420,281.20",0.7955
-Palawan,Roxas,Roxas,First Class Municipality,30.4666,"65,358",0,1.1699
-Palawan,SanVicente,San Vicente,First Class Municipality,27.1035,"31,232","16,447,090.40",0.561
-Palawan,SofronioEspanola,Sofronio Espanola,Second Class Municipality,22.1184,"32,876","350,177,140.98",1.4996
-Palawan,Taytay,Taytay,First Class Municipality,29.8793,"75,165","696,181,670.16",4.201
+﻿NAME_1,NAME_2,Province,LGU,Class,Overall_Score,Population,Revenue,Provincial_Score
+OccidentalMindoro,AbradeIlog,Occidental Mindoro,Abra de Ilog,Second Class Municipality,28.5006,"31,306","305,923,432.39",3.9644
+OccidentalMindoro,Calintaan,Occidental Mindoro,Calintaan,Third Class Municipality,28.8515,"29,826","16,943,529.41",1.0271
+OccidentalMindoro,Looc,Occidental Mindoro,Looc,Fifth Class Municipality,32.6385,"7,802","1,108,136.72",0.2676
+OccidentalMindoro,Lubang,Occidental Mindoro,Lubang,Fourth Class Municipality,24.7033,"17,437","9,527,400.24",0.5114
+OccidentalMindoro,Magsaysay,Occidental Mindoro,Magsaysay,Third Class Municipality,29.9612,"36,016","9,643,656.44",1.1745
+OccidentalMindoro,Mamburao,Occidental Mindoro,Mamburao,Second Class Municipality,31.2934,"42,975","244,898,157.89",4.0431
+OccidentalMindoro,Paluan,Occidental Mindoro,Paluan,Third Class Municipality,21.7302,"18,566","8,872,283.56",0.4672
+OccidentalMindoro,Rizal,Occidental Mindoro,Rizal,Third Class Municipality,30.5871,"40,429","12,549,013.00",1.3642
+OccidentalMindoro,Sablayan,Occidental Mindoro,Sablayan,First Class Municipality,33.3905,"83,169","45,724,247.91",3.2956
+OccidentalMindoro,SanJose,Occidental Mindoro,San Jose,First Class Municipality,36.4073,"153,267","750,096,845.31",15.1891
+OccidentalMindoro,SantaCruz,Occidental Mindoro,Santa Cruz,Fifth Class Municipality,28.1935,"42,417","10,692,736.51",1.2941
+OrientalMindoro,Baco,Oriental Mindoro,Baco,Third Class Municipality,28.8158,"39,817","14,689,999.06",0.6743
+OrientalMindoro,Bansud,Oriental Mindoro,Bansud,Second Class Municipality,28.3829,"40,992","267,591,123.58",0.6925
+OrientalMindoro,Bongabong,Oriental Mindoro,Bongabong,First Class Municipality,32.9518,"72,073","314,582,582,528.42",17.6819
+OrientalMindoro,Bulalacao,Oriental Mindoro,Bulalacao,Third Class Municipality,24.6072,"39,107","10,778,308.63",0.5635
+OrientalMindoro,CalapanCity,Oriental Mindoro,Calapan City,Component City,47.9056,"133,893","1,387,586,581.18",3.866
+OrientalMindoro,Gloria,Oriental Mindoro,Gloria,Third Class Municipality,27.1582,"45,073","19,088,890.51",0.717
+OrientalMindoro,Mansalay,Oriental Mindoro,Mansalay,Second Class Municipality,23.6369,"54,533","248,064,500.04",0.7658
+OrientalMindoro,Naujan,Oriental Mindoro,Naujan,First Class Municipality,31.37,"102,998","499,821,790.37",1.9198
+OrientalMindoro,Pinamalayan,Oriental Mindoro,Pinamalayan,First Class Municipality,34.9735,"86,172","360,459,503.00",1.7906
+OrientalMindoro,Pola,Oriental Mindoro,Pola,Third Class Municipality,26.7017,"34,701","196,427,849.14",0.5527
+OrientalMindoro,PuertoGalera,Oriental Mindoro,Puerto Galera,First Class Municipality,31.1179,"36,606","299,836,696.13",0.6846
+OrientalMindoro,Roxas,Oriental Mindoro,Roxas,Second Class Municipality,31.328,"58,849","41,467,958.01",1.0839
+OrientalMindoro,SanTeodoro,Oriental Mindoro,San Teodoro,Fourth Class Municipality,28.3211,"17,904","210,177,667.47",0.3059
+OrientalMindoro,Socorro,Oriental Mindoro,Socorro,Third Class Municipality,30.2746,"39,099","19,993,781.65",0.6933
+OrientalMindoro,Victoria,Oriental Mindoro,Victoria,Second Class Municipality,28.1157,"50,492","42,304,783.56",0.835
+Marinduque,Boac,Marinduque,Boac,First Class Municipality,32.6332,"54,730","311,612,065.51",9.6398
+Marinduque,Buenavista,Marinduque,Buenavista,Fourth Class Municipality,28.394,"23,988","7,968,835.59",1.5844
+Marinduque,Gasan,Marinduque,Gasan,Third Class Municipality,29.5497,"34,828","197,682,890.09",5.5465
+Marinduque,Mogpog,Marinduque,Mogpog,Third Class Municipality,31.765,"34,043","24,890,129.96",2.7604
+Marinduque,SantaCruz,Marinduque,SantaCruz,First Class Municipality,30.2715,"56,408","306,257,893.80",8.9573
+Marinduque,Torrijos,Marinduque,Torrijos,Third Class Municipality,31.0751,"30,476","23,507,719.02",2.4394
+Romblon,Alcantara,Romblon,Alcantara,Fifth Class Municipality,31.6508,"16,351","5,246,715.10",1.0508
+Romblon,Banton,Romblon,Banton,Fifth Class Municipality,28.1007,"5,536","2,229,708.76",0.3288
+Romblon,Cajidiocan,Romblon,Cajidiocan,Fourth Class Municipality,21.5279,"23,759","5,156,038.65",0.9774
+Romblon,Calatrava,Romblon,Calatrava,Fifth Class Municipality,31.486,"11,342","3,128,291.64",0.7084
+Romblon,Concepcion,Romblon,Concepcion,Sixth Class Municipality,5.9286,"4,037","1,908,733.55",0.0528
+Romblon,Corcuera,Romblon,Corcuera,Fifth Class Municipality,23.2319,"10,283","92,401,060.11",2.8389
+Romblon,Ferrol,Romblon,Ferrol,Sixth Class Municipality,25.5518,"6,964","84,570,749.42",2.7545
+Romblon,Looc,Romblon,Looc,Fourth Class Municipality,31.2444,"21,799","13,962,734.05",1.631
+Romblon,Magdiwang,Romblon,Magdiwang,Fifth Class Municipality,26.2862,"15,385","1,805,696.93",0.7281
+Romblon,Odiongan,Romblon,Odiongan,Second Class Municipality,38.3096,"45,367","50,718,013.85",5.099
+Romblon,Romblon,Romblon,Romblon,Third Class Municipality,28.8703,"40,554","22,847,985.28",2.6965
+Romblon,SanAgustin,Romblon,San Agustin,Fourth Class Municipality,30.7601,"24,115","14,326,150.13",1.7349
+Romblon,SanAndres,Romblon,San Andres,Fifth Class Municipality,28.9009,"15,940","3,654,269.63",0.8873
+Romblon,SanFernando,Romblon,San Fernando,Fourth Class Municipality,32.0945,"23,271","7,370,000.00",1.5117
+Romblon,SanJose,Romblon,San Jose,Fifth Class Municipality,31.2101,"10,881","4,924,251.53",0.7397
+Romblon,SantaFe,Romblon,Santa Fe,Fifth Class Municipality,26.5857,"16,098","122,530,926.41",4.4159
+Romblon,SantaMaria,Romblon,Santa Maria,Fifth Class Municipality,28.7494,"8,989","2,935,480.00",0.5232
+Palawan,Aborlan,Palawan,Aborlan,First Class Municipality,29.7509,"35,091","432,614,196.79",2.3949
+Palawan,Agutaya,Palawan,Agutaya,Fifth Class Municipality,22.6547,"12,545","3,690,379.50",0.179
+Palawan,Araceli,Palawan,Araceli,Fourth Class Municipality,22.6185,"14,909",0,0.199
+Palawan,Balabac,Palawan,Balabac,Second Class Municipality,22.0176,"40,142","4,014,749.00",0.5328
+Palawan,Bataraza,Palawan,Bataraza,First Class Municipality,31.4311,"75,468","94,650,000.00",1.8073
+Palawan,Brooke'sPoint,Palawan,Brooke's Point,First Class Municipality,30.5,"66,374","76,906,221.79",1.5128
+Palawan,Busuanga,Palawan,Busuanga,Third Class Municipality,28.0397,"22,046","13,509,642.46",0.4178
+Palawan,Cagayancillo,Palawan,Cagayancillo,Sixth Class Municipality,25.306,"7,242","82,636,416.27",0.3973
+Palawan,Coron,Palawan,Coron,First Class Municipality,31.7745,"51,803","486,360,846.89",3.1075
+Palawan,Culion,Palawan,Culion,Third Class Municipality,29.9214,"20,139","4,561,185.55",0.371
+Palawan,Cuyo,Palawan,Cuyo,Fourth Class Municipality,23.2488,"22,360","158,566,925.17",0.816
+Palawan,Dumaran,Palawan,Dumaran,Third Class Municipality,24.5803,"23,734","13,117,619.49",0.3884
+Palawan,ElNido,Palawan,El Nido,First Class Municipality,31.9347,"41,606","132,460,227.34",1.3668
+Palawan,Linapacan,Palawan,Linapacan,Fifth Class Municipality,17.9033,"15,668","5,603,695.87",0.179
+Palawan,Magsaysay,Palawan,Magsaysay,Fifth Class Municipality,22.5371,"12,196","3,596,530.04",0.1735
+Palawan,Narra,Palawan,Narra,First Class Municipality,28.6266,"73,212","492,415,894.59",3.1833
+Palawan,PuertoPrincesaCity,Palawan,Puerto Princesa City,Component City,49.2839,"307,079","1,835,385,889.28",3.754
+Palawan,Quezon,Palawan,Quezon,First Class Municipality,32.1334,"60,980","519,129,677.91",1.733
+Palawan,Rizal,Palawan,Rizal,First Class Municipality,24.1779,"50,096","24,420,281.20",0.7955
+Palawan,Roxas,Palawan,Roxas,First Class Municipality,30.4666,"65,358",0,1.1699
+Palawan,SanVicente,Palawan,San Vicente,First Class Municipality,27.1035,"31,232","16,447,090.40",0.561
+Palawan,SofronioEspanola,Palawan,Sofronio Espanola,Second Class Municipality,22.1184,"32,876","350,177,140.98",1.4996
+Palawan,Taytay,Palawan,Taytay,First Class Municipality,29.8793,"75,165","696,181,670.16",4.201
