@@ -12,7 +12,7 @@ d. Use StandardScaler to normalize the dataset
 e. Remove the validation data from the dataset before training
 f. Train/Test Split is test_size = 0.2, random_state = 101
 
-Questions:
+Questions (Write on Paper):
 
 1. 	What is the accuracy of the model based on classification report?
 2. 	What is the prediction on the 1st validation data? (0 or 1)?
@@ -36,7 +36,7 @@ c. Use StandardScaler to normalize the dataset
 e. Remove the validation data from the dataset before training
 f. Train/Test Split is test_size = 0.2, random_state = 101
 
-Questions:
+Questions (Write on Paper):
 
 6. What is the optimized k-value of the model?
 7. Using the optimized k-value of the model, what is the model's accuracy?
@@ -44,7 +44,7 @@ Questions:
 9. What is the prediction for validation data number 1? Malignant (M) or Benign (B)?
 10. What is the predictio for validation data number 2? Malignant (M) or Benign (B)?
 
-
+(Send two separate notebooks to renatomaaliw3@yahoo.com)
 
 
 
