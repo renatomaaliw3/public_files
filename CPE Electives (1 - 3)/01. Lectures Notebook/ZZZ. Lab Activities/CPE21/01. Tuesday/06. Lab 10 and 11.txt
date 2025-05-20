@@ -1,0 +1,54 @@
+Lab 9 (Linear Regression) to be included in the Final Lab Exams
+
+--x--x--x--x---x
+Lab 10 (Logistic Regression)
+Instructions:
+a. Load Dataset 'cancer_coded.csv'
+b. You need to drop the 'Sample code number' from the dataset as this does not contribute to the prediction (data cleaning)
+c. Insert a validation data at the end of the dataframe
+   [5, 9, 9, 3, 7, 3, 8, 9, 2, -1]
+   [3, 2, 1, 1, 2, 3, 1, 1, 1, -1]
+d. Use StandardScaler to normalize the dataset
+e. Remove the validation data from the dataset before training
+f. Train/Test Split is test_size = 0.2, random_state = 101
+
+Questions:
+
+1. 	What is the accuracy of the model based on classification report?
+2. 	What is the prediction on the 1st validation data? (0 or 1)?
+3. 	What is the prediction on the 2nd validation data? (0 or 1?
+4 to 5. Give at least two variables that can highly predict the 'Outcome Predicton' based on Logistics Graphs
+
+--x--x--x--x---x
+
+Lab 11 (K-Nearest Neighbors)
+Instructions:
+a. Load Dataset 'wisconsin_data-02.csv'
+b. Insert a validation data at the end of the dataframe
+
+data = [[2.68, 23.84, 82.69, 499, 0.1122, 0.1262, 0.1128, 0.06873, 0.1905, 0.0659, 0.4255, 1.178, 2.927, 36.46,	0.007781,
+        0.02648, 0.02973, 0.0129, 0.01635, 0.003601, 17.09, 33.47, 111.8, 888.3, 0.1851, 0.4061, 0.4024, 0.1716, 0.3383, 0.103, 'Unknown'],
+
+        [3.08, 15.71, 85.63, 520, 0.1075, 0.127, 0.04568, 0.0311, 0.1967, 0.06811, 0.1852, 0.7477, 1.383, 14.67, 0.004097, 0.01898, 0.01698, 0.00649, 0.01678,
+         0.002425, 14.5, 20.49,	96.09, 630.5, 0.1312, 0.2776, 0.189, 0.07283, 0.3184, 0.0818, 'Unknown']]
+
+c. Use StandardScaler to normalize the dataset
+e. Remove the validation data from the dataset before training
+f. Train/Test Split is test_size = 0.2, random_state = 101
+
+Questions:
+
+6. What is the optimized k-value of the model?
+7. Using the optimized k-value of the model, what is the model's accuracy?
+8. What is the True Positive value based on the confusion matrix?
+9. What is the prediction for validation data number 1? Malignant (M) or Benign (B)?
+10. What is the predictio for validation data number 2? Malignant (M) or Benign (B)?
+
+
+
+
+
+
+
+
+
