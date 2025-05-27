@@ -51,7 +51,7 @@ Questions (Write on Paper):
    Sample answer: C = 3.5, kernel = 'poly'
 
 7. Using the best parameter, what is the accuracy of the SVM model?
-8. What is the True Positive value based on the confusion matrix of the best model?
+8. What is the True Positive value based on the confusion matrix of the best model (upper left only)?
 9. What is the 'Species' for validation data number 1?
 10. What is the 'Species' for validation data number 2?
 
