@@ -1,0 +1,59 @@
+Lab Number 01: Apriori (All Labs)
+
+| TID | Items Bought |
+| --- | ------------ |
+| 1   | U, V, W      |
+| 2   | U, W, X      |
+| 3   | V, W, Y      |
+| 4   | U, V, X, Y   |
+| 5   | U, V, W, Y   |
+| 6   | V, X, Z      |
+| 7   | U, W, Y      |
+| 8   | U, V, W, X   |
+| 9   | V, W, X, Y   |
+| 10  | U, W, X, Y   |
+| 11  | U, V, Z      |
+| 12  | W, X, Y      |
+| 13  | U, V, W, Y   |
+| 14  | V, X, Y, Z   |
+| 15  | U, W, X      |
+
+Q1. What is the support count of {U}?
+Q2. What is the support of {U}?
+Q3. What is the support count of {U, W}?
+Q4. What is the support of {U, W}?
+Q5. What is the support count of {V, Y}?
+Q6. What is the support of {V, Y}?
+Q7. What is the confidence of rule {U} → {W}?
+Q8. What is the confidence of rule {W} → {U}?
+Q9. What is the support count of {W, X}?
+Q10. What is the confidence of rule {W} → {X}?
+Q11. What is the lift of rule {U} → {W}?
+Q12. What is the lift of rule {W} → {U}?
+Q13. What is the support count of {V, X, Y}?
+Q14. What is the confidence of rule {V, X} → {Y}?
+Q15. What is the lift of rule {V, X} → {Y}?
+Q16. Between the rules {V} → {Y} and {W} → {X}, which one is stronger in terms of lift,
+and what does it imply?
+
+PART 2: 
+Given the following dataset ('Apriori Data.csv') in Google Collab, answer the following:
+min_support = 0.2
+min_threshold = 0.2
+
+Q17: What itemset/s has the least support?
+Q18: According to Association Rules, what is the most superior rule that makes an applicant 'Employable'?
+Q19: Does {'Underemployed'} and {'Grit-1'} have strong assocation? Explain
+Q20: Does {'Grit - 2', 'Technical Skills - Good'} makes you {'Employable'}? Explain
+
+
+
+
+
+
+
+
+
+
+
+
