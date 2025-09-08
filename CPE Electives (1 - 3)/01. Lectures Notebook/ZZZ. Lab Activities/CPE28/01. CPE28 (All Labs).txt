@@ -46,6 +46,100 @@ Q18: According to Association Rules, what is the most superior rule that makes a
 Q19: Does {'Underemployed'} and {'Grit-1'} have strong assocation? Explain
 Q20: Does {'Grit - 2', 'Technical Skills - Good'} makes you {'Employable'}? Explain
 
+-x-x-x-x-x-x-x
+
+
+
+Lab Number 02: FP-Growth (All Labs)
+
+01. Given the following transactions, construct the corresponding FP-Tree
+
+T1: A, B, C
+T2: A, C, D
+T3: B, C, E
+T4: A, B, D, E
+T5: A, B, C, E
+T6: B, D
+T7: A, C, E
+T8: A, B, C, D
+T9: B, C, D, E
+T10: A, C, D, E
+T11: A, B
+T12: C, D, E
+T13: A, B, C, E
+T14: B, D, E
+T15: A, C, D
+
+02 - 04. Give me at least 3-itemset (e.g. {A, B, C}) combinational conditional pattern base of node E?
+05. What is the support count of {C, E}?
+06. What is the support count of {A, B, C}?
+06. What is the support of {A,B}?
+07. What is the support of {C, D, E}?
+08. What is the confidence {A} --> {C}?
+09. What is the confidence of {A, B} --> {C}?
+10. What is the confidence of {A, D} --> {C}?
+11. What is the lift of {C, E} --> {D}?
+12. What is the lift of {B, D} --> {E}?
+13. What is the lift of {A, D} --> {C}?
+
+Using 'loan_approval.csv', process the Association Rule Mining using FP-Growth with min_support = 0.1 & min_threshold = 0.1
+
+14. What is the most pressing association rule for the loan approval?
+15. What is the most pressing association rule for the loan disapproval?
+
+
+
+-x-x-x-x-x-x-x
+
+
+
+Lab Number 03: KMeans Clustering with Dimensionality Reduction (All Labs)
+
+Instructions
+
+a. From the Dataset repository load (personnel_data.csv)
+b. We will used random_state = 101, and n_init = 'auto' for KMeans
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+
+1. Without using correlational analysis, which two (2) variables do you think is safe to eliminate immediately?
+
+Please scale the cleaned data using a StandardScaler()
+
+2. What is now the scaled value for Salary of data 125?
+3. What is now the scaled value for Experience of data 130?
+
+Next, please reduced the variables using correlational analysis.
+
+4. If we set a threshold of greater than 0.66 (absolute) and above, which do you think (variable) will be eliminated?
+
+To set uniformity in elimination, eliminate the variable/s first based on alphabetical order.
+(Eg. If Assignments and Grades is highly correlated, eliminate Assignments)
+
+5. Based on Elbow Graph or S-Scores, what is the optimal number of clusters?
+6. Based on boxplots or any method, which cluster has the higher salary?
+7. Based on boxplots or any method, which cluster has the higher age?
+8. Data 305 belongs to what cluster after implementation of K-Means clustering with the optimized number of K?
+09. What is the centroid of Age and Salary? (Eg. [0.11, 0.21])
+
+10. Based on the visualization, does age matter in having higher salary? 
+      Explain why in your own perspective based on data.
+
+I will check the following on your emailed NOTEBOOK:
+
+a. Visualize the x = Age and y = Salary points, Show Data 305 with marker of star (*), color red, Show centroids with black (X) mark.
+b. Visualize the x = Age, y = Salary, and z = JobSatisfaction points, Show or Trace Data 305 with black circle, using scatter_3D.
+
+
+-x-x-x-x-x-x-x
+
+
+
+
+
+
+
 
 
 
