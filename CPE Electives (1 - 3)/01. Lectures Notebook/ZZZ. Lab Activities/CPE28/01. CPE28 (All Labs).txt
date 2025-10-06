@@ -247,12 +247,12 @@ Instructions
 
 a. From the Dataset repository load (Mall_Customers.csv)
 b. We will use random_state = 101 where applicable
-c. Remove 'CustomerID', convert Gender to numerical (dummies).
+c. Remove CustomerID, remove Gender.
 c. Use a MinMax Scaler where applicable
-d. Linkage = 'ward', distance = 'Euclidean'
+d. Linkage = 'ward'
 
 
-12. How many principal components will it take to achieve at least 80% of explained variance (using gender, age, annual income and spending score)?
+12. How many principal components will it take to achieve at least 80% of explained variance (using age, annual income and spending score)?
 13. Based on the dendrogram, what is the most optimal number of clusters?
 14. What cluster does Data 50 belong using 2D scatter plot?
 15. What cluster does Data 50 belong using 3D scatter plot?
