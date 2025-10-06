@@ -135,7 +135,7 @@ b. Visualize the x = Age, y = Salary, and z = JobSatisfaction points, Show or Tr
 -x-x-x-x-x-x-x
 
 
-Lab Number 04: DBSCAN
+Lab Number 04 & 05: DBSCAN
 
 
 PART 1:
@@ -194,8 +194,73 @@ Answer the following (Write your answer on your paper)
 
 14. Explain what are the challenges that you will encounter in setting the values of epsilon & min_samples using DBSCAN. Maximum of two sentences only.
 
-15. In your own opinion, which one is better K-Means or DBSCAN? Maximu of two sentences only.
+15. In your own opinion, which one is better K-Means or DBSCAN? Maximum of two sentences only.
 
+-x-x-x-x-x-x-x
+
+Lab Number 06: Prelims
+
+-x-x-x-x-x-x-x
+
+Lab Number 07: Clustering Using PCA
+
+Instructions
+
+a. From the Dataset repository load (cluster_mpg.csv)
+b. We will use random_state = 101 where applicable
+
+Answer the following (Write your answer on your paper)
+* For numbers with decimal values, up to two decimal places without rounding *
+
+1. Which column can be safely remove from the dataset? Write the answer on your paper.
+
+   Please drop the column you deemed to be irrelevant for clustering
+   Before scaling the data using a Standard Scaler, please encode (dummy variables) the column 'origin' into 0s and 1s
+   as the values are not numerical without dropping a single column (e.g. origin_europe, origin_japan, origin_usa) wit astype('float')
+   As a reference, please see Random Forest (Penguin)
+
+2. What is the scaled value of data or index 85 after scaling in terms of displacement? Write the answer on your paper.
+
+    Perform a Principal Component Analysis on the scaled data.
+
+3. What is the explained variance of PC0?
+4. What is the total explained variance of PC0 and PC1? 
+5. What is the total explained variance of PC0, PC1 and PC2?
+6. Using only two principal components, what is the value of PC0 and PC1 at index 285?
+7. Using three principal components, what is the value of PC0, PC1, and PC2 at index 300?
+
+8. Perform a KMeans Clustering, what is the optimal number of K based on PC0 and PC1? Write the answer on your paper.
+9. Perform a DBSCAN Clustering. Based on testing, what is the optimal epsilon score strictly based on the graph alone?
+10. What are you recommending as the min_samples value based strictly on best practice?
+11. How many outliers can the DBSCAN detect based on the optimal epsilon score and the recommended min_samples? 
+
+I will check the following on NOTEBOOK:
+
+a. Visualize the x = PC0 and y = PC1, Show Data 200 with marker of star (*) using 2D scatter plot
+b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 200 with black circle, using scatter_3D.
+
+-x-x-x-x-x-x-x
+
+Lab Number 08: Hierarchical Clustering
+
+Instructions
+
+a. From the Dataset repository load (Mall_Customers.csv)
+b. We will use random_state = 101 where applicable
+c. Remove 'CustomerID', convert Gender to numerical (dummies).
+c. Use a MinMax Scaler where applicable
+d. Linkage = 'ward', distance = 'Euclidean'
+
+
+12. How many principal components will it take to achieve at least 80% of explained variance (using gender, age, annual income and spending score)?
+13. Based on the dendrogram, what is the most optimal number of clusters?
+14. What cluster does Data 50 belong using 2D scatter plot?
+15. What cluster does Data 50 belong using 3D scatter plot?
+
+I will check the following on NOTEBOOK:
+
+a. Visualize the x = PC0 and y = PC1, Show Data 50 with marker of star (*) using 2D scatter plot
+b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 50 with black circle, using scatter_3D.
 
 
 
