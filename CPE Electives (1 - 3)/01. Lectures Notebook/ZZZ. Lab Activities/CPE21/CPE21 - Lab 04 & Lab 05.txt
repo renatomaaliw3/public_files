@@ -1,4 +1,4 @@
-Week 4 Lab
+Week 4 and Week 5 Lab
 
 A. Using Exponential Smoothing, answer the following
 (Use 'time_series_data_015.csv' dataset)
