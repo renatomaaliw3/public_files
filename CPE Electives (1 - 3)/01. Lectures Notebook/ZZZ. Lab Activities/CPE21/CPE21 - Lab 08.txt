@@ -14,5 +14,5 @@ Questions (Write on Paper):
 
 1. 	What is the accuracy of the model based on classification report?
 2. 	What is the prediction on the 1st validation data? (0 or 1)?
-3. 	What is the prediction on the 2nd validation data? (0 or 1?
+3. 	What is the prediction on the 2nd validation data? (0 or 1)?
 4 to 5. Give at least two variables that can highly predict the 'Outcome Predicton' based on Logistics Graphs
