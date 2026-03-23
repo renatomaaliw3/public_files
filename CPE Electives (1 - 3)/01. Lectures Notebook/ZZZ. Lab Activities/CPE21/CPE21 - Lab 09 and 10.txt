@@ -1,0 +1,53 @@
+Lab 10 (K-Nearest Neighbors)
+Instructions:
+a. Load Dataset 'wisconsin_data-02.csv'
+b. Insert a validation data at the end of the dataframe
+
+data = [[2.68, 23.84, 82.69, 499, 0.1122, 0.1262, 0.1128, 0.06873, 0.1905, 0.0659, 0.4255, 1.178, 2.927, 36.46,	0.007781,
+        0.02648, 0.02973, 0.0129, 0.01635, 0.003601, 17.09, 33.47, 111.8, 888.3, 0.1851, 0.4061, 0.4024, 0.1716, 0.3383, 0.103, 'Unknown'],
+
+        [3.08, 15.71, 85.63, 520, 0.1075, 0.127, 0.04568, 0.0311, 0.1967, 0.06811, 0.1852, 0.7477, 1.383, 14.67, 0.004097, 0.01898, 0.01698, 0.00649, 0.01678,
+         0.002425, 14.5, 20.49,	96.09, 630.5, 0.1312, 0.2776, 0.189, 0.07283, 0.3184, 0.0818, 'Unknown']]
+
+c. Use StandardScaler to normalize the dataset
+e. Remove the validation data from the dataset before training
+f. Train/Test Split is test_size = 0.2, random_state = 101
+g. If the model requires a random_state use 101
+
+Questions (Write on Paper):
+
+1. What is the optimized k-value of the model?
+2. Using the optimized k-value of the model, what is the model's accuracy?
+3. What is the True Positive value based on the Confusion matrix of your chosen optimized model?
+4. What is the prediction for validation data number 1? Malignant (M) or Benign (B)?
+5. What is the prediction for validation data number 2? Malignant (M) or Benign (B)?
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+Lab 11 (Decision Trees)
+
+Instructions:
+a. Load Dataset 'Iris (5).csv'
+b. Drop unwanted columns that will not contribute to the prediction of 'Species'
+c. There are missing 'Species' data in the dataset with 'NaN' at index 150 to 157
+
+   Replace them scientifically based on existing data.
+
+   It is better to check the closest (probable) values, this is crucial for the correct answer onwards.
+
+   You are on you own with this one, replace the missing 'Species' (NaN) values based on the mean features by grouping (groupby) 'Species' and finding its mean (.mean())
+   Replace missing 'Species' of data 150 to 157 from your corresponding analysis by using df.at[index, column] = ['Species Values']
+
+   Example: df.at[150, 'Species'] = 'Iris-Setosa'
+
+d. Where applicable, use random_state = 101 for the model itself and for train_test_split
+e. Test size = 0.3
+
+Questions (Write on Paper):
+
+6. 	What is the accuracy of the Decision Tree model based on classification report?
+7. 	What is the Species on if I have [4.95, 2.9, 1.3, 0.1]
+8. 	What is the Species on if I have [2.45, 3.9, 2.5, 0.2]
+9.	What is the most important variable in the dataset for prediction?
+10.      How many terminal nodes from your generated Decision Tree?
+
