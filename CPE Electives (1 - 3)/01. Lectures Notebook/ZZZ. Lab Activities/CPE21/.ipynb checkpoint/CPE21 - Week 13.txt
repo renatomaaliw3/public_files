@@ -1,0 +1,27 @@
+Lab 13 (Random Forest)
+
+Instruction:
+
+1. Load dataset 'ece-data-reduced.csv'
+2. Prepare the dataset to a format acceptable for Random Forest modeling
+3. Test size is 0.30, random_state = 101
+3. If the model requires a random state set it to 101
+
+Questions:
+
+1. 	What is the accuracy of the model withou using grid search/optimization?
+2. 	What are the best hyperparameters based on grid search using the following:
+   
+   	n_estimators = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200]
+   	max_features = [1, 2, 3, 4, 5]
+   	bootsrap = [True, False]
+   	oob_score = [True, False]
+
+3. 	What is the new accuracy of the model using optimized hyperparameters?
+4. 	Which feature (variable) is the most important?
+5. 	Generate a random forest visualization and select estimator to index 10 (Write on paper 'On Notebook')
+6 to 8. What is the prediction for this data:
+
+   	[2.25, 2.12, 2.72, 1, 0]
+   	[2.55, 2.57, 2.25, 0, 1]
+   	[2.35, 2.47, 2.35, 0, 1]

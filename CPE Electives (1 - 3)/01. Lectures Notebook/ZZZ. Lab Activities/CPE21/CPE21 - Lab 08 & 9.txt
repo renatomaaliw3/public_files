@@ -1,4 +1,4 @@
-Lab 10 (Logistic Regression)
+Lab 08 and 09 (Logistic Regression)
 
 Instructions:
 a. Load Dataset 'cancer_coded.csv'

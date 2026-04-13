@@ -1,4 +1,4 @@
-Lab 09 (K-Nearest Neighbors)
+Lab 10 (K-Nearest Neighbors)
 Instructions:
 a. Load Dataset 'wisconsin_data-02.csv'
 b. Insert a validation data at the end of the dataframe
@@ -24,7 +24,7 @@ Questions (Write on Paper):
 
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 
-Lab 10 (Decision Trees)
+Lab 11 (Decision Trees)
 
 Instructions:
 a. Load Dataset 'Iris (5).csv'
