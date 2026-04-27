@@ -1,0 +1,30 @@
+Lab 13 (Support Vector Machines)
+
+Instructions:
+a. Load Dataset 'Iris (5).csv'
+b. Drop unwanted columns that will not contribute to the prediction of 'Species'
+c. There are missing 'Species' data in the dataset with 'NaN'.
+   Replace them scientifically based on existing data.
+   It is better to check the closes (probable) values, this is crucial for the correct answer onwards.
+   You are on you own with this one, replace the missing 'Species' (NaN) values based on the mean features by grouping 'Species' and finding its mean
+   Replace missing 'Species' of data 150 to 157 from your corresponding analysis by using df.at[index, column] = ['Species Values']
+
+d. Validation data = [[3.15, 3.2, 1.21, 0.2, 'Unknown'],
+                     [1.35, 4.1, 1.7, 0.2], 'Unknown']
+e. Since we are using SVM, you need to use StandardScaler to normalize the dataset
+f. Remove the validation data from the dataset before training
+d. Where applicable, use random_state = 101 for the model itself and for train_test_split
+e. Test size = 0.3
+
+Questions (Write on Paper):
+
+6. What is the the best model based on grid search with the following values:
+   {'C': [0.01, 0.05, 0.1, 0.5, 1, 1.5, 3, 5, 10, 25, 50, 100], 'kernel': ['linear', 'rbf', 'poly']}
+
+   Sample answer: C = 3.5, kernel = 'poly'
+
+7. Using the best parameter, what is the accuracy of the SVM model?
+8. What is the True Positive value based on the confusion matrix of the best model (upper left only)?
+9. What is the 'Species' for validation data number 1?
+10. What is the 'Species' for validation data number 2?
+11. Plot SepalLength and PetalLength showing the hyperplane (Write on notebook)
