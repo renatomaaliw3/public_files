@@ -1,4 +1,4 @@
-Lab 13 (Support Vector Machines)
+Lab 14 (Support Vector Machines)
 
 Instructions:
 a. Load Dataset 'Iris (5).csv'
