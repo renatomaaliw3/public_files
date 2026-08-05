@@ -125,7 +125,7 @@ To set uniformity in elimination, eliminate the variable/s first based on alphab
 6. Based on boxplots or any method, which cluster has the higher salary?
 7. Based on boxplots or any method, which cluster has the higher age?
 8. Data 305 belongs to what cluster after implementation of K-Means clustering with the optimized number of K?
-09. What is the centroid of Age and Salary? (Eg. [0.11, 0.21])
+09. What is the centroid of Age and Salary for Cluster 0? (Eg. [0.11, 0.21])
 
 10. Based on the visualization, does age matter in having higher salary? 
       Explain why in your own perspective based on data.
