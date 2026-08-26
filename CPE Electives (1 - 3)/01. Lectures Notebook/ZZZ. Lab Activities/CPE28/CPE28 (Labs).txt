@@ -203,6 +203,36 @@ Answer the following (Write your answer on your paper)
 Note: Email only the notebook of PART 3
 
 
+--x-x-x-x--x--x--x--
+
+
+Lab Number 05: Hierarchical Clustering
+
+Instructions
+
+a. From the Dataset repository load (Mall_Customers.csv)
+b. We will use random_state = 101 where applicable
+c. Remove CustomerID, remove Gender.
+c. Use a MinMax Scaler where applicable
+d. Linkage = 'ward'
+
+01. How many principal components will it take to achieve at least 80% of explained variance (using age, annual income and spending score)?
+02. What is the total explained variance of PC0 and PC1? 
+03. What is the total explained variance of PC0, PC1 and PC2?
+04. Using only two principal components, what are the values of PC0 and PC1 at index 25?
+05. Using three principal components, what are the values of PC0, PC1, and PC2 at index 30?
+06. Based on the dendrogram, what is the most optimal number of clusters?
+07. What cluster does Data 50 belong using 2D scatter plot?
+08. What cluster does Data 50 belong using 3D scatter plot?
+
+I will check the following on NOTEBOOK:
+
+a. Visualize the x = PC0 and y = PC1, Show Data 50 with marker of star (*) using 2D scatter plot
+b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 50 with black circle, using scatter_3D.
+
+-x-x-x-x-x-x-x
+
+
 
 
 
