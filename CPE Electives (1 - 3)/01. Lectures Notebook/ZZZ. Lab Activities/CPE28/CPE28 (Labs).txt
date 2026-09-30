@@ -251,7 +251,7 @@ c. Use a MinMax Scaler where applicable
 
 5. Test Gaussianity using Kurtosis, is X normally distributed?, is Y normally distributed?
 
-6. In general, does the data exhibits Gaussian properties? Explain in one sentence
+6. In general, does the data exhibit Gaussian properties? Explain in one sentence
 
 7. What is the best Silhouette Score during your testing?
 
