@@ -1,4 +1,4 @@
-Lab Number 01: Apriori (All Labs)
+Lab Number 1.1: Apriori (All Labs)
 
 | TID | Items Bought |
 | --- | ------------ |
@@ -52,7 +52,7 @@ Q20: Does {'Grit - 2', 'Technical Skills - Good'} makes you {'Employable'}? Expl
 
 
 
-Lab Number 02: FP-Growth (All Labs)
+Lab Number 1.2: FP-Growth (All Labs)
 
 01. Given the following transactions, construct the corresponding FP-Tree
 
@@ -97,7 +97,7 @@ Using 'loan_approval.csv', process the Association Rule Mining using FP-Growth w
 
 
 
-Lab Number 03: KMeans Clustering with Dimensionality Reduction
+Lab Number 1.3: KMeans Clustering with Dimensionality Reduction
 
 Instructions
 
@@ -139,7 +139,7 @@ b. Visualize the x = Age, y = Salary, and z = JobSatisfaction points, Show or Tr
 --x-x-x-x--x--x--x--
 
 
-Lab Number 04: DBSCAN
+Lab Number 1.4: DBSCAN
 
 
 PART 1:
@@ -206,7 +206,7 @@ Note: Email only the notebook of PART 3
 --x-x-x-x--x--x--x--
 
 
-Lab Number 05: Hierarchical Clustering
+Lab Number 1.5: Hierarchical Clustering
 
 Instructions
 
@@ -230,11 +230,70 @@ I will check the following on NOTEBOOK:
 a. Visualize the x = PC0 and y = PC1, Show Data 50 with marker of star (*) using 2D scatter plot
 b. Visualize the x = PC0, y = PC1, and z = PC2, Show or Trace Data 50 with black circle, using scatter_3D.
 
+-x-x-x-x-x-x-x MIDTERM -x-x-x-x-x-x-x
+
+Lab Number 2.1: Gaussian Mixture Model
+
+Instructions
+
+a. From the Dataset repository load (gaussian_101.csv)
+b. We will use random_state = 101 where applicable
+c. Use a MinMax Scaler where applicable
+
+1. Test Gaussianity using Q-Q Plot, is X normally distributed?, is Y normally distributed? 
+   (x = YES? NO?, y = YES? NO?)
+
+2. Test Gaussianity using Shapiro-Wilk Test, is X normally distributed?, is Y normally distributed?
+
+3. Test Gaussianity using Kolmogorov-Smirnov Test, is X normally distributed?, is Y normally distributed?
+
+4. Test Gaussianity using Skewness, is X normally distributed?, is Y normally distributed?
+
+5. Test Gaussianity using Kurtosis, is X normally distributed?, is Y normally distributed?
+
+6. In general, does the data exhibits Gaussian properties? Explain in one sentence
+
+7. What is the best Silhouette Score during your testing?
+
+8. What is the best Davies-Bouldin Score during your testing?
+
+9. What is the most reasonable number of clusters for your GMM?
+
 -x-x-x-x-x-x-x
 
+Lab Number 2.2: Spectral Clustering
+
+Instructions
+
+a. From the Dataset repository load (spectral_clustering_101.csv)
+b. We will use random_state = 101 where applicable
+c. Use a Standard Scaler where applicable
+
+1. After conducting TSNE with 2 components, how many clusters can you project? (2? 3? 4? 5? N?)
+2. After conducting TSNE with 3 components, is the number of clusters still obvious (YES? NO?)
+3. Based on Silhouette Score vs Number of Clusters, what is the reasonable number of cluster? (2? 3? 4? 5? N?)
+4. Using the Eigenvalue Spectrum at n_neighbors = 10 and n_components = 10, where do you see the sudden gap of values (2? 3? 4? 5? 6? N?)
+5. Based on your analysis, what is the reasonable number of clusters?
+6. Based on your analysis, what is the reasonable number of n_neighbors?
+7. What is the Adjusted RAND Index?
+
+-x-x-x-x-x-x-x
+
+Lab Number 2.3: OPTICS
+
+a. From the Dataset repository load (optics_101.csv)
+b. We will use random_state = 101 where applicable
+c. Use Grid
+   [5, 10, 15, 20, 25, 50] for min_samples
+   [0.02, 0.05, 0.075, 0.1, 0.2] for xi
 
 
-
+1. Using OPTICS reachability plot, how many well-defined peaks can you see?
+2. What is the best min_samples for this dataset?
+3. What is the best xi for this dataset?
+4. How many clusters are created based on your reasonable min_samples and xi?
+5. If you will have the freedom to modify the best min_samples and xi? 
+   What will be its values?
 
 
 
