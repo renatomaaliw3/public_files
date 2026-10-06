@@ -236,7 +236,7 @@ Lab Number 2.1: Gaussian Mixture Model
 
 Instructions
 
-a. From the Dataset repository load (gaussian_101.csv)
+a. From the Dataset repository load (gaussian-101.csv)
 b. We will use random_state = 101 where applicable
 c. Use a MinMax Scaler where applicable
 
