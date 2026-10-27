@@ -296,4 +296,40 @@ c. Use Grid
    What will be its values?
 
 
+-x-x-x-x-x-x-x FINALS -x-x-x-x-x-x-x
+
+Lab Number 3.1: Natural Language Processing - Lab 01
+
+1. How many token/s are created for the phrase?
+
+"Hello, Python 3.14! Today is October 27, 2026. I bought 5 apples for ₱150.75, received a 20% discount, and emailed test@example.com. Wow! #MachineLearning @DataScience & AI: Are you ready? 
+Let's code!"
+
+2. What part of speech (POS) is [for] in the phrase?
+
+"Hello, world! I bought 3 books for ₱250.50—great deal, right? #Python @2026"
+
+3. What word/s are the dependent for the word [on]>
+
+"Wow! I scored 95% on Quiz #2—awesome, right?"
+
+4. Count how many of each VERB POS appear in the phrase.
+
+"Hey! My 2nd project costs ₱500.75—is that 10% off? #Coding @Python!"
+
+5. Using a Porter Stemmer what is the stemmed word for "organization"?
+6. Using a SnowBall Stemmer what is the stemmed word for "bloatedness"?
+7. What is the Lemma for the word "committee"?
+8. What is the Lemma for the word "astronomical?
+9. What is the Lemma for the word "symmetrical?
+10. How many stopwords are inside the phrase:
+
+"Yesterday, I visited 3 bookstores and bought 12 books for ₱1,250.75! My friend asked, 'Is that really worth it?' Of course!"
+
+11. 
+
+
+
+
+
 
