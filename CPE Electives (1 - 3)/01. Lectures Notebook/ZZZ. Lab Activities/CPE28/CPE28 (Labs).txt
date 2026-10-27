@@ -298,7 +298,7 @@ c. Use Grid
 
 -x-x-x-x-x-x-x FINALS -x-x-x-x-x-x-x
 
-Lab Number 3.1: Natural Language Processing - Lab 01
+Lab Number 3.1: Natural Language Processing - Basics
 
 1. How many token/s are created for the phrase?
 
@@ -326,7 +326,30 @@ Let's code!"
 
 "Yesterday, I visited 3 bookstores and bought 12 books for ₱1,250.75! My friend asked, 'Is that really worth it?' Of course!"
 
-11. 
+Lab Number 3.2: Natural Language Processing - Text Classification
+
+Instruction:
+
+a. Load data headline.tsv
+b. If applicable, random_state = 42
+c. Use MultiNomialNB as the model
+d. test_size = 0.25
+
+Answer the following questions
+
+1. How many headlines are "news"?
+2. How many headlines are "clickbait"?
+3. What is the accuracy of the model?
+4. Based on the confusion matrix, how many are the TOTAL misclassified headlines?
+5. How many are True Positives?
+6. How many are True Negatives?
+
+Identify the text classification of the phrase based strictly on the model/s: (clickbait or news?)
+
+07. "You Won't Believe What This Teacher Did For Her Students" 
+08. "President Signs New Law on Public School Funding"
+09. "101 Things Only Filipino Students Will Understand"
+10. "Typhoon Forces Schools to Close in Northern Luzon"
 
 
 
